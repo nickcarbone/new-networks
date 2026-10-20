@@ -1,0 +1,2318 @@
+                            ITU Operational Bulletin
+                                                             www.itu.int/itu-t/bulletin
+
+            No. 1348              15.IX.2026                 (Information received by 31 August 2026) ISSN 1564-5223 (Online)
+      Place des Nations CH-1211                              Standardization Bureau (TSB)                                   Radiocommunication Bureau (BR)
+      Genève 20 (Switzerland)                                Tel:     +41 22 730 5211                                       Tel:    +41 22 730 5560
+      Tel:      +41 22 730 5111                              Fax:     +41 22 730 5853                                       Fax:    +41 22 730 5785
+      E-mail: itumail@itu.int                                E-mail: tsbmail@itu.int / tsbtson@itu.int                      E-mail: brmail@itu.int
+
+
+
+
+                                                                    Table of Contents
+                                                                                                                                                                 Page
+GENERAL INFORMATION
+Lists annexed to the ITU Operational Bulletin: Note from TSB .......................................................................                              3
+Approval and deletion of ITU-T Recommendations…………………………………………… ………………………………………                                                                                   4
+Extra-territorial use of Mobile Country Code (MCC) and Mobile Network Code (MNC): Note from TSB………                                                                7
+Telephone Service:
+     Botswana (Botswana Communications Regulatory Authority (BOCRA), Gaborone).................................                                                   8
+     Guyana (Telecommunications Agency, Georgetown) ................................................................................                             32
+     Iran (Islamic Republic of) (Communications Regulatory Authority (CRA), Tehran)....................................                                          37
+     Papua New Guinea (National Information & Communications Technology Authority (NICTA), Boroko) ..                                                            41
+List of Ship Stations and Maritime Mobile Service Identity Assignments (List V)...........................................                                       42
+Service Restrictions .........................................................................................................................................   43
+Call-Back and alternative calling procedures (Res. 21 Rev. PP-06) ..................................................................                             43
+AMENDMENTS TO SERVICE PUBLICATIONS
+List of Issuer Identifier Numbers ....................................................................................................................           44
+Mobile Network Codes (MNC) for the international identification plan for public
+networks and subscriptions ............................................................................................................................          45
+List of International Signalling Point Codes (ISPC) ..........................................................................................                   46
+
+
+
+
+                                                                                                                                      www.itu.int
+               Dates of publication of the next   Including information
+                   Operational Bulletins               received by:
+               1349              1.X.2026              15.IX.2026
+               1350             15.X.2026              30.IX.2026
+               1351              1.XI.2026             15.X.2026
+               1352             15.XI.2026             31.X.2026
+               1353             1.XII.2026             13.XI.2026
+               1354             15.XII.2026            30.XI.2026
+               1355              1.I.2027             11.XII.2026
+
+
+
+
+No. 1348 – 2                                                              ITU Operational Bulletin
+                                                GENERAL INFORMATION
+                              Lists annexed to the ITU Operational Bulletin
+Note from TSB
+A.     The following Lists have been published by TSB or BR as Annexes to the ITU Operational Bulletin (OB):
+OB No.
+1317 List of Data Network Identification Codes (DNIC) (According to ITU-T Recommendation X.121 (10/2000)) (Position
+      on 1 June 2025)
+1295 List of International Signalling Point Codes (ISPC) (According to Recommendation ITU-T Q.708 (03/1999))
+      (Position on 1 July 2024)
+1293 List of Signalling Area/Network Codes (SANC) (Complement to Recommendation ITU-T Q.708 (03/1999)) (Position
+      on 1 June 2024)
+1283 List of Issuer Identifier Numbers (In accordance with Recommendation ITU-T E.118 (05/2006)) (Position on
+      31 December 2023)
+1280 Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions
+      (According to Recommendation ITU-T E.212 (09/2016)) (Position on 15 November 2023)
+1251 Status of Radiocommunications between Amateur Stations of Different Countries (In accordance with optional
+      provision No. 25.1 of the Radio Regulations) and Form of Call Signs assigned by each Administration to its Amateur
+      and Experimental Stations (Position on 1 September 2022)
+1125 List of terrestrial trunk radio mobile country codes (Complement to Recommendation ITU-T E.218 (05/2004))
+      (Position on 1 June 2017)
+1117 List of mobile country or geographical area codes (Complement to Recommendation ITU-T E.212 (09/2016))
+      (Position on 1 February 2017).
+1114 List of Recommendation ITU-T E.164 assigned country codes (Complement to Recommendation ITU-T E.164
+      (11/2010)) (Position on 15 December 2016)
+1096 Legal time 2016
+1060 List of ITU Carrier Codes (According to ITU-T Recommendation M.1400 (03/2013) (Position on 15 September 2014)
+1015 Access codes/numbers for mobile networks (According to ITU-T Recommendation E.164 (11/2010)) (Position on
+      1 November 2012)
+1002 List of Country or Geographical Area Codes for non-standard facilities in telematic services (Complement to ITU-
+      T Recommendation T.35 (02/2000)) (Position on 15 April 2012)
+1001 List of the national authorities designated to assign ITU-T Recommendation T.35 terminal provider codes (Position
+      on 1 April 2012)
+1000 Service Restrictions (Recapitulatory list of service restrictions in force relating to telecommunications operation)
+      (Position on 15 March 2012)
+994 Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number) (In accordance
+      with ITU-T Recommendation E.164 (11/2010)) (Position on 15 December 2011)
+991 Call-Back and alternative calling procedures (Res. 21 Rev. PP-06)
+980 List of Telegram Destination Indicators (In accordance with ITU-T Recommendation F.32 (10/1995)) (Position on
+      15 May 2011)
+978 List of Telex Destination Codes (TDC) and Telex Network Identification Codes (TNIC) (Complement to ITU-T
+      Recommendations F.69 (06/1994) and F.68 (11/1988)) (Position on 15 April 2011)
+976 List of Data Country or Geographical Area Codes (Complement to ITU-T Recommendation X.121 (10/2000))
+      (Position on 15 March 2011)
+974 List of Names of Administration Management Domains (ADMD) (In accordance with ITU-T F.400 and X.400 series
+      Recommendations) (Position on 15 February 2011)
+955 Various tones used in national networks (According to ITU-T Recommendation E.180 (03/1998)) (Position on 1
+      May 2010)
+669 Five-letter Code Groups for the use of the International Public Telegram Service (According to ITU-T
+      Recommendation F.1 (03/1998))
+B.    The following Lists are available online from the ITU-T website:
+List of ITU Carrier Codes (ITU-T Rec. M.1400)                www.itu.int/ITU-T/inr/icc/index.html
+Bureaufax Table (ITU-T Rec. F.170)                           www.itu.int/ITU-T/inr/bureaufax/index.html
+List of recognized operating agencies (ROAs)                 www.itu.int/ITU-T/inr/roa/index.html
+
+
+
+
+ ITU Operational Bulletin                                                                                  No. 1348 – 3
+                      Approval and deletion of ITU-T Recommendations
+Approved Recommendations:
+By AAP-43, it was announced that the following ITU-T Recommendations were approved, in accordance with the
+procedures outlined in Recommendation ITU-T A.8:
+–     ITU-T F.740.16 (08/2026): Functional requirements and detailed framework for cloud-based augmented reality
+      systems
+–     ITU-T F.740.17 (08/2026): Functional requirements for enhanced optimized processing of cloud virtual reality
+      systems
+–     ITU-T F.740.18 (08/2026): Requirements of holographic interactive multimedia service based on core cloud and
+      edge cloud
+–     ITU-T F.740.19 (08/2026): Technical requirements of object recognition for digital representation of cultural
+      relics/artworks using augmented reality
+–     ITU-T F.740.20 (08/2026): Metadata for recording spatial and temporal information of outdoor cultural heritage
+      based on universal scene description format
+–     ITU-T F.740.21 (08/2026): Requirements and reference framework for large-scale virtual reality system of cultural
+      heritage sites
+–     ITU-T F.743.40 (08/2026): Requirements and framework of substation intelligent visual inspection system
+–     ITU-T F.743.41 (08/2026): Requirements and framework for anomaly detection service leveraging machine vision
+      in photovoltaic farms
+–     ITU-T F.746.24 (08/2026): Technical requirements and architecture on artificial intelligence-based media
+      processing service
+–     ITU-T F.746.26 (08/2026): Functional architecture of interactive low-latency multimedia transmission system
+–     ITU-T F.746.28 (08/2026): Framework for content verification of AI-based online games
+–     ITU-T F.747.18 (08/2026): Requirements and Framework for Machine-Vision-Based Inspection Services in
+      Underground Cable Channels
+–     ITU-T F.748.82 (08/2026): Framework for the robustness training of visual model based on deep learning
+–     ITU-T F.748.84 (08/2026): Functional architecture of federated machine learning based service in decentralized
+      environments
+–     ITU-T F.748.85 (08/2026): Assessment criteria for foundation models - Vision
+–     ITU-T F.748.86 (08/2026): Requirements of multimedia composite data pre-processing
+–     ITU-T F.748.87 (08/2026): Requirements for real-time super-resolution service based on artificial intelligence
+–     ITU-T F.748.88 (08/2026): Requirements for construction of ontology knowledge base for household service
+      robots
+–     ITU-T F.748.89 (08/2026): Requirements for construction of ontology knowledge base of home environment for
+      robot interaction
+–     ITU-T F.748.90 (08/2026): Framework and technical requirements for knowledge engineering applications based
+      on foundation models
+–     ITU-T F.748.91 (08/2026): Requirements and evaluation metrics for large language model operators
+–     ITU-T F.748.93 (08/2026): Framework and Requirements for AI Agent Interoperability
+–     ITU-T F.749.22 (08/2026): Functional requirements for software-defined vehicle service based on vehicle gateway
+      platforms
+–     ITU-T F.749.23 (08/2026): Requirements and methods for bird's-eye view sensor fusion data labelling in
+      connected and automated vehicles
+–     ITU-T F.749.24 (08/2026): Framework and Requirements for AI-enabled Vehicle Voice Assistant
+
+
+
+No. 1348 – 4                                                                                 ITU Operational Bulletin
+–        ITU-T F.749.25 (08/2026): Framework, requirements and evaluation methods for driver distraction detection
+         system
+–        ITU-T F.749.26 (08/2026): Requirements for automated parking service based on vehicle gateway platform
+–        ITU-T F.751.29 (08/2026): Framework for distributed ledger technology-based data management of energy
+         storage battery system
+–        ITU-T F.751.32 (08/2026): Framework and requirements for tracking of digital assets based on distributed ledger
+         technology
+–        ITU-T F.751.33 (08/2026): Framework of distributed ledger technology-based data management for software
+         supply chain
+–        ITU-T F.751.34 (08/2026): Maturity model of permissioned distributed ledger technology applications
+–        ITU-T F.751.36 (08/2026): Framework and requirement for DLT-based data management of product traceability
+         services
+–        ITU-T F.780.6 (V3) (08/2026): Requirements for colorimetry for telemedicine systems using ultra-high definition
+         imaging
+–        ITU-T F.793.1 (08/2026): Requirements of accessible products and services in the metaverse- Part I System design
+         perspective
+–        ITU-T F.793.2 (08/2026): Requirements of accessible products and services in the metaverse - Part II User
+         perspective
+–        ITU-T G.672 (08/2026): Characteristics of multi-degree reconfigurable optical add/drop multiplexers
+–        ITU-T G.697 (08/2026): Optical monitoring for dense wavelength division multiplexing systems
+–        ITU-T G.709.3 (2024) Amd. 1 (08/2026): Flexible OTN B100G long-reach interfaces - Amendment 1
+–        ITU-T G.811.1 (2017) Amd. 1 (08/2026): Timing characteristics of enhanced primary reference clocks -
+         Amendment 1
+–        ITU-T G.812 (08/2026): Timing requirements of clocks suitable for use as node clocks in synchronization networks
+–        ITU-T G.7702 (2022) Amd. 2 (08/2026): Architecture for SDN control of transport networks - Amendment 2
+–        ITU-T G.7713/Y.1704 (2009) Amd. 1 (08/2026): Distributed call and connection management (DCM) -
+         Amendment 1
+–        ITU-T G.7721 (2025) Amd. 1 (08/2026): Management requirement and information model for synchronization -
+         Amendment 1
+–        ITU-T G.8011 (08/2026): Ethernet service characteristics
+–        ITU-T G.8020.3 (08/2026): Ethernet
+–        ITU-T G.8032/Y.1344 (2020) Cor. 2 (08/2026): Ethernet ring protection switching - Corrigendum 2
+–        ITU-T G.8260 (08/2026): Definitions and terminology for synchronization in packet networks
+–        ITU-T G.8262.1 (2025) Amd. 1 (08/2026): Timing characteristics of enhanced synchronous equipment clocks -
+         Amendment 1
+–        ITU-T G.8272 (2025) Amd. 1 (08/2026): Timing characteristics of primary reference time clocks - Amendment 1
+–        ITU-T G.8272.1 (2024) Amd. 2 (08/2026): Timing characteristics of enhanced primary reference time clocks -
+         Amendment 2
+–        ITU-T G.8272.2 (2024) Amd. 2 (08/2026): Timing characteristics of coherent network primary reference time
+         clocks - Amendment 2
+–        ITU-T G.8275 (2026) Amd. 1 (08/2026): Common aspects of PTP profiles for phase/time synchronization -
+         Amendment 1
+–        ITU-T G.8275.1 (2026) Amd. 1 (08/2026): Precision time protocol telecom profile for phase/time synchronization
+         with full timing support from the network - Amendment 1
+
+
+
+    ITU Operational Bulletin                                                                               No. 1348 – 5
+–       ITU-T G.8275.2 (2026) Amd. 1 (08/2026): Precision time protocol telecom profile for phase/time synchronization
+        with partial timing support from the network - Amendment 1
+–       ITU-T G.8312 (08/2026): Interfaces for metro transport networks
+–       ITU-T G.9903 (2017) Amd. 3 (08/2026): Narrowband orthogonal frequency division multiplexing power line
+        communication transceivers for G3-PLC networks - Amendment 3
+–       ITU-T G.9903 (2017) Cor. 2 (08/2026): Narrowband orthogonal frequency division multiplexing power line
+        communication transceivers for G3-PLC networks - Corrigendum 2
+–       ITU-T H.430.10 (08/2026): Functional requirements and frameworks for 3D model-based immersive telepresence
+        services
+–       ITU-T H.430.11 (08/2026): Requirements and framework of augmented reality for immersive live experience (ILE)
+        services
+–       ITU-T H.626.9 (08/2026): Architecture and metadata of digital twin model assembling and interaction services
+        for video surveillance systems
+–       ITU-T H.644.9 (08/2026): Mobile/multi-access content delivery network: Protocols
+–       ITU-T H.770.2 (08/2026): High-level interoperability architecture for cross-platform metaverse
+–       ITU-T J.1040 (2024) Amd. 1 (08/2026): Digital rights management for video and audio content distribution -
+        Requirements - Amendment 1
+–       ITU-T J.1045 (08/2026): Requirements of advanced digital content protection system for digital multimedia
+        interface
+–       ITU-T J.1115 (08/2026): Functional requirements for IP-based smart digital audio services
+–       ITU-T J.1116 (08/2026): Specifications for IP-based Smart Digital Audio Service: AI manager and Signalling
+–       ITU-T J.1293 (08/2026): Technical requirements and measurement methods for 4K UHD pluggable mini set-top
+        boxes
+–       ITU-T L.105 (2025) Cor. 1 (08/2026): Optical fibre cables for drop applications - Corrigendum 1
+–       ITU-T L.108 (08/2026): Optical fibre cable elements for microduct blowing-installation application
+–       ITU-T L.361 (08/2026): ID tag requirements for network infrastructures management
+–       ITU-T X.1287 (08/2026): Functional requirements for the integrated authentication service of telecommunication
+        operators
+–       ITU-T X.1378 (08/2026): Evaluation methodology for in-vehicle intrusion detection systems
+–       ITU-T X.1632 (08/2026): Framework of cryptographic key resource pool for multi-tenant cloud computing
+
+Deleted Recommendations:
+None.
+
+
+
+
+No. 1348 – 6                                                                                   ITU Operational Bulletin
+                      Extra-territorial use of Mobile Country Code (MCC)
+                               and Mobile Network Code (MNC)
+               (According to Recommendation ITU-T E.212 (09/2016) – Annex E)
+Note from TSB*
+Pursuant to Annex E to Recommendation ITU-T E.212, the Federal Network Agency for Electricity, Gas,
+Telecommunications, Post and Railway of Germany, and the Swedish Post and Telecom Authority (PTS) of Sweden, have
+notified to TSB that MCC+MNC 262 74 will be used extra-territorially.
+____________
+*    See current ITU Operational Bulletin No. 1348 of 15.IX.2026, page 45.
+
+
+
+
+    ITU Operational Bulletin                                                                       No. 1348 – 7
+                                        Telephone Service
+                                   (Recommendation ITU-T E.164)
+                                          See URL: www.itu.int/itu-t/nnp
+Botswana (country code +267)
+Communication of 1.IX.2026:
+The Botswana Communications Regulatory Authority (BOCRA), Gaborone, announces the updated national numbering
+plan of Botswana.
+
+
+                               Presentation of ITU-T E.164 national numbering plan
+                                               for country code 267
+
+
+Table 1: ITU-T E.164 – Non-Georgraphic (Mobile) Numbers
+      NDC (national
+   destination code) or
+ leading digits of N(S)N    N(S)N number length
+                                                                                              Additional
+  (national (significant)                                  Usage of E.164 number
+                                                                                             information
+         number)
+                            Maximum    Minimum
+                             length     length
+ 70x                           10         10        Non-geographic number for Mobile    Expansion for mobile
+ x=00000000-99999999                                service.                            services
+ 71x                           8           8        Non-geographic number for Mobile    Assigned to Mascom
+ x=000000-999999                                    service.                            Wireless
+ 72x                           8           8        Non-geographic number for Mobile    Assigned to Orange
+ x=000000-999999                                    service.                            Botswana
+ 73x                           8           8        Non-geographic number for Mobile    Assigned to Botswana
+ x=000000-999999                                    service                             Telecommunications
+                                                                                        Corporation Limited
+ 740x – 742x                   8           8        Non-geographic number for Mobile    Assigned to Mascom
+ x=00000-99999                                      service                             Wireless
+ 743x – 744x                   8           8        Non-geographic number for Mobile    Assigned to Orange
+ x=00000-99999                                      service                             Botswana
+ 745x – 747x                   8           8        Non-geographic number for Mobile    Assigned to Mascom
+ x=00000-99999                                      service                             Wireless
+ 748x                          8           8        Non-geographic number for Mobile    Assigned to Orange
+ x=00000-99999                                      service                             Botswana
+ 749x                          8           8        Non-geographic number for Mobile    Assigned to Botswana
+ x=00000-99999                                      service                             Telecommunications
+                                                                                        Corporation Limited
+ 750x – 753x                   8           8        Non-geographic number for Mobile    Assigned to Orange
+ x=00000-99999                                      service                             Botswana
+ 754x – 756x                   8           8        Non-geographic number for Mobile    Assigned to Mascom
+ x=00000-99999                                      service                             Wireless
+ 757x                          8           8        Non-geographic number for Mobile    Assigned to Orange
+ x=00000-99999                                      service                             Botswana
+ 758x                          8           8        Non-geographic number for Mobile    Assigned to Botswana
+ x=00000-99999                                      service                             Telecommunications
+                                                                                        Corporation Limited
+ 759x                          8           8        Non-geographic number for Mobile    Assigned to Mascom
+ x=00000-99999                                      service                             Wireless
+
+
+
+ No. 1348 – 8                                                                          ITU Operational Bulletin
+     NDC (national
+  destination code) or
+leading digits of N(S)N    N(S)N number length
+                                                                                          Additional
+ (national (significant)                              Usage of E.164 number
+                                                                                         information
+        number)
+                           Maximum    Minimum
+                            length     length
+760x – 762x                    8          8      Non-geographic number for Mobile   Assigned to Mascom
+x=00000-99999                                    service                            Wireless
+763x – 765x                   8           8      Non-geographic number for Mobile   Assigned to Orange
+x=00000-99999                                    service                            Botswana
+766x – 767x                   8           8      Non-geographic number for Mobile   Assigned to Mascom
+x=00000-99999                                    service                            Wireless
+768x                          8           8      Non-geographic number for Mobile   Assigned to Botswana
+x=00000-99999                                    service                            Telecommunications
+                                                                                    Corporation Limited
+769x                          8           8      Non-geographic number for Mobile   Assigned to Orange
+x=00000-99999                                    service                            Botswana
+770x – 771x                   8           8      Non-geographic number for Mobile   Assigned to Mascom
+x=00000-99999                                    service                            Wireless
+772x                          8           8      Non-geographic number for Mobile   Assigned to Botswana
+x=00000-99999                                    service                            Telecommunications
+                                                                                    Corporation Limited
+773x                          8           8      Non-geographic number for Mobile   Assigned to Orange
+x=00000-99999                                    service                            Botswana
+774x – 775x                   8           8      Non-geographic number for Mobile   Assigned to Orange
+x=00000-99999                                    service                            Botswana
+776x – 778x                   8           8      Non-geographic number for Mobile   Assigned to Mascom
+x=00000-99999                                    service                            Wireless
+779x – 788x                   8           8      Non-geographic number for Mobile   Assigned to Orange
+x=00000-99999                                    service                            Botswana
+789x                          8           8      Non-geographic number for Mobile   Assigned to Mascom
+x=00000-99999                                    service                            Wireless
+790x                          8           8      Non-geographic number for Mobile   Assigned to Orange
+X=00000-99999                                    service.                           Botswana
+79101x                        8           8      Non-geographic number for Mobile   Assigned to AFRITEL
+x=000-999                                        service.
+79103x                        8           8      Non-geographic number for Mobile   Assigned to Business
+x=000-999                                        service.                           Solutions
+79104x                        8           8      Non-geographic number for Mobile   Assigned to
+x = 000-999                                      service.                           Dimemsion Data
+79105x                        8           8      Non-geographic number for Mobile   Assigned to OPQ Net
+x = 000-999                                      service.
+79106x                        8           8      Non-geographic number for Mobile   Assigned to Mega
+x = 000-999                                      service.                           Internet
+79107x                        8           8      Non-geographic number for Mobile   Assigned to OpenVoice
+x = 000-999                                      service.
+79108x                        8           8      Non-geographic number for Mobile   Assigned to Tsagae
+x = 000-999                                      service.                           Comms
+79109x                        8           8      Non-geographic number for Mobile   Assigned to Microteck
+x = 000-999                                      service.                           Enterprises
+79110x                        8           8      Non-geographic number for Mobile   Assigned to Microla
+x = 000-999                                      service.                           Botswana
+ITU Operational Bulletin                                                                      No. 1348 – 9
+     NDC (national
+  destination code) or
+leading digits of N(S)N    N(S)N number length
+                                                                                           Additional
+ (national (significant)                              Usage of E.164 number
+                                                                                          information
+        number)
+                           Maximum    Minimum
+                            length     length
+79111x                         8          8      Non-geographic number for Mobile    Assigned to Internet
+x = 000-999                                      service.                            Options
+79112x                        8           8      Non-geographic number for Mobile    Assigned to FDI
+x = 000-999                                      service.                            Fonewrx
+79113x                        8           8      Non-geographic number for Mobile    Assigned to OpenVoice
+x = 000-999                                      service.
+79115x                        8           8      Non-geographic number for Mobile    Assigned to Abari
+x = 000-999                                      service.                            Comms
+79116x                        8           8      Non-geographic number for Mobile    Assigned to Mission
+x = 000-999                                      service.                            Comms
+79117x                        8           8      Non-geographic number for Mobile    Assigned to
+x = 000-999                                      service.                            ConceroTel
+79118x                        8           8      Non-geographic number for Mobile    Assigned to Paratus
+x = 000-999                                      service.                            Africa
+79119x                        8           8      Non-geographic number for Mobile    Assigned to ROI
+x = 000-999                                      service.
+79120x                        8           8      Non-geographic number for Mobile    Assigned to GC Sat
+x = 000-999                                      service.
+79121x                        8           8      Non-geographic number for Mobile    Assigned to Bantu
+x = 000-999                                      service.                            Telecom
+79122x – 79123x               8           8      Non-geographic number for Mobile    Assigned to Paratus
+x = 000-999                                      service.
+79124x – 79125x               8           8      Non-geographic number for Mobile    Assigned to Netway
+x = 000-999                                      service.
+79126x                        8           8      Non-geographic number for Mobile    Assigned to Apicom
+x = 000-999                                      service.
+79127x                        8           8      Non-geographic number for Mobile    Assigned to Devaki
+x = 000-999                                      service.
+79128x                        8           8      Non-geographic number for Mobile    Assigned to Liquid
+x = 000-999                                      service.
+79129x – 79133x               8           8      Non-geographic number for Mobile    Assigned to Par
+x = 000-999                                      service.                            Telecom
+79134x – 79138x               8           8      Non-geographic number for Mobile    Assigned to Devaki
+x = 000-999                                      service.
+7920x                         8           8      Non-geographic number for Mobile    Assigned to Orange
+x = 0000-9999                                    service.                            Botswana
+7921x                         8           8      Non-geographic number for Mobile    Assigned to Botswana
+x = 0000-9999                                    service.                            Telecommunications
+                                                                                     Corporation Limited
+7922x                         8           8      Non-geographic number for Mobile    Assigned to Orange
+x = 0000-9999                                    service.                            Botswana
+7923x – 7927x                 8           8      Non-geographic number for Mobile    Assigned to Mascom
+x = 0000-9999                                    service.                            Wireless
+793x                          8           8      Non-geographic number for Mobile    Assigned to Orange
+x=00000-99999                                    service.                            Botswana
+
+
+No. 1348 – 10                                                                       ITU Operational Bulletin
+Table 2: ITU-T E.164 – Geographic (Fixed) Numbers
+
+      NDC (national         N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum    Minimum            Usage of E.164 number           Additional information
+  (national (significant)    length     length
+         number)
+ 210x – 211x                   7           7        Geographic number for fixed service   Assigned to Orange
+ x=0000-9999                                        – Area code for Francistown area      Botswana
+ 231x                          7           7        Geographic number for fixed service   Assigned to Mascom
+ x=0000-9999                                        – Area code for Francistown area      Wireless
+ 240x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x = 0000-9999                                      – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 241x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x = 0000-9999                                      – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 242x                          7           7        Geographic number for fixed service   Botswana
+ x = 0000-9999                                      – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 243x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x = 0000-9999                                      – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 244x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 245x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 246x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 247x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 248x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x = 0000-9999                                      – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 249x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Francistown area      Telecommunications
+                                                                                          Corporation Limited
+ 250x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Selibe Phikwe area    Telecommunications
+                                                                                          Corporation Limited
+ 251x – 252x                   7           7        Geographic number for fixed service   Assigned to Orange
+ x=0000-9999                                        – Area code for Selibe Phikwe area    Botswana
+ 260x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Molepolole area       Telecommunications
+                                                                                          Corporation Limited
+ 261x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Selibe Phikwe area    Telecommunications
+                                                                                          Corporation Limited
+ 262x                          7           7        Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                       – Area code for Selibe Phikwe area    Telecommunications
+                                                                                          Corporation Limited
+ ITU Operational Bulletin                                                                          No. 1348 – 11
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+263x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Selibe Phikwe area    Telecommunications
+                                                                                       Corporation Limited
+264x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Selibe Phikwe area    Telecommunications
+                                                                                       Corporation Limited
+265x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Selibe Phikwe area    Telecommunications
+                                                                                       Corporation Limited
+266x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Selibe Phikwe area    Telecommunications
+                                                                                       Corporation Limited
+267x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Selibe Phikwe area    Telecommunications
+                                                                                       Corporation Limited
+268x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Selebi Phikwe area    Wireless
+269x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Selibe Phikwe area    Telecommunications
+                                                                                       Corporation Limited
+275x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Letlhakane area       Wireless
+276x – 277x                   7          7       Geographic number for fixed service   Assigned to Orange
+X=0000-9999                                      – Area code for Letlhakane area       Botswana
+289x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Letlhakane area       Wireless
+290x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+291x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+292x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+293x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+294x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+295x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+296x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+
+
+
+
+No. 1348 – 12                                                                          ITU Operational Bulletin
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+297x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+298x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+299x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Letlhakane/Orapa      Telecommunications
+                                                 area                                  Corporation Limited
+310x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+311x                          7          7       Geographic number for fixed           Assigned to Botswana
+x= 0000-9999                                     service– Area code for Gaborone       Telecommunications
+                                                 area                                  Corporation Limited
+312x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+313x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+314x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+315x                          7          7       Geographic number for fixed           Assigned to Botswana
+x= 0000-9999                                     service– Area code for Gaborone       Telecommunications
+                                                 area                                  Corporation Limited
+316x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+317x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+318x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+319x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+321x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Gaborone area         Wireless
+322x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Gaborone area         Wireless
+323x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Gaborone area         Wireless
+324x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Gaborone area         Wireless
+325x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Gaborone area         Wireless
+
+ITU Operational Bulletin                                                                        No. 1348 – 13
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+345x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Gaborone area         Wireless
+350x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+351x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+
+
+352x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+353x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+354x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+355x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+356x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+357x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+358x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+359x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+360x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+361x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+362x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+363x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+364x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+
+
+No. 1348 – 14                                                                          ITU Operational Bulletin
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+365x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+366x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+367x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+368x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+369x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+370x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+371x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+372x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+373x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+374x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+375x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+376x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+377x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+378x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+379x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+380x – 385x                   7          7       Geographic number for fixed service   Assigned to Orange
+x=0000-9999                                      – Area code for Gaborone area         Botswana
+
+
+
+
+ITU Operational Bulletin                                                                        No. 1348 – 15
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+390x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+391x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+392x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+393x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+394x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+395x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+396x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+397x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+398x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+399x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Gaborone area         Telecommunications
+                                                                                       Corporation Limited
+
+
+430x                          7          7       Geographic number for fixed service   Assigned to Orange
+x=0000-9999                                      – Area code for Palapye area          Botswana
+
+
+442x                          7          7       Geographic number for fixed service   Assigned to Orange
+x=0000-9999                                      – Area code for Mahalapye area        Botswana
+
+
+
+451x                          7          7       Geographic number for fixed service   Assigned to Orange
+x=0000-9999                                      – Area code for Serowe area           Botswana
+
+
+460x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+461x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+
+
+No. 1348 – 16                                                                          ITU Operational Bulletin
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+462x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+463x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+464x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+465x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+466x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+467x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+468x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Serowe area           Wireless
+469x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Serowe area           Telecommunications
+                                                                                       Corporation Limited
+470x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+471x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+472x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+473x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+474x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+475x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+476x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+477x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+478x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Mahalapye area        Wireless
+
+ITU Operational Bulletin                                                                        No. 1348 – 17
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+479x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mahalapye area        Telecommunications
+                                                                                       Corporation Limited
+480x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Palapye area          Wireless
+490x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+491x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+492x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+493x                          7          7       Geographic number for fixed           Assigned to Botswana
+x= 0000-9999                                     service– Area code for Palapye area   Telecommunications
+                                                                                       Corporation Limited
+494x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+495x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+496x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+497x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+498x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+499x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Palapye area          Telecommunications
+                                                                                       Corporation Limited
+500x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Molepolole area       Wireless
+501x                          7          7       Geographic number for fixed service   Assigned to Orange
+x = 0000-9999                                    – Area code for Molepolole area       Botswana
+512x – 513x                   7          7       Geographic number for fixed service   Assigned to Orange
+x = 0000-9999                                    – Area code for Jwaneng area          Botswana
+520x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Lobatse area          Wireless
+523x – 524x                   7          7       Geographic number for fixed service   Assigned to Orange
+x=0000-9999                                      – Area code for Ramotswa/ Lobatse     Botswana
+                                                 area
+530x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+
+No. 1348 – 18                                                                          ITU Operational Bulletin
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+531x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+532x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+533x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000 - 9999                                   – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+534x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+535x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+536x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Lobatse area          Wireless
+537x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+538x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+539x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Lobatse area          Telecommunications
+                                                                                       Corporation Limited
+540x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+541x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+542x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+543x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+544x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+545x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+546x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+
+
+
+
+ITU Operational Bulletin                                                                        No. 1348 – 19
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+547x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+548x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+549x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kanye area            Telecommunications
+                                                                                       Corporation Limited
+550x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Kanye area            Wireless
+551x                          7          7       Geographic number for fixed service   Assinged to Orange
+x = 0000-9999                                    – Area code for                       Botswana
+                                                 Borolong/Ngwaketse area
+560x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Mochudi area          Wireless
+561x                          7          7       Geographic number for fixed service   Assigned to Orange
+x = 0000-9999                                    – Area code for Mochudi area          Botswana
+570x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+571x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+572x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+573x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+574x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+575x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+576x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+577x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+578x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+579x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Mochudi area          Telecommunications
+                                                                                       Corporation Limited
+
+
+
+No. 1348 – 20                                                                          ITU Operational Bulletin
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+580x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+581x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+582x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+583x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+584x                          7          7       Geographic number for fixed service   Assigned to Mascom
+x = 0000-9999                                    – Area code for Jwaneng area          Wireless
+585x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+586x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+587x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+588x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+589x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Jwaneng area          Telecommunications
+                                                                                       Corporation Limited
+590x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+591x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+592x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+593x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+594x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+595x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+
+
+
+
+ITU Operational Bulletin                                                                        No. 1348 – 21
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+596x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+597x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+598x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole ara        Telecommunications
+                                                                                       Corporation Limited
+599x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Molepolole area       Telecommunications
+                                                                                       Corporation Limited
+600x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+601x                          7          7       Geographic number for fixed service   Assigned to Orange
+x = 0000-9999                                    – Area code for Kasane area           Botswana
+620x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+621x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+622x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+623x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+624x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+625x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+626x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+627x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+629x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Kasane area           Telecommunications
+                                                                                       Corporation Limited
+640x                          7          7       Geographic number for fixed service   Assigned to Orange
+x = 0000-9999                                    – Area code for Ghanzi/Kgalagadi      Botswana
+                                                 area
+650x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+No. 1348 – 22                                                                          ITU Operational Bulletin
+     NDC (national         N(S)N number length
+  destination code) or
+leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+ (national (significant)    length     length
+        number)
+651x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+652x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+653x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+654x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+655x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+656x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+657x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+658x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+659x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Ghanzi/Kgalagadi      Telecommunications
+                                                 area                                  Corporation Limited
+660x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                       Corporation Limited
+663x                          7          7       Geographic number for fixed service   Assigned to Orange
+x = 0000-9999                                    – Area code for Maun area             Botswana
+680x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                       Corporation Limited
+681x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                       Corporation Limited
+682x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                       Corporation Limited
+683x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                       Corporation Limited
+684x                          7          7       Geographic number for fixed service   Assigned to Botswana
+x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                       Corporation Limited
+
+
+
+
+ITU Operational Bulletin                                                                        No. 1348 – 23
+      NDC (national         N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+  (national (significant)    length     length
+         number)
+ 685x                          7          7       Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                        Corporation Limited
+ 686x                          7          7       Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                        Corporation Limited
+ 687x                          7          7       Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                        Corporation Limited
+ 689x                          7          7       Geographic number for fixed service   Assigned to Botswana
+ x= 0000-9999                                     – Area code for Maun area             Telecommunications
+                                                                                        Corporation Limited
+ 628x                          7          7       Geographic number for fixed service   Assigned to Mascom
+ x = 0000-9999                                    – Area code for Kasane area           Wireless
+ 630x                          7          7       Geographic number for fixed service   Assigned to Mascom
+ x = 0000-9999                                    – Area code for Ghanzi area           Wireless
+ 688x                          7          7       Geographic number for fixed service   Assigned to Mascom
+ x = 0000-9999                                    – Area code for Maun area             Wireless
+
+Table 3: ITU-T E.164 – Non-Georgraphic (Machine-to-Machine) Numbers
+      NDC (national         N(S)N number length
+   destination code) or
+ leading digits of N(S)N    Maximum    Minimum          Usage of E.164 number           Additional information
+  (national (significant)    length     length
+         number)
+ 890000x – 890004x            10          10      Non-geographic number –               Assigned to Orange
+ x=0000-9999                                      Machine2Machine                       Botswana
+ 890005x – 890009x            10          10      Non-geographic number –               Assigned to Botswana
+ x=0000-9999                                      Machine2Machine                       Telecommunications
+                                                                                        Corporation Limited
+ 890011x – 890017x            10          10      Non-geographic number –               Assigned to Mascom
+ x=0000-9999                                      Machine2Machine                       Wireless
+ 890018x – 890028x            10          10      Non-geographic number –               Assigned to Orange
+ x=0000-9999                                      Machine2Machine                       Botswana
+ 890029x – 890031x            10          10      Non-geographic number –               Assigned to Botswana
+ x=0000-9999                                      Machine2Machine                       Telecommunications
+                                                                                        Corporation Limited
+ 890032x – 890041x            10          10      Non-geographic number –               Assigned to Orange
+ x=0000-9999                                      Machine2Machine                       Botswana
+ 890047x                      10          10      Non-geographic number –               Assigned to Mascom
+ x=0000-9999                                      Machine2Machine                       Wireless
+ 890069x                      10          10      Non-geographic number –               Assigned to Botswana
+ x=0000-9999                                      Machine2Machine                       Telecommunications
+                                                                                        Corporation Limited
+ 890093x                      10          10      Non-geographic number –               Assigned to Botswana
+ x=0000-9999                                      Machine2Machine                       Telecommunications
+                                                                                        Corporation Limited
+ 890096x                      10          10      Non-geographic number –               Assigned to Botswana
+ x=0000-9999                                      Machine2Machine                       Telecommunications
+                                                                                        Corporation Limited
+
+No. 1348 – 24                                                                           ITU Operational Bulletin
+Table 4: Summary of ITU-T Non E.164 National Only (Short Code) Numbers
+
+                                      N(S)N number length
+           Short Code            Maximum            Minimum           Usage of Non E.164 number       Additional information
+                                  length             length
+                                                                   Nationally important services
+    110 – 114                           3              3                                                      Type A
+                                                                  including emergency numbers
+
+                                                                Across net services i.e., accessed
+    18xx                                4              4                                                      Type B
+                                                                    through all public MNOs
+    16xxx
+                                                                Across net services i.e., accessed
+    17xxx                               5              5                                                      Type B
+                                                                    through all public MNOs
+    18xxx and 19xxx
+                                                                  On-Net services and can have
+    10x and 12x                         3              3            same number for different                 Type C
+                                                                   services within the network
+                                                                  On-Net services and can have
+    10xx,
+                                        4              4            same number for different                 Type C
+    11xx, and 12xx.
+                                                                   services within the network
+
+Table 5: ITU-T Non E.164 National Only (Social Value Services) Numbers
+
+      Social          N(S)N number length
+                                                      Usage of Non                      Utilization
+      Value         Maximum           Minimum                               Capacity                        Comments
+                                                      E.164 number                         Rate
+     Number          length            length
+                                                       Social Value                                   Opened for Social Value
+    1800-1849            4                  4                                  50           0%
+                                                         Services                                     Services
+
+Table 6: ITU-T Non E.164 National Only (Public Critical Emergency Services) Numbers
+
+                        N(S)N number length
+     Emergency                                        Usage of Non
+                      Maximum           Minimum                                               Comments
+      Number                                          E.164 number
+                       length            length
+           111               3                  3      Emergency           • All Mobile Operators
+                                                                           • Emergency Services for Floods
+           112               3                  3    All Emergencies1      • All Mobile Operators
+           911               3                  3       Emergency          • All Mobile Operators
+                                                          Services         • Used by Botswana Police
+           997               3                  3      Emergency           • All Mobile Operators
+                                                        Services           • Emergency Services for Ministry of Health
+                                                                             (Ambulance Services)
+           998               3                  3      Emergency           • All Mobile Operators
+                                                        Services           • Emergency Services for Fire
+           999               3                  3      Emergency           • All Mobile Operators
+                                                        Services           • Emergency for Botswana Police
+
+
+
+
+1    As per WTSA-24 Resolution 100.
+    ITU Operational Bulletin                                                                                   No. 1348 – 25
+Table 7: ITU-T Non E.164 National Only (Emergency Services) Numbers
+                        N(S)N number length
+     Emergency                                    Usage of Non
+                      Maximum          Minimum                                         Comments
+      Number                                      E.164 number
+                       length           length
+                                                                    • Assigned to all Mobile Operators
+         111                3             3        Emergency
+                                                                    • Emergency Services for Botswana Police
+         112                3             3      All Emergencies2   • Assigned to all Mobile Operators
+                                                                    • Assigned Mascom Wireless
+         113                3             3        Internal Use
+                                                                    • MNO’s internal use for PPS payphone topUp
+                                                                    • Assigned Botswana Telecommunications
+         114                3             3      Third Response
+                                                                      Corporation Limited
+                                                                    • Assigned Botswana Telecommunications
+         115                3             3        Internal Use       Corporation Limited
+                                                                    • MNO’s internal use for Routing to C1 test1
+                                                                    • Assigned to Mascom Wireless
+         115                3             3        Internal Use
+                                                                    • MNO’s internal use for PPS Easy TopUp
+                                                                    • Assigned Botswana Telecommunications
+         116                3             3        Internal Use       Corporation Limited
+                                                                    • MNO’s internal Routing to C1 test1
+                                                   Social Value     • Assigned All Mobile Operators
+         116                3             3
+                                                     Services       • Social Value for Childline3
+                                                                    • Assigned Botswana Telecommunications
+         117                3             3        Internal Use       Corporation Limited
+                                                                    • MNO’s internal use for Routing to C1 IVR
+                                                                    • Assigned Botswana Telecommunications
+         118                3             3        Internal Use       Corporation Limited
+                                                                    • For internal use for routing to C1 test2
+                                                                    • Assigned to Mascom Wireless
+         119                3             3       Visa Enquries
+                                                                    • Used for Visa Enquries
+                                                                    • Assigned to Botswana Telecommunications
+                                                   Emergency
+         910                3             3                           Corporation Limited
+                                                    Services
+                                                                    • Emergency Services for Angels Medical Rescue
+                                                                    • Assigned to Botswana Telecommunications
+                                                   Emergency          Corporation Limited and Mascom Wireless
+         911                3             3
+                                                    Services        • 911 is a general emergency number to be used
+                                                                      across AFRICA in case of any emergencies4
+                                                                    • Assigned to Botswana Telecommunications
+         912                3             3       Social Services     Corporation Limited
+                                                                    • Emergency Services for RAPID RESPONSE
+                                                                    • Assigned to Botswana Telecommunications
+                                                   Emergency
+         913                3             3                           Corporation Limited and Mascom Wireless
+                                                    Services
+                                                                    • Emergency Services for RecessMed Ambulance
+                                                                    • Assigned to Botswana Telecommunications
+                                                   Emergency
+         914                3             3                           Corporation Limited
+                                                    Services
+                                                                    • Emergency Services for Med Reflex
+                                                                    • Assigned to Botswana Telecommunications
+                                                   Emergency
+         920                3             3                           Corporation Limited
+                                                    Services
+                                                                    • Emergency Services for Critical Emergency Care
+
+
+
+
+2     As per WTSA-24 Resolution 100.
+3     As per ITU E.164 Supplement 5.
+4
+      As per WTSA-24 Resolution 100.
+    No. 1348 – 26                                                                             ITU Operational Bulletin
+                 N(S)N number length
+Emergency                              Usage of Non
+                Maximum Minimum                                          Comments
+ Number                                E.164 number
+                  length     length
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    922             3          3                        Corporation Limited
+                                         Services
+                                                      • Emergency Services for EAGLE_Ambulance
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    923             3          3                        Corporation Limited
+                                         Servicess
+                                                      • Emergency Services for Pulse Finders
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    924             3          3                        Corporation Limited
+                                         Services
+                                                      • Emergency Services for Emergency Rescure 24/7
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    925             3          3                        Corporation Limited
+                                         Services
+                                                      • Emergency Services for Medicare Medical Centre
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    926             3          3                        Corporation Limited
+                                         Services
+                                                      • Emergency Services for Botsogo Pele
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    929             3          3                        Corporation Limited
+                                         Services
+                                                      • Emergency Services for BTCL-Life Flight Rescue
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    990             3          3                        Corporation Limited
+                                         Services
+                                                      • Emergency Services for Assisted Living Solution
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    991             3          3                        Corporation Limited & Mascom Wireless
+                                         Services
+                                                      • Emergency Services for Emergency Assist
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency       Corporation Limited and Mascom Wireless
+    992             3          3
+                                         Services     • Emergency Services for Med Rescue
+                                                        International Botswana
+                                                      • Assigned to Botswana Telecommunications
+                                        Emergency
+    993             3          3                        Corporation Limited
+                                         Services
+                                                      • Emergency Services for Rescue One
+                                                      • Assigned to all Operators
+                                        Emergency
+    994             3          3                      • Emergency Servicesfor Boitekanelo Emegency
+                                         Services
+                                                        Services
+                                        Emergency     • Assigned to all Operators
+    995             3          3
+                                         Services     • Emergency Services for Okavango Air Rescue
+                                                      • Assigned to all Operators
+                                        Emergency
+    996             3          3                      • Emergency Services for Boitekanelo Emergency
+                                         Services
+                                                        Services
+                                        Emergency     • Assigned to all Operators
+    997             3          3
+                                         Services     • Emergency Services for Ministry of Health
+                                        Emergency     • Assigned to all Operators
+    998             3          3
+                                         Services     • Emergency Services for Fire
+                                        Emergency     • Assigned to all Operators
+    999             3          3
+                                         Services     • Emergency for Botswana Police
+
+
+
+
+ITU Operational Bulletin                                                                  No. 1348 – 27
+Table 8: ITU-T Non E.164 National Only (USSD Codes)
+
+                        N(S)N number length
+                                                        Usage of Non E.164
+  USSD Number        Maximum        Minimum                                              Additional information
+                                                      (National Only) number
+                      length         length
+    *1xx*xxx#             9                5                  USSD codes                Available to all Operators
+    *2xx*xxx#             9                5                  USSD codes                Available to all Operators
+
+Table 9: ITU-T Non E.164 National Only (Toll-free Numbers)
+
+                                      N(S)N number length               Usage of Non E.164
+                                                                                                      Additional
+            Toll Free               Maximum         Minimum               (National Only)
+                                                                                                     information
+                                     length          length                  number
+
+                                                                                                    Available to all
+   8000 000 000-8009 999 999            10               10                  Tollfree
+                                                                                                      Operators
+
+Table 10: ITU-T Q.708 National Signalling Point Codes (NSPCs)
+
+          Node                      Type                      Point Codes                Hex              ITU 3-8-3
+   GB_MGCF(G-MSC)             National Mobile                     2-4                   0004                0-0-4
+    FT_MGCF(G-MSC)            National Mobile                     2-7                   0007                0-0-7
+       GAATS(TAS)             National Mobile                     2-3                   0003                0-0-3
+       FTATS(TAS)             National Mobile                     2-5                   0005                0-0-5
+   GA_MAGCF(AGCF)             National Mobile                    2-11                   000B                0-1-3
+    FT_MAGCF(AGCF)            National Mobile                    2-12                   000C                0-1-4
+         Orange               National Mobile                    2-40                   0028                0-5-0
+   Mascom(GAMSC01)            National Mobile                    2-20                   0014                0-2-4
+   Mascom(PHMSC01)            National Mobile                    2-30                   001E                0-3-6
+   Mascom(PPHSC01)            National Mobile                    2-35                    23                 0-4-3
+   Mascom(GAHSS01)            National Mobile                    2-60                   003C                0-7-4
+   CSG_GASCP_PROD             National Mobile                    2-166                  00A6               0-20-6
+   CSG_GASCP_PROD             National Mobile                    2-165                  00A5               0-20-5
+      CSG_SCP_UAT             National Mobile                    2-164                  00A4               0-20-4
+          EIR01               National Mobile                   2-2134                   856               1-10-6
+          EIR02               National Mobile                   2-2135                   857               1-10-7
+        FTBSC03               National Mobile                   2-3006                  0BBE              1-119-6
+       FTMGW01                National Mobile                    2-23                    17                 0-2-7
+        FTRNC02               National Mobile                   2-4007                  0FA7              1-244-7
+       GAMGW01                National Mobile                    2-21                    15                 0-2-5
+        GARNC01               National Mobile                   2-4003                  0FA3              1-244-3
+       GAVLATS01              National Mobile                   2-2173                  087D               1-15-5
+        HQ_MCO                National Mobile                   2-2211                  08A3               1-20-3
+        MABSC01               National Mobile                   2-3004                  0BBC              1-119-4
+        MABSC03               National Mobile                   2-3009                  0BC1              1-120-1
+        MARNC01               National Mobile                   2-4005                  0FA5              1-244-5
+        MARNC02               National Mobile                   2-4009                  0FA9              1-245-1
+
+ No. 1348 – 28                                                                                 ITU Operational Bulletin
+        Node                    Type         Point Codes   Hex    ITU 3-8-3
+   MCO_BICS_A2P            National Mobile     2-2183      887     1-16-7
+ MCO_BICS_A2P_DR           National Mobile     2-2184      888     1-17-0
+    MCO_SMSC01             National Mobile     2-2180      884     1-16-4
+  MCO_SMSC01_DR            National Mobile     2-2181      885     1-16-5
+      MCO-MCO              National Mobile     2-2210      08A2    1-20-2
+       PHBSC01             National Mobile     2-3002      0BBA    1-119-2
+       PHBSC03             National Mobile     2-3007      0BBF    1-119-7
+       PHBSC04             National Mobile     2-3008      0BC0    1-120-0
+       PHHLR01             National Mobile      2-35        23      0-4-3
+      PHMGW01              National Mobile      2-22        16      0-2-6
+      PHMSC01              National Mobile      2-30       001E     0-3-6
+      PHRNC02              National Mobile     2-4006      0FA6    1-244-6
+      PHRNC03              National Mobile     2-4008      0FA8    1-245-0
+      PHVLATS01            National Mobile     2-2171      087B    1-15-3
+         SCP1              National Mobile     2-152        98     0-19-0
+         SCP2              National Mobile     2-153        99     0-19-1
+       SCP_QA              National Mobile     2-167       00A7    0-20-7
+       SCP_UAT             National Mobile     2-157       009D    0-19-5
+      SMSFW01              National Mobile     2-2186      088A    1-17-2
+     SMSFW01_2             National Mobile     2-2189      088D    1-17-5
+      SMSFW02              National Mobile     2-2187      088B    1-17-3
+     SMSFW02_2             National Mobile     2-2191      088F    1-17-7
+       SS7_GW              National Mobile     2 -2159     086F    1-13-7
+        ADD01              National Mobile     2-2134      856     1-10-6
+        ADD02              National Mobile     2-2135      857     1-10-7
+      GASGSN01             National Mobile     2-2147      863     1-12-3
+    GA_USSD_GW             National Mobile     2 -2202     089A    1-19-2
+   JINNY_GA_USSD           National Mobile     2-2127      084F     1-9-7
+      PHSGSN01             National Mobile     2-2145      861     1-12-1
+    PH_USSD_GW             National Mobile     2-2201      899     1-19-1
+      SMSFW01              National Mobile     2-2186      088A    1-17-2
+ValleyData SMS firewall
+                           National Mobile     2-2215      8A7     1-20-7
+        nodeA
+ValleyData SMS firewall
+                           National Mobile     2-2217      8A9     1-21-1
+        nodeB
+ValleyData SMS firewall
+                           National Mobile     2-2219      8AB     1-21-3
+        nodeC
+ValleyData SMS firewall
+                           National Mobile     2-2221      8AD     1-21-5
+        nodeD
+
+
+
+
+ITU Operational Bulletin                                          No. 1348 – 29
+Table 11: ITU-T Q.708 International Signalling Point Codes (ISPCs)
+
+                                                                                                   Country where
+                                                               Name of the Signalling Point     Signalling Point is to
+      ISPC           Unique name of the Signalling Point
+                                                                        Operator                 be put into service
+                                                                                                under subclause 7.9a)
+     6-104-0      TOLLOPS (GISC)                              Botswana Telecommunications Botswana
+                                                              Corporation
+     6-104-1      FTISC                                       Botswana Telecommunications Botswana
+                                                              Corporation
+     6-104-2      GASPX01                                     Mascom Wireless                   Botswana
+     6-104-3      OBO_IGW1                                    Orange Botswana                   Botswana
+     6-104-4      OBO_IGW2                                    Orange Botswana                   Botswana
+     6-104-5      Gaborone International Signaling Gateway Botswana Telecommunications Botswana
+                  (GISG)                                   Corporation
+     6-104-6      Francistown International Signalling        Botswana Telecommunications Botswana
+                  Gateway (FTISG)                             Corporation
+     6-104-7      GAMBC01                                     Mascom Wireless                   Botswana
+     6-105-0      PHMBC01                                     Mascom Wireless                   Botswana
+     6-105-1      PHSPX01                                     Mascom Wireless                   Botswana
+     6-105-2      SIG-GAB-DSC161-STP                          Orange Botswana                   Botswana
+     6-105-3      SIG-FRA-DSC162-STP                          Orange Botswana                   Botswana
+     6-105-4      Reserved                                    Reserved                          Botswana
+     6-105-5      Reserved                                    Reserved                          Botswana
+     6-105-6      Reserved                                    Reserved                          Botswana
+     6-105-7      Reserved                                    Reserved                          Botswana
+
+Table 12: ITU-T E.212 Mobile Network Codes (MNC)
+
+                     MCC + MNC Codes                                                Networks
+ 652-01                                                        Mascom wireless
+ 652-02                                                        Orange Botswana
+ 652-04                                                        Botswana Telecommunications Corporation
+ 652-06                                                        Paratus Telecommunications
+
+
+
+
+ No. 1348 – 30                                                                                ITU Operational Bulletin
+Table 13: ITU-T Non E.164 (eCall Numbers)
+
+                       N(S)N number length
+  USSD Number        Maximum       Minimum      Usage of Non E.164 number   Additional information
+                      length        length
+      +882                  3          3                  eCall             Available to all Operators
+      +883                  3          3                  eCall             Available to all Operators
+
+Contact:
+           Evah Kentshitswe (P.Eng)
+           Botswana Communications Regulatory Authority (BOCRA)
+           Plot 50671, Independence Avenue
+           Private Bag 00495
+           GABORONE
+           Botswana
+           Tel:     +267 368 5558;
+                    +267 395 7755
+           Fax:     +267 395 7976
+           E-mail: kentshitswe@bocra.org.bw; info@bocra.org.bw
+           URL:     www.bocra.org.bw
+
+
+
+
+ ITU Operational Bulletin                                                                   No. 1348 – 31
+Guyana (country code +592)
+Communication of 27.VIII.2026:
+The Telecommunications Agency, Georgetown, announces that the following national destination codes (NDC) and
+subscriber number (SN) ranges are currently assigned to the listed public telecommunications operators for the Co-
+operative Republic of Guyana. Numbers allocated to access emergency/social services are also listed below.
+
+                                 Presentation of national ITU-T E.164 numbering plan
+                                                 for country code 592
+a) Overview:
+   The minimum fixed and mobile number length (excluding the country code) is seven (7) digits.
+   The maximum fixed and mobile number length (excluding the country code) is seven (7) digits.
+ International dialling format: +592 NXX XXXX
+b) National Database (TBD)
+c) Real-time Database (TBD)
+d) Detail of numbering plan:
+
+Fixed Network
+
+                                   N(S)N number length
+  National destination code                                       Operator/Block                  SN range
+            (NXX)                Maximum        Minimum             assignee                       (XXXX)
+                                  length         length
+
+            216                      7              7                                         0000 – 9999
+
+            217                      7              7                                         0000 – 1999
+
+            218                      7              7                                         0000 – 9999
+
+            219                      7              7                                         0000 – 9999
+
+            220                      7              7         Guyana Telephone and            0000 – 9999
+
+            221                      7              7           Telegraph Co. Ltd.            2000 – 4999
+
+            222                      7              7                                         0000 – 9999
+
+            223                      7              7                                         0000 – 9999
+
+            225                      7              7                                         0000 – 9999
+
+            226                      7              7                                         0000 – 9999
+
+            227                      7              7                                         0000 – 9999
+
+            228                      7              7                                         0000 – 6999
+
+            229                      7              7                                         1000 – 8999
+
+            231                      7              7                                         0000 – 9999
+
+            232                      7              7                                   0000 – 4999; 9000 – 9999
+
+            233                      7              7                                         0000 – 7999
+
+            234                      7              7                                         0000 – 0999
+
+            253                      7              7                                         0000 – 5999
+
+            254                      7              7                                         0000 – 2999
+
+
+ No. 1348 – 32                                                                            ITU Operational Bulletin
+                             N(S)N number length
+National destination code                             Operator/Block       SN range
+          (NXX)             Maximum      Minimum        assignee            (XXXX)
+                             length       length
+
+           255                 7             7                            0000 – 4999
+
+           256                 7             7                            0000 – 5999
+
+           257                 7             7                            0000 – 4999
+
+           258                 7             7                            0000 – 4999
+
+           259                 7             7                            0000 – 4999
+
+           260                 7             7                            0000 – 6999
+
+           261                 7             7                            0000 – 9999
+
+           262                 7             7                            0000 – 2999
+
+           263                 7             7                            0000 – 7999
+
+           264                 7             7                            0000 – 4999
+
+           265                 7             7                            0000 – 8999
+
+           266                 7             7                            0000 – 7999
+
+           267                 7             7                            0000 – 3999
+
+           268                 7             7     Guyana Telephone and   0000 – 5999
+
+           269                 7             7       Telegraph Co. Ltd.   0000 – 2999
+
+           270                 7             7                            0000 – 9999
+
+           271                 7             7                            0000 – 9999
+
+           272                 7             7                            0000 – 2999
+
+           273                 7             7                            1000 – 1999
+
+           274                 7             7                            0000 – 2999
+
+           275                 7             7                            0000 – 2999
+
+           276                 7             7                            0000 – 5999
+
+           277                 7             7                            0000 – 5999
+
+           279                 7             7                            0000 – 4999
+
+           289                 7             7                            0000 – 9999
+
+           322                 7             7                            0000 – 6999
+
+           325                 7             7                            0000 – 6999
+
+           326                 7             7                            0000 – 5999
+                                                                          0000 – 2999,
+           327                 7             7
+                                                                          5000 – 7999
+           328                 7             7                            0000 – 9999
+
+
+
+ITU Operational Bulletin                                                        No. 1348 – 33
+                              N(S)N number length
+ National destination code                              Operator/Block               SN range
+           (NXX)             Maximum      Minimum         assignee                    (XXXX)
+                              length       length
+                                                                                   0000 – 1999,
+           329                  7             7
+                                                                                   3000 – 6999
+           330                  7             7                                    0000 – 4999
+
+           331                  7             7                                    0000 – 4999
+
+           332                  7             7                                    0000 – 4999
+
+           333                  7             7                                    0000 – 9999
+
+           334                  7             7                                    0000 – 2999
+                                                    Guyana Telephone and
+                                                      Telegraph Co. Ltd.           0000 – 1999,
+           335                  7             7
+                                                                                   3000 – 4999
+           336                  7             7                                    5000 – 9999
+
+           337                  7             7                                    0000 – 6999
+
+           338                  7             7                                    1000 – 5999
+
+           339                  7             7                                    0000 – 6999
+
+           440                  7             7                                    0000 – 3999
+           441                  7             7                                    0000 – 3999
+           442                  7             7                                    0000 – 4999
+
+           444                  7             7                                    0000 – 9999
+
+           455                  7             7                                    0000 – 3999
+
+           456                  7             7                                    0000 – 2999
+
+        500 – 506               7             7                                    0000 – 9999
+
+           510                  7             7                                    0000 – 9999
+                                                    U-Mobile (Cellular) Inc.
+           511                  7             7                                    0000 – 9999
+
+           515                  7             7        E-Networks Inc.             0000 – 9999
+
+           516                  7             7        E-Networks Inc.             0000 – 9999
+                                                                                   0000 – 2999
+           771                  7             7
+                                                                                   4000 – 5999
+           772                  7             7                                    0000 – 3999
+
+           773                  7             7                                    0000 – 2999
+                                                    Guyana Telephone and
+                                                      Telegraph Co. Ltd.           0000 – 2999,
+           774                  7             7
+                                                                                   4000 – 5999
+           775                  7             7                                    0000 – 3999
+
+           777                  7             7                                    0000 – 9999
+
+           800                  7             7     U-Mobile (Cellular) Inc.       0000 – 0009
+
+
+
+
+No. 1348 – 34                                                                  ITU Operational Bulletin
+                                    N(S)N number length
+ National destination code                                      Operator/Block        SN range
+           (NXX)               Maximum          Minimum           assignee             (XXXX)
+                                length           length
+
+            862                      7                7                              1000 – 1999
+
+            868                      7                7                              0000 – 3999
+
+                                                            Guyana Telephone and
+            888                      7                7       Telegraph Co. Ltd.        8888
+
+            899                      7                7                              0000 – 9999
+
+            900                      7                7                              8000 – 8999
+
+
+Mobile Network
+
+ National destination         N(S)N Number length
+                                                                                      SN range
+        code                 Maximum          Minimum      Operator/Block assignee
+                                                                                       (XXXX)
+       (NXX)                  length           length
+      600 – 604                 7                 7       U-Mobile (Cellular) Inc.   0000 – 9999
+                                                          Quark Communications
+         605                    7                 7                                  0000 – 0999
+                                                          Inc.
+         605                    7                 7       DNA Enterprise Inc.        1000 – 2999
+
+         606                    7                 7       E-Government               0000 – 0999
+         608                    7                 7       U-Mobile (Cellular) Inc.   0000 – 0999
+                                                          Guyana Telephone and
+      609 – 629                 7                 7                                  0000 – 9999
+                                                          Telegraph Co. Ltd.
+         630                    7                 7       U-Mobile (Cellular) Inc.   0000 – 9999
+
+         631                    7                 7       Green Gibraltar Inc.       0000 - 9999
+
+
+      632 – 633                 7                 7       U-Mobile (Cellular) Inc.   0000 – 9999
+
+                                                          Guyana Telephone and
+         634                    7                 7                                  0000 – 9999
+                                                          Telegraph Co. Ltd.
+
+         635                    7                 7       E-Networks Inc.            0000 – 9999
+
+      636 – 637                 7                 7       U-Mobile (Cellular) Inc.   0000 – 9999
+                                                          Guyana Telephone and
+      638 – 658                 7                 7                                  0000 – 9999
+                                                          Telegraph Co. Ltd.
+      659 – 704                 7                 7       U-Mobile (Cellular) Inc.   0000 – 9999
+                                                          Guyana Telephone and
+      705 – 709                 7                 7                                  0000 – 9999
+                                                          Telegraph Co. Ltd.
+      710 – 720                 7                 7       E-Networks Inc.            0000 – 9999
+
+      721 – 722                 7                 7       U-Mobile (Cellular) Inc.   0000 – 9999
+      723 – 724                 7                 7       U-Mobile (Cellular) Inc.   0000 – 9999
+                                                          Guyana Telephone and
+      725 – 726                 7                 7                                  0000 – 9999
+                                                          Telegraph Co. Ltd.
+
+ ITU Operational Bulletin                                                                 No. 1348 – 35
+  National destination          N(S)N Number length
+                                                                                              SN range
+         code                 Maximum          Minimum        Operator/Block assignee
+                                                                                               (XXXX)
+        (NXX)                  length           length
+                                                             Guyana Telephone and
+       727 – 729                     7             7                                         0000 – 9999
+                                                             Telegraph Co. Ltd.
+       730 – 732                     7             7         E-Networks Inc.                 0000 – 9999
+       733 – 742                     7             7         E-Networks Inc.                 0000 – 9999
+       743 – 750                     7             7         U-Mobile (Cellular) Inc.        0000 – 9999
+                                                             Guyana Telephone and
+       751 – 759                     7             7                                         0000 – 9999
+                                                             Telegraph Co. Ltd.
+       760 – 761                     7             7         E-Networks Inc.                 0000 – 9999
+       762 – 763                     7             7         E-Networks Inc.                 0000 – 9999
+
+            764                      7             7         E-Networks Inc.                 0000 – 9999
+                                                                                             0000 – 9999
+            765                      7             7         E-Networks Inc.
+                                                                                             0000 – 9999
+            766                      7             7         E-Networks Inc.
+                                                                                             0000 – 9999
+            767                      7             7         E-Networks Inc.
+
+       769 – 770                     7             7         U-Mobile (Cellular) Inc.        0000 – 9999
+                                                             One Communication               0000 – 9999
+            780                      7             7
+                                                             (Guyana) Inc.
+                                                                                             0000 – 9999
+            786                      7             7         U-Mobile (Cellular) Inc.
+                                                                                             0000 – 9999
+            787                      7             7         U-Mobile (Cellular) Inc.
+
+
+           – Newly assigned ranges
+
+Emergency Services
+
+   Important                                                                            ITU-T E.164 number or
+                           Service                     Allocated or Assigned
+    number                                                                               national only number
+                           Police
+      911                                    Allocated in the national numbering plan   National-only number
+                   (Emergency response)
+                      Fire/Ambulance
+      912                                    Allocated in the national numbering plan   National-only number
+                   (Emergency response)
+                         Ambulance
+      913                                    Allocated in the national numbering plan   National-only number
+                   (Emergency response)
+                     Domestic Violence
+      914                                    Allocated in the national numbering plan   National-only number
+                          (Hotline)
+
+Contact:
+           Telecommunications Agency
+           Director of Telecommunications
+           190 Charlotte Street, Bourda,
+           GEORGETOWN
+           Guyana
+           Tel:         +592 225-3104 / 226-2233
+           E-mail:      odir1@telecoms.gov.gy
+           URL:         www.telecoms.gov.gy
+
+
+
+
+ No. 1348 – 36                                                                          ITU Operational Bulletin
+Iran (Islamic Republic of) (country code +98)
+Communication of 24.VIII.2026:
+The Communications Regulatory Authority (CRA), Tehran, announces the following updated National Numbering Plan
+of the Islamic Republic of Iran.
+
+                                      Presentation of the Iran E.164 numbering plan
+
+1        General Information
+The E.164 numbering Plan of Iran:
+•        Country Code: +98
+•        International Prefix: "00"
+•        National Prefix: "0"
+•        For national calls, it must be dialled before all telephone numbers except short numbers.
+•        It must not be dialled from abroad.
+•        National destination Code: 2 digits.
+2        Detail of Numbering Scheme
+•        NDC: National Destination Code
+•        NSN: National Significant Number (NDC + SN)
+The minimum number length (excluding the country code) is        5 digits
+The maximum number length (excluding the country code) is 10 digits
+
+                                                     Numbering Scheme
+
+                           NSN Number length
+        NDC                                                Usage of E.164               Additional Information
+                       Minimum            Maximum
+         11                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Mazandaran)
+         13                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Gilan)
+         17                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Golestan)
+         21                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Tehran)
+         23                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Semnan)
+         24                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Zanjan)
+         25                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Qom)
+         26                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Alborz)
+         28                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Ghazvin)
+         31                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Isfahan)
+         34                5                    10       Fixed Phone           Area Code (Geographic Number for
+                                                                               Fixed telephony Numbers - Kerman)
+
+
+
+    ITU Operational Bulletin                                                                             No. 1348 – 37
+                   NSN Number length
+    NDC                                   Usage of E.164           Additional Information
+                Minimum        Maximum
+     35            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Yazd)
+     38            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Chahar
+                                                           Mahal vaBakhtiari)
+     41            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - East
+                                                           Azarbayjan)
+     44            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - West
+                                                           Azarbayjan)
+     45            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Ardabil)
+     51            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Razavi
+                                                           Khorasan)
+     54            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers -
+                                                           SistanvaBalochestan)
+     56            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - South
+                                                           Khorasan)
+     58            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - North
+                                                           Khorasan)
+     61            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Khuzestan)
+     66            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Lorestan)
+     71            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Fars)
+     74            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Kohgiluoyeva
+                                                           Boyer Ahmad)
+     76            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Hormozgan)
+     77            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Bushehr)
+     81            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Hamadan)
+     83            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers -
+                                                           Kermanshahan)
+     84            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Ilam)
+     86            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Markazi)
+     87            5              10     Fixed Phone       Area Code (Geographic Number for
+                                                           Fixed telephony Numbers - Kurdestan)
+    900           10              10     Mobile services
+    901           10              10     Mobile services
+
+No. 1348 – 38                                                             ITU Operational Bulletin
+                       NSN Number length
+    NDC                                       Usage of E.164            Additional Information
+                  Minimum          Maximum
+   902                10              10     Mobile services
+   903                10              10     Mobile services
+   904                10              10     Mobile services
+   905                10              10     Mobile services
+    91                10              10     Mobile services
+   920                10              10     Mobile services
+   921                10              10     Mobile services
+   922                10              10     Mobile services
+   923                10              10     Mobile services
+    93                10              10     Mobile services
+ 942121               10              10     Fixed Phone       Non geographical
+  94200               10              10     Fixed Phone       Non geographical
+  94220               10              10     Fixed Phone       Non geographical
+  94221               10              10     Fixed Phone       Non geographical
+  94260                6              10     Fixed Phone       Non geographical
+ 942800               10              10     Fixed Phone       Non geographical
+ 942801               10              10     Fixed Phone       Non geographical
+ 942802               10              10     Fixed Phone       Non geographical
+ 942900               10              10     Fixed Phone       Non geographical
+ 942901               10              10     Fixed Phone       Non geographical
+ 942902               10              10     Fixed Phone       Non geographical
+ 942903               10              10     Fixed Phone       Non geographical
+ 942904               10              10     Fixed Phone       Non geographical
+ 9430130              10              10     Fixed Phone       Non geographical
+ 940000               10              10     Fixed Phone       Non geographical
+                                             (fiber)
+  940009              10              10     Fixed Phone       Non geographical
+                                             (fiber)
+   9412               10              10     Fixed Phone       Non geographical
+                                             (Fixed wireless
+                                             Access)
+   94440              10              10     Fixed Phone       Just Originating from Iran
+                                             (Fixed wireless
+                                             Access)
+      96               4              10     Services Codes
+     990              10              10     Mobile services
+     991              10              10     Mobile services
+     992              10              10     Mobile services
+     993              10              10     Mobile services
+     994              10              10     Mobile services
+    9950               5              10     Public Trunk
+   99510              10              10     Mobile services
+   99550              10              10     Mobile services
+     996              10              10     Mobile services
+    9981              10              10     Mobile services
+    9982              10              10     Mobile services
+   99830              10              10     Mobile services
+
+ITU Operational Bulletin                                                                    No. 1348 – 39
+                           NSN Number length
+     NDC                                                   Usage of E.164      Additional Information
+                      Minimum            Maximum
+    99831                 10                 10          Mobile services
+    99832                 10                 10          Mobile services
+    99888                 10                 10          Mobile services
+    99900                 10                 10          Mobile services
+    99901                 10                 10          Mobile services
+    99902                 10                 10          Mobile services
+    99903                 10                 10          Mobile services
+     9991                 10                 10          Mobile services
+    99921                 10                 10          Mobile services
+    99930                 10                 10          Mobile services
+    99931                 10                 10          Mobile services
+    99932                 10                 10          Mobile services
+    99933                 10                 10          Mobile services
+    99934                 10                 10          Mobile services
+     9995                 10                 10          Mobile services
+    99969                 10                 10          Mobile services
+    99977                 10                 10          Mobile services
+     9998                 10                 10          Mobile services
+     9999                 10                 10          Mobile services
+
+Contact:
+           Mr Alireza Darvishi
+           Director General, International Specialized Organizations Bureau,
+           Communications Regulatory Authority (CRA)
+           Ministry of Information and Communication Technology
+           15598 TEHRAN
+           Iran (Islamic Republic of)
+           Tel:       +98 21 89662201
+           Fax:       +98 21 88468999
+           E-mail:    darvishi@cra.ir
+           URL:       www.cra.ir
+
+
+
+
+ No. 1348 – 40                                                                        ITU Operational Bulletin
+Papua New Guinea (country code +675)
+Communication of 31.VIII.2026:
+The National Information & Communications Technology Authority (NICTA), Boroko, announces the following update in
+the national numbering plan of Papua New Guinea.
+
+           Description of introduction of new resource for national E.164 numbering plan for country code 675:
+
+ NDC (national destination       N(S)N number length
+ code) or leading digits of                                            Usage of                   Time and date of
+      N(S)N (national           Maximum      Minimum              ITU-T E.164 number                introduction
+   (significant) number)         length       length
+               85                   8            8        Non-geographic number for Mobile         13 August 2026
+                                                          Telephony Service – Digitec
+                                                          Communications Limited operating
+                                                          as Vodafone (PNG) Limited
+               206                  7            7        Non-geographic number for VoIP           14 August 2026
+                                                          Service – Wirespark Limited
+
+Contact:
+           Mr Polume Lume
+           National Information & Communication Technology Authority
+           Corner of Frangipani & Croton Street, HOHOLA
+           P.O. Box 8444
+           BOROKO 1111, NCD
+           Papua New Guinea
+           Tel:       +675 303 3201
+           Fax:       +675 325 6868
+           E-mail: plume@nicta.gov.pg
+           URL:       www.nicta.gov.pg
+
+
+
+
+ ITU Operational Bulletin                                                                              No. 1348 – 41
+                             List of Ship Stations and Maritime Mobile
+                                     Service Identity Assignments
+                                                (List V)
+                                            Edition of 2026
+
+                                                   Section VI
+ADD
+
+      GR20      Hellas Marine Electronics, 85, Alimou Avenue,
+                17455 Alimos Athens Greece.
+                E-mail: accounting@hme.gr,
+                Tel: +30 210 9966730,
+                Contact person: Mr. Dimitrios G. Katsafanas.
+
+
+
+
+No. 1348 – 42                                                            ITU Operational Bulletin
+                                     Service Restrictions
+                              See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+
+Country/geographical area     OB
+ Seychelles                   1006 (p.13)
+ Slovakia                     1007 (p.12)
+ Malaysia                     1013 (p.5)
+ Thailand                     1034 (p.5)
+ São Tomé and Principe        1039 (p.14)
+ Uruguay                      1039 (p.14)
+ Hong Kong, China             1068 (p.4)
+ Ukraine                      1148 (p.5)
+ Türkiye                      1286 (p.17)
+ Bangladesh                   1287 (p.16)
+
+
+
+
+                                          Call-Back
+                  and alternative calling procedures (Res. 21 Rev. PP-06)
+                            See URL: www.itu.int/pub/T-SP-PP.RES.21-2011/
+
+
+
+
+ITU Operational Bulletin                                                    No. 1348 – 43
+                       AMENDMENTS TO SERVICE PUBLICATIONS
+                                               Abbreviations used
+                              ADD    Insert                        PAR   Paragraph
+                              COL    Column                        REP   Replace
+                              LIR    Read                          SUP   Delete
+                              P      Page(s)
+
+
+
+
+                          List of Issuer Identifier Numbers for
+        the cards to identify accounts for charging telecommunication services
+             (in accordance with Recommendation ITU-T E.118 (09/2025))
+                            (Position on 31 December 2023)
+                              Annex to ITU Operational Bulletin No. 1283 – 1.I.2024
+                                              Amendment No. 33
+United States    ADD
+
+   Country/           Company Name/Address              Issuer                   Contact               Effective date
+ Geographical                                         Identifier                                          of usage
+     area                                              Number
+ United States   Ringer Mobile                        89 1 084       Doug Davis/Ryan Deloach            27.VIII.2026
+                 1900 W. Littleton Boulevard                         1900 W. Littleton Boulevard
+                 Littleton Colorado 80120                            Littleton Colorado 80120
+                                                                     Tel:      +8447464370;
+                                                                               +1 303 731 2000
+                                                                     E-mail: regaffairs@ringer.tel;
+                                                                               support@ringer.tel
+
+
+
+
+ No. 1348 – 44                                                                              ITU Operational Bulletin
+           Mobile Network Codes (MNC) for the international identification plan
+                          for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016))
+                            - Position on 15 November 2023 -
+                                   Annex to ITU Operational Bulletin No. 1280 – 15.XI.2023
+                                                    Amendment No. 64
+
+
+    Country / Geographical area
+    MCC + MNC                          Name of assignee
+    Australia ADD
+    505 65                             Fear Enterprises Pty Ltd
+    Costa Rica ADD
+    712 10                             COOPERATIVA DE ELECTRIFICACIÓN RURAL DE GUANACASTE R.L.
+
+Extra-territorial use*** of MCC/MNC, Annex E to Recommendation ITU-T E.212
+
+    Country
+                                         MCC+MNC*              MSIN** range to be used           Name of assignee
+    or Geographical Area
+
+    Germany                              262 74                0000099000 - 0000099099           Ericsson GmbH
+    (Country A)
+    Sweden                               262 74                0000099100 - 0000099199           Ericsson GmbH
+    (Country B – Where the
+    MCC+MNC is to be used
+    extra-territorially)
+
+____________
+*        MCC: Mobile Country Code
+         MNC: Mobile Network Code
+**       MSIN: Mobile Subscription Identification Number
+***      As defined in Annex E to Recommendation ITU-T E.212, extra-territorial use of an MCC+MNC is the term used to describe
+         the situation where an MCC+MNC that has been assigned to an operator in one country, Country A, is used in another
+         country, Country B, through a base station established in Country B.
+
+
+
+
+    ITU Operational Bulletin                                                                                     No. 1348 – 45
+                         List of International Signalling Point Codes (ISPC)
+                      (According to Recommendation ITU-T Q.708 (03/1999))
+                                      - Position on 01 July 2024 -
+                                    Annex to ITU Operational Bulletin No. 1295 – 1.VII.2024
+                                                     Amendment No. 42
+
+
+ Country / Geographical area            Unique name of the signalling point      Name of the signalling point operator
+ ISPC            DEC
+ Botswana ADD
+ 6-105-2         13130                  SIG-GAB-DSC161-STP                       Orange Botswana
+ 6-105-3         13131                  SIG-FRA-DSC162-STP                       Orange Botswana
+ Lesotho ADD
+ 6-103-2         13114                  MSLKK03                                  Vodacom Lesotho (pty) ltd.
+ 6-103-3         13115                  MSMSW03                                  Vodacom Lesotho (pty) ltd.
+ Tajikistan ADD
+ 4-159-7         9471                   Dushanbe                                 Babilon-Mobile
+
+
+____________
+ISPC: International Signalling Point Codes.
+
+
+
+
+ No. 1348 – 46                                                                                  ITU Operational Bulletin
+

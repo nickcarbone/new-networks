@@ -1,0 +1,27 @@
+name: Correction
+description: Report an error on New Networks
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: code
+    attributes:
+      label: Code
+      description: The MCC and MNC, e.g. 262 74. Leave blank for a general correction.
+  - type: input
+    id: holder
+    attributes:
+      label: Holder as shown
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source that shows it
+      description: A link to a registry, bulletin, operator statement or report.
+    validations:
+      required: true

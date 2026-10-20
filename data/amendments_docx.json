@@ -1,0 +1,4681 @@
+{
+ "issues": {
+  "1281": [],
+  "1282": [
+   1
+  ],
+  "1284": [],
+  "1285": [],
+  "1286": [
+   4
+  ],
+  "1287": [
+   5
+  ],
+  "1288": [],
+  "1289": [],
+  "1290": [],
+  "1291": [
+   8
+  ],
+  "1292": [
+   9
+  ],
+  "1294": [
+   11
+  ],
+  "1296": [
+   13
+  ],
+  "1297": [
+   14
+  ],
+  "1298": [],
+  "1299": [
+   16
+  ],
+  "1300": [
+   17
+  ],
+  "1301": [
+   18
+  ],
+  "1302": [],
+  "1303": [
+   20
+  ],
+  "1304": [
+   21
+  ],
+  "1305": [
+   22
+  ],
+  "1306": [
+   23
+  ],
+  "1307": [
+   24
+  ],
+  "1308": [
+   25
+  ],
+  "1309": [
+   26
+  ],
+  "1310": [
+   27
+  ],
+  "1311": [
+   28
+  ],
+  "1312": [
+   29
+  ],
+  "1313": [
+   30
+  ],
+  "1314": [
+   31
+  ],
+  "1315": [
+   32
+  ],
+  "1316": [
+   33
+  ],
+  "1318": [
+   35
+  ],
+  "1319": [
+   36
+  ],
+  "1320": [
+   37
+  ],
+  "1321": [
+   38
+  ],
+  "1322": [
+   39
+  ],
+  "1323": [
+   40
+  ],
+  "1324": [
+   41
+  ],
+  "1325": [
+   42
+  ],
+  "1326": [
+   43
+  ],
+  "1327": [
+   44
+  ],
+  "1328": [
+   45
+  ],
+  "1329": [],
+  "1330": [],
+  "1331": [
+   48
+  ],
+  "1332": [],
+  "1333": [
+   49
+  ],
+  "1334": [
+   50
+  ],
+  "1335": [
+   51
+  ],
+  "1336": [
+   52
+  ],
+  "1337": [
+   53
+  ],
+  "1338": [
+   54
+  ],
+  "1339": [
+   55
+  ],
+  "1340": [
+   56
+  ],
+  "1341": [
+   57
+  ],
+  "1342": [
+   58
+  ],
+  "1343": [
+   59
+  ],
+  "1344": [
+   60
+  ],
+  "1345": [
+   61
+  ],
+  "1346": [
+   62
+  ],
+  "1347": [
+   63
+  ],
+  "1348": [
+   64
+  ],
+  "1349": [
+   65
+  ]
+ },
+ "entries": [
+  {
+   "issue": 1282,
+   "amendment": 1,
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "58",
+   "name": "Wi-Sky (NSW) Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1282,
+   "amendment": 1,
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "50",
+   "name": "eRate Sverige AB",
+   "note": null
+  },
+  {
+   "issue": 1282,
+   "amendment": 1,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "95",
+   "name": "HMD Global Oy",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "351",
+   "name": "MPVWIFI Inc.",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "Denmark",
+   "op": "ADD",
+   "mcc": "238",
+   "mnc": "19",
+   "name": "YATECO OÜ",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "New Zealand",
+   "op": "ADD",
+   "mcc": "530",
+   "mnc": "12",
+   "name": "Broadband & Internet New Zealand Limited",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "United Kingdom",
+   "op": "ADD",
+   "mcc": "234",
+   "mnc": "05",
+   "name": "Spitfire Network Services Limited",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "United Kingdom",
+   "op": "ADD",
+   "mcc": "234",
+   "mnc": "79",
+   "name": "UK Telecoms Lab (UKTL)",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "United Kingdom",
+   "op": "ADD",
+   "mcc": "234",
+   "mnc": "87",
+   "name": "LEBARA MOBILE LIMITED",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "United Kingdom",
+   "op": "LIR",
+   "mcc": "234",
+   "mnc": "04",
+   "name": "WAVE MOBILE LTD",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "United Kingdom",
+   "op": "LIR",
+   "mcc": "234",
+   "mnc": "18",
+   "name": "WIRELESS LOGIC LIMITED",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "United Kingdom",
+   "op": "LIR",
+   "mcc": "234",
+   "mnc": "74",
+   "name": "CIRCLES MVNE International B.V.",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "08",
+   "name": "SpaceX",
+   "note": null
+  },
+  {
+   "issue": 1286,
+   "amendment": 4,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "09",
+   "name": "China Telecommunications Corporation",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "352",
+   "name": "Lytton Area Wireless Society",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Czech Rep.",
+   "op": "SUP",
+   "mcc": "230",
+   "mnc": "11",
+   "name": "incrate s.r.o.",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Czech Rep.",
+   "op": "ADD",
+   "mcc": "230",
+   "mnc": "10",
+   "name": "DataCell s.r.o.",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Czech Rep.",
+   "op": "ADD",
+   "mcc": "230",
+   "mnc": "22",
+   "name": "O2 Czech Republic a.s.",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Czech Rep.",
+   "op": "ADD",
+   "mcc": "230",
+   "mnc": "53",
+   "name": "Škoda Auto a.s.",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "200",
+   "name": "VIRGIN MOBILE MÉXICO, S. DE R.L. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "040",
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "130",
+   "name": "ALESTRA SERVICIOS MÓVILES, S.A. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "New Zealand",
+   "op": "ADD",
+   "mcc": "530",
+   "mnc": "13",
+   "name": "One New Zealand Group Limited",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Switzerland",
+   "op": "SUP",
+   "mcc": "228",
+   "mnc": "59",
+   "name": "Vectone Mobile Limited, London",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "65",
+   "name": "Nexphone AG",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "24",
+   "name": "Voxbone SA",
+   "note": null
+  },
+  {
+   "issue": 1287,
+   "amendment": 5,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "90",
+   "name": "Truphone Limited",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Japan",
+   "op": "SUP",
+   "mcc": "441",
+   "mnc": "01",
+   "name": "SoftBank Corp.",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "91",
+   "name": "NTT DOCOMO, INC.",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "92",
+   "name": "KDDI Corporation",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "93",
+   "name": "SoftBank Corp.",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "94",
+   "name": "Rakuten Mobile Network, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "214",
+   "name": "Vroove Inc.",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "28",
+   "name": "Consorcio de Telecomunicaciones Avanzadas, S.A.",
+   "note": null
+  },
+  {
+   "issue": 1291,
+   "amendment": 8,
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "704",
+   "name": "AMPER SISTEMAS, S.A.U.",
+   "note": null
+  },
+  {
+   "issue": 1292,
+   "amendment": 9,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "911",
+   "name": "Halton Regional Police Service",
+   "note": null
+  },
+  {
+   "issue": 1292,
+   "amendment": 9,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "24",
+   "name": "CLARO CHILE SpA",
+   "note": null
+  },
+  {
+   "issue": 1292,
+   "amendment": 9,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "29",
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "note": null
+  },
+  {
+   "issue": 1292,
+   "amendment": 9,
+   "country": "Georgia",
+   "op": "ADD",
+   "mcc": "282",
+   "mnc": "17",
+   "name": "\"TMTECH\" LTD",
+   "note": null
+  },
+  {
+   "issue": 1292,
+   "amendment": 9,
+   "country": "Hungary",
+   "op": "SUP",
+   "mcc": "216",
+   "mnc": "02",
+   "name": "MVM NET Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1292,
+   "amendment": 9,
+   "country": "Hungary",
+   "op": "ADD",
+   "mcc": "216",
+   "mnc": "02",
+   "name": "HM EI Zrt.",
+   "note": null
+  },
+  {
+   "issue": 1294,
+   "amendment": 11,
+   "country": "Portugal",
+   "op": "LIR",
+   "mcc": "268",
+   "mnc": "80",
+   "name": "E-Redes - Distribuição de Eletricidade, S.A.",
+   "note": null
+  },
+  {
+   "issue": 1294,
+   "amendment": 11,
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "72",
+   "name": "BSE Software GmbH",
+   "note": null
+  },
+  {
+   "issue": 1296,
+   "amendment": 13,
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "73",
+   "name": "iWay AG",
+   "note": null
+  },
+  {
+   "issue": 1297,
+   "amendment": 14,
+   "country": "Micronesia",
+   "op": "ADD",
+   "mcc": "550",
+   "mnc": "02",
+   "name": "Boom! Inc.",
+   "note": null
+  },
+  {
+   "issue": 1297,
+   "amendment": 14,
+   "country": "Panama",
+   "op": "SUP",
+   "mcc": "714",
+   "mnc": "04",
+   "name": "Digicel (Panamá), S.A.",
+   "note": null
+  },
+  {
+   "issue": 1297,
+   "amendment": 14,
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "02",
+   "name": "Alta Tecnologia en Comunicacions, S.L.",
+   "note": null
+  },
+  {
+   "issue": 1297,
+   "amendment": 14,
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "12",
+   "name": "VENUS MOVIL, S.L. UNIPERSONAL",
+   "note": null
+  },
+  {
+   "issue": 1297,
+   "amendment": 14,
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "707",
+   "name": "MINISTERIO DE DEFENSA - CENTRO DE SISTEMAS Y TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+   "note": null
+  },
+  {
+   "issue": 1297,
+   "amendment": 14,
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "59",
+   "name": "Myndigheten för samhällsskydd och beredskap (MSB) / Swedish Civil Contingencies Agency - Used for private network (PPDR network (Rakel G2))",
+   "note": null
+  },
+  {
+   "issue": 1299,
+   "amendment": 16,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "17",
+   "name": "Optus Mobile Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1299,
+   "amendment": 16,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "90",
+   "name": "Alphawest Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1299,
+   "amendment": 16,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "970",
+   "name": "Canadian Pacific Railway Company",
+   "note": null
+  },
+  {
+   "issue": 1299,
+   "amendment": 16,
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "22",
+   "name": "Mediafon Carrier Services UAB",
+   "note": null
+  },
+  {
+   "issue": 1300,
+   "amendment": 17,
+   "country": "Kazakhstan",
+   "op": "ADD",
+   "mcc": "401",
+   "mnc": "10",
+   "name": "Freedom Telecom Operations LLP",
+   "note": null
+  },
+  {
+   "issue": 1300,
+   "amendment": 17,
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "02",
+   "name": "OLAMO MOBILE, S.L. UNIPERSONAL",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "13",
+   "name": "Telia Eesti AS",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "35",
+   "name": "Teliqon Communications OÜ",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "08",
+   "name": "Cell C (Pty) Ltd",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "09",
+   "name": "Cell C (Pty) Ltd",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "11",
+   "name": "Mobile Telephone Networks (MTN) Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "18",
+   "name": "Mobile Telephone Networks (MTN) Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "25",
+   "name": "Datora Mobile Telecomunicações SA",
+   "note": null
+  },
+  {
+   "issue": 1301,
+   "amendment": 18,
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "49",
+   "name": "Mobile Telecommunications Company K.S.C.P./Zain Bahrain BSC",
+   "note": null
+  },
+  {
+   "issue": 1303,
+   "amendment": 20,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "722",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1303,
+   "amendment": 20,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "723",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1303,
+   "amendment": 20,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "215",
+   "name": "KYOCERA Mirai Envision Co., Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1303,
+   "amendment": 20,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "216",
+   "name": "Eureka Wireless K.K.",
+   "note": null
+  },
+  {
+   "issue": 1304,
+   "amendment": 21,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "724",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1304,
+   "amendment": 21,
+   "country": "Hungary",
+   "op": "ADD",
+   "mcc": "216",
+   "mnc": "25",
+   "name": "Yettel Hungary Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1304,
+   "amendment": 21,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "24",
+   "name": "Japan Communications Inc.",
+   "note": null
+  },
+  {
+   "issue": 1304,
+   "amendment": 21,
+   "country": "Japan",
+   "op": "LIR",
+   "mcc": "441",
+   "mnc": "211",
+   "name": "STARCAT Co., Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1304,
+   "amendment": 21,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "30",
+   "name": "OQ Technology",
+   "note": null
+  },
+  {
+   "issue": 1304,
+   "amendment": 21,
+   "country": "Trial of a proposed new international telecommunication service, shared code",
+   "op": "ADD",
+   "mcc": "991",
+   "mnc": "04",
+   "name": "E-Space Inc.(temporary assignment for trial until 17.X.2025)",
+   "note": null
+  },
+  {
+   "issue": 1305,
+   "amendment": 22,
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "50",
+   "name": "Telavox AB",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "04",
+   "name": "OTE AE",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "11",
+   "name": "INTERCONNECT",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "12",
+   "name": "YUBOTO",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "13",
+   "name": "COMPATEL LIMITED",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "15",
+   "name": "BWS",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "16",
+   "name": "INTER TELECOM",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "00",
+   "name": "INTER TELECOM",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "04",
+   "name": "OSE AE",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "06",
+   "name": "VODAFONE-PANAFON",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "08",
+   "name": "RC",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "16",
+   "name": "INTERCONNECT",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "17",
+   "name": "NOVA M.A.E.",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "21",
+   "name": "CELL MOBILE",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "01",
+   "name": "OTE AE",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "02",
+   "name": "OTE AE",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "07",
+   "name": "AMD TELECOM",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "09",
+   "name": "NOVA M.A.E.",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "10",
+   "name": "NOVA M.A.E.",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "14",
+   "name": "VODAFONE-PANAFON",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "74",
+   "name": "Netplus.ch SA",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "11",
+   "name": "\"T.R. Communications\" Limited Liability Company",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "701",
+   "name": "Public enterprise \"Ukrspetszvyazok\"",
+   "note": null
+  },
+  {
+   "issue": 1306,
+   "amendment": 23,
+   "country": "Ukraine",
+   "op": "LIR",
+   "mcc": "255",
+   "mnc": "04",
+   "name": "Limited Liability Company \"International Telecommunications\"",
+   "note": null
+  },
+  {
+   "issue": 1307,
+   "amendment": 24,
+   "country": "Namibia",
+   "op": "SUP",
+   "mcc": "649",
+   "mnc": "07",
+   "name": "Capricorn Connect",
+   "note": null
+  },
+  {
+   "issue": 1308,
+   "amendment": 25,
+   "country": "Mexico",
+   "op": "SUP",
+   "mcc": "334",
+   "mnc": "060",
+   "name": "SERVICIOS DE ACCESO INALÁMBRICO, S.A DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1308,
+   "amendment": 25,
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "210",
+   "name": "YONDER MEDIA MOBILE MÉXICO, S. DE R.L. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1308,
+   "amendment": 25,
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "010",
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1308,
+   "amendment": 25,
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "050",
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1308,
+   "amendment": 25,
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "090",
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1308,
+   "amendment": 25,
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "100",
+   "name": "FINANCIERA PARA EL BIENESTAR",
+   "note": null
+  },
+  {
+   "issue": 1308,
+   "amendment": 25,
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "160",
+   "name": "TELEVISIÓN INTERNACIONAL, S.A. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "060",
+   "name": "Karrier One Inc.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Denmark",
+   "op": "SUP",
+   "mcc": "238",
+   "mnc": "03",
+   "name": "Syniverse Technologies",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Denmark",
+   "op": "ADD",
+   "mcc": "238",
+   "mnc": "95",
+   "name": "DANSK BEREDSKABSKOMMUNIKATION",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "SUP",
+   "mcc": "454",
+   "mnc": "29",
+   "name": "Hong Kong Telecommunications (HKT) Limited",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "SUP",
+   "mcc": "454",
+   "mnc": "32",
+   "name": "Hong Kong Broadband Network Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "SUP",
+   "mcc": "454",
+   "mnc": "36",
+   "name": "Easco Telecommunications Limited",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "290",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "291",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "292",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "293",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "294",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "295",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "296",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "297",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "298",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "299",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "380",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "382",
+   "name": "South China Telecommunications (H.K.) Limited",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "383",
+   "name": "China Mobile Hong Kong Company Limited",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "390",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "391",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "392",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "393",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "394",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "395",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "396",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "397",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "398",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "399",
+   "name": "Government use",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "LIR",
+   "mcc": "454",
+   "mnc": "08",
+   "name": "TP Hong Kong Operations Limited",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "LIR",
+   "mcc": "454",
+   "mnc": "21",
+   "name": "VNET Group Limited",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Hong Kong, China",
+   "op": "LIR",
+   "mcc": "454",
+   "mnc": "22",
+   "name": "HuiYinBi Telecom (Hong Kong) Limited",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "04",
+   "name": "Globalsim Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "07",
+   "name": "Mirs Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "09",
+   "name": "Marathon 018 Xphone Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "11",
+   "name": "365 Telecom (MVNO)",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "12",
+   "name": "Free Telecom (MVNO)",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "13",
+   "name": "Ituran Cellular Communications",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "14",
+   "name": "Alon Cellular Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "15",
+   "name": "Home Cellular (MVNO)",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "16",
+   "name": "Rami Levi (MVNO)",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "17",
+   "name": "Gale Phone (MVNO)",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "19",
+   "name": "Azi Communications Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "21",
+   "name": "B.I.P Communications Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "24",
+   "name": "012 Telecom Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "27",
+   "name": "BITIT Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "29",
+   "name": "CG Networks",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "07",
+   "name": "Hot Mobile Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "09",
+   "name": "Wecom Mobile Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "11",
+   "name": "Merkaziya Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "12",
+   "name": "Widly Mobile Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "14",
+   "name": "Pelephone Communications Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "15",
+   "name": "Cellcom Israel Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "16",
+   "name": "Rami Levi Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "19",
+   "name": "Telzar 019 Ltd",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "21",
+   "name": "Xphone 018 Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "24",
+   "name": "Partner Communications Co. Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "27",
+   "name": "Paycall Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "29",
+   "name": "C.M.G Networks",
+   "note": null
+  },
+  {
+   "issue": 1309,
+   "amendment": 26,
+   "country": "Slovakia",
+   "op": "ADD",
+   "mcc": "231",
+   "mnc": "51",
+   "name": "CETIN/CETIN Networks, s. r. o.",
+   "note": null
+  },
+  {
+   "issue": 1310,
+   "amendment": 27,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "301",
+   "name": "ECOTEL inc.",
+   "note": null
+  },
+  {
+   "issue": 1310,
+   "amendment": 27,
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "220",
+   "name": "MEGA CABLE, S.A. DE C.V",
+   "note": null
+  },
+  {
+   "issue": 1310,
+   "amendment": 27,
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "50",
+   "name": "eRate Sverige AB",
+   "note": null
+  },
+  {
+   "issue": 1310,
+   "amendment": 27,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "15",
+   "name": "SITA (Formerly OnAir N.V.)",
+   "note": null
+  },
+  {
+   "issue": 1310,
+   "amendment": 27,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "99",
+   "name": "Athalos Global Services BV",
+   "note": null
+  },
+  {
+   "issue": 1310,
+   "amendment": 27,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "23",
+   "name": "Bloxtel Inc.",
+   "note": null
+  },
+  {
+   "issue": 1310,
+   "amendment": 27,
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "59",
+   "name": "Bird B.V. (formerly MessageBird B.V.)",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "002",
+   "name": "Edatel S.A.",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "020",
+   "name": "Emtelsa",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "102",
+   "name": "Bellsouth Colombia S.A.",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "130",
+   "name": "Avantel",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "100",
+   "name": "COMUNICACION CELULAR S A COMCEL S A",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "124",
+   "name": "COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "154",
+   "name": "VIRGIN MOBILE COLOMBIA S.A.S.",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "165",
+   "name": "COLOMBIA MOVIL S A E S P",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "187",
+   "name": "EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP - ETB S.A. E.S.P.",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "199",
+   "name": "SUMA MOVIL S.A.S.",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "360",
+   "name": "PARTNERS TELECOM COLOMBIA SAS",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "001",
+   "name": "COLOMBIA TELECOMUNICACIONES S.A E.S.P. BIC",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "101",
+   "name": "COMUNICACION CELULAR S A COMCEL S A",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "103",
+   "name": "COLOMBIA MOVIL S A E S P",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "111",
+   "name": "COLOMBIA MÓVIL S A E S P",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "123",
+   "name": "COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC",
+   "note": null
+  },
+  {
+   "issue": 1311,
+   "amendment": 28,
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "709",
+   "name": "CENTRE DE TELECOMUNICACIONS I TECNOLOGIES DE LA INFORMACIÓ DE LA GENERALITAT DE CATALUNYA",
+   "note": null
+  },
+  {
+   "issue": 1312,
+   "amendment": 29,
+   "country": "Namibia",
+   "op": "SUP",
+   "mcc": "649",
+   "mnc": "05",
+   "name": "Demshi Investments CC",
+   "note": null
+  },
+  {
+   "issue": 1312,
+   "amendment": 29,
+   "country": "Namibia",
+   "op": "ADD",
+   "mcc": "649",
+   "mnc": "07",
+   "name": "Loc Eight Mobile (Pty) Ltd",
+   "note": null
+  },
+  {
+   "issue": 1312,
+   "amendment": 29,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "72",
+   "name": "Tele2 Sverige Aktiebolag (Formerly Tele2 IoT)",
+   "note": null
+  },
+  {
+   "issue": 1312,
+   "amendment": 29,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "63",
+   "name": "Beamlink, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1312,
+   "amendment": 29,
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "18",
+   "name": "Wireless Maritime Services, LLC (Formerly Cingular Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1313,
+   "amendment": 30,
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "205",
+   "name": "5G EP Testbed",
+   "note": null
+  },
+  {
+   "issue": 1313,
+   "amendment": 30,
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "704",
+   "name": "AMPER SISTEMAS, S.A.U.",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "21",
+   "name": "Tismi B.V.",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "33",
+   "name": "J-Mobile OÜ (formerly Crowdfaster OÜ)",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "36",
+   "name": "GLOBALCELL EU",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "37",
+   "name": "Revaltex Grooup OÜ",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "70",
+   "name": "One Hungary Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "71",
+   "name": "One Hungary Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "230",
+   "name": "VINOC, S.A.P.I. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1314,
+   "amendment": 31,
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "62",
+   "name": "KORE Wireless (Formerly Twilio Inc.)",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "996",
+   "name": "BC Hydro (formerly Powertech Labs (experimental))",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "420",
+   "name": "TELUS Mobility",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Georgia",
+   "op": "ADD",
+   "mcc": "282",
+   "mnc": "18",
+   "name": "\"lagi\" LTD",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "SUP",
+   "mcc": "437",
+   "mnc": "11",
+   "name": "iTel",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "ADD",
+   "mcc": "437",
+   "mnc": "04",
+   "name": "Alfa Telekom CJSC",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "01",
+   "name": "Sky Mobile LTD",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "03",
+   "name": "NUR Telekom LLC",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "05",
+   "name": "Alfa Telekom CJSC",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "06",
+   "name": "Kyrgyztelecom OJSC",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "09",
+   "name": "NUR Telekom LLC",
+   "note": null
+  },
+  {
+   "issue": 1315,
+   "amendment": 32,
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "10",
+   "name": "SAIMA TELECOM JSC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "975",
+   "name": "BC Hydro",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "16",
+   "name": "E-Plus Mobilfunk GmbH & Co. KG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "17",
+   "name": "E-Plus Mobilfunk GmbH & Co. KG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "75",
+   "name": "Core Network Dynamics GmbH",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "77",
+   "name": "E-Plus Mobilfunk GmbH & Co. KG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "13",
+   "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw)",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "14",
+   "name": "Lebara Limited",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "24",
+   "name": "TelcoVillage GmbH",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "25",
+   "name": "MTEL Deutschland GmbH",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "70",
+   "name": "BDBOS",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "76",
+   "name": "BDBOS",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "868",
+   "name": "BDBOS",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "869",
+   "name": "TKÜV-Netzanbindungen",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "03",
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "05",
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "12",
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "20",
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "23",
+   "name": "Drillisch Netz AG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "73",
+   "name": "Nokia Solutions and Networks GmbH & Co.KG",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "74",
+   "name": "Ericsson GmbH",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "240",
+   "name": "PEGASO PCS, S.A. DE C.V.",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "310",
+   "mnc": "035",
+   "name": "ETEX Communications, LP (d/b/a) ETEX Wireless",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "310",
+   "mnc": "290",
+   "name": "NEP Cellcorp Inc.",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "310",
+   "mnc": "360",
+   "name": "Cellular Network Partnership dba Pioneer Cellular",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "311",
+   "mnc": "930",
+   "name": "Cox Communications",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "311",
+   "mnc": "950",
+   "name": "Sunman Telecommunications Corp.",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "312",
+   "mnc": "270",
+   "name": "Cellular Network Partnership dba Pioneer Cellular",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "312",
+   "mnc": "760",
+   "name": "ARCTIC SLOPE TELEPHONE ASSOCIATION COOPERATIVE",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "312",
+   "mnc": "810",
+   "name": "Bristol Bay Telephone Cooperative",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "313",
+   "mnc": "080",
+   "name": "Speedwavz LLP",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "313",
+   "mnc": "570",
+   "name": "Cellular Network Partnership",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "313",
+   "mnc": "600",
+   "name": "ST Engineering iDirect",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "310",
+   "mnc": "030",
+   "name": "mobi",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "310",
+   "mnc": "060",
+   "name": "Karrier One",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "550",
+   "name": "REALLY COMMUNICATIONS",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "560",
+   "name": "Private Tech, Inc., dba Cape",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "570",
+   "name": "Newmont Corporation",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "580",
+   "name": "Lower Colorado River Authority",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "590",
+   "name": "Lynk Global, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "600",
+   "name": "XNET Inc",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "610",
+   "name": "IMSI.AI",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "620",
+   "name": "Memphis Light, Gas, and Water",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "630",
+   "name": "Private Tech, Inc., dba Cape",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "640",
+   "name": "Private Tech, Inc., dba Cape",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "650",
+   "name": "Private Tech, Inc., dba Cape",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "660",
+   "name": "Private Tech, Inc., dba Cape",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "670",
+   "name": "Wi-DAS LLC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "680",
+   "name": "Comcast OTR1, LLC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "690",
+   "name": "Agri-Valley Communications, Inc",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "700",
+   "name": "Tampa Electric Company",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "710",
+   "name": "Tribal Ready, PBC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "720",
+   "name": "OXIO, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "730",
+   "name": "TextNow, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "740",
+   "name": "Ringer Mobile, LLC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "750",
+   "name": "SDF, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "760",
+   "name": "Broadband Antenna Tracking Systems, Inc. (DBA. BATS Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "770",
+   "name": "Westbold LLC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "780",
+   "name": "Saint Regis Mohawk Tribe",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "790",
+   "name": "Neuner Mobile Technologies LLC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "800",
+   "name": "Boost Network",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "810",
+   "name": "ORCID - The Open RAN Center for Integration and Deployment",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "310",
+   "mnc": "460",
+   "name": "Eseye LLC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "312",
+   "mnc": "570",
+   "name": "MHG Telco LLC",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "312",
+   "mnc": "620",
+   "name": "Airlinq Inc",
+   "note": null
+  },
+  {
+   "issue": 1316,
+   "amendment": 33,
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "312",
+   "mnc": "690",
+   "name": "Tecore Global Services, LLC",
+   "note": null
+  },
+  {
+   "issue": 1318,
+   "amendment": 35,
+   "country": "New Zealand",
+   "op": "LIR",
+   "mcc": "530",
+   "mnc": "00",
+   "name": "Spark NZT",
+   "note": null
+  },
+  {
+   "issue": 1318,
+   "amendment": 35,
+   "country": "New Zealand",
+   "op": "LIR",
+   "mcc": "530",
+   "mnc": "02",
+   "name": "Spark NZT",
+   "note": null
+  },
+  {
+   "issue": 1319,
+   "amendment": 36,
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "230",
+   "name": "SETROC MOBILE GROUP SAS",
+   "note": null
+  },
+  {
+   "issue": 1319,
+   "amendment": 36,
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "13",
+   "name": "Schweizerische Bundesbahn SBB",
+   "note": null
+  },
+  {
+   "issue": 1320,
+   "amendment": 37,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "25",
+   "name": "SoftBank Corp.",
+   "note": null
+  },
+  {
+   "issue": 1320,
+   "amendment": 37,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "26",
+   "name": "NTT DOCOMO, INC.",
+   "note": null
+  },
+  {
+   "issue": 1320,
+   "amendment": 37,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "55",
+   "name": "KDDI CORPORATION",
+   "note": null
+  },
+  {
+   "issue": 1320,
+   "amendment": 37,
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "19",
+   "name": "Vecton Mobile (Sweden) Ltd",
+   "note": null
+  },
+  {
+   "issue": 1320,
+   "amendment": 37,
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "39",
+   "name": "Primlight AB",
+   "note": null
+  },
+  {
+   "issue": 1320,
+   "amendment": 37,
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "63",
+   "name": "Fink Telecom Services",
+   "note": null
+  },
+  {
+   "issue": 1320,
+   "amendment": 37,
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "80",
+   "name": "Phonegroup SA",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "05",
+   "name": "The Ozitel Network Pty. Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "08",
+   "name": "One.Tel GSM 1800 Pty. Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "09",
+   "name": "Airnet Commercial Australia Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "20",
+   "name": "Ausgrid Corporation",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "22",
+   "name": "iiNet Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "28",
+   "name": "RCOM International Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "30",
+   "name": "Compatel Limited",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "47",
+   "name": "Woodside Energy Limited",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "99",
+   "name": "One.Tel GSM 1800 Pty. Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "60",
+   "name": "Starlink Internet Services Pte Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "63",
+   "name": "March IT Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "01",
+   "name": "Telstra Limited",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "11",
+   "name": "Telstra Limited",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "26",
+   "name": "Sinch Australia Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "33",
+   "name": "Sinch Australia Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "35",
+   "name": "Bird.com Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "38",
+   "name": "TP Operations Australia Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "39",
+   "name": "Telstra Limited",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "51",
+   "name": "Fortescue Ltd",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "71",
+   "name": "Telstra Limited",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "72",
+   "name": "Telstra Limited",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "18",
+   "name": "CLOUD COMMUNICATIONS OÜ",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "29",
+   "name": "XFERA MÓVILES, S.A.U.",
+   "note": null
+  },
+  {
+   "issue": 1321,
+   "amendment": 38,
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "75",
+   "name": "Giesecke+Devrient Mobile Security TCD UK Limited (Formerly Podsystem Ltd.)",
+   "note": null
+  },
+  {
+   "issue": 1322,
+   "amendment": 39,
+   "country": "Israel",
+   "op": "LIR",
+   "mcc": "425",
+   "mnc": "08",
+   "name": "Cellcom ISRAEL Ltd",
+   "note": null
+  },
+  {
+   "issue": 1322,
+   "amendment": 39,
+   "country": "Namibia",
+   "op": "ADD",
+   "mcc": "649",
+   "mnc": "05",
+   "name": "Click Cloud Hosting Services CC",
+   "note": null
+  },
+  {
+   "issue": 1322,
+   "amendment": 39,
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "702",
+   "name": "Limited Liability Company \"J&W\"",
+   "note": null
+  },
+  {
+   "issue": 1322,
+   "amendment": 39,
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "707",
+   "name": "\"Kyivstar\" PrJSC",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "725",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "731",
+   "name": "Terrestar Solutions Inc.",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "821",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "972",
+   "name": "Hydro-Québec",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "Switzerland",
+   "op": "SUP",
+   "mcc": "228",
+   "mnc": "55",
+   "name": "Komodos SA (formerly WeMobile SA)",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "20",
+   "name": "Intermatica",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "21",
+   "name": "Wins Limited (Formerly Seanet Maritime Communications AB)",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "22",
+   "name": "MediaLincc Ltd",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "35",
+   "name": "Globecomm Network Services",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "36",
+   "name": "Azerfon LLC",
+   "note": null
+  },
+  {
+   "issue": 1323,
+   "amendment": 40,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "38",
+   "name": "Multiregional TransitTelecom (MTT)",
+   "note": null
+  },
+  {
+   "issue": 1324,
+   "amendment": 41,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "14",
+   "name": "AAPT Ltd",
+   "note": null
+  },
+  {
+   "issue": 1324,
+   "amendment": 41,
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "15",
+   "name": "3GIS Pty Ltd. (Telstra & Hutchison 3G)",
+   "note": null
+  },
+  {
+   "issue": 1324,
+   "amendment": 41,
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "99",
+   "name": "Telstra Limited",
+   "note": null
+  },
+  {
+   "issue": 1324,
+   "amendment": 41,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "03",
+   "name": "TPG Telecom Limited",
+   "note": null
+  },
+  {
+   "issue": 1324,
+   "amendment": 41,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "07",
+   "name": "TPG Telecom Limited",
+   "note": null
+  },
+  {
+   "issue": 1324,
+   "amendment": 41,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "23",
+   "name": "Vocus Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1324,
+   "amendment": 41,
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "27",
+   "name": "Ergon Energy Telecommunications Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1325,
+   "amendment": 42,
+   "country": "Botswana",
+   "op": "ADD",
+   "mcc": "652",
+   "mnc": "06",
+   "name": "PARATUS TELECOMMUNICATIONS (PTY)LTD",
+   "note": null
+  },
+  {
+   "issue": 1325,
+   "amendment": 42,
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "10",
+   "name": "Intergo Telecom OÜ",
+   "note": null
+  },
+  {
+   "issue": 1326,
+   "amendment": 43,
+   "country": "Gibraltar",
+   "op": "ADD",
+   "mcc": "266",
+   "mnc": "04",
+   "name": "Melmasti Global (Gibraltar) Ltd (trading as “MCOM”)",
+   "note": null
+  },
+  {
+   "issue": 1326,
+   "amendment": 43,
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "03",
+   "name": "One Hungary Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1326,
+   "amendment": 43,
+   "country": "Japan",
+   "op": "SUP",
+   "mcc": "440",
+   "mnc": "09",
+   "name": "Marubeni Network Solutions Inc.",
+   "note": null
+  },
+  {
+   "issue": 1326,
+   "amendment": 43,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "09",
+   "name": "Misora Connect Inc.",
+   "note": null
+  },
+  {
+   "issue": 1326,
+   "amendment": 43,
+   "country": "Japan",
+   "op": "LIR",
+   "mcc": "441",
+   "mnc": "210",
+   "name": "NTT EAST, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1326,
+   "amendment": 43,
+   "country": "Kazakhstan",
+   "op": "ADD",
+   "mcc": "401",
+   "mnc": "04",
+   "name": "KaR-Tel LLP",
+   "note": null
+  },
+  {
+   "issue": 1327,
+   "amendment": 44,
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "21",
+   "name": "Trinavo LLC",
+   "note": null
+  },
+  {
+   "issue": 1327,
+   "amendment": 44,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "04",
+   "name": "VOYE GLOBAL CONNECTIVITY LTD",
+   "note": null
+  },
+  {
+   "issue": 1327,
+   "amendment": 44,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "10",
+   "name": "VOICENTER LTD",
+   "note": null
+  },
+  {
+   "issue": 1327,
+   "amendment": 44,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "88",
+   "name": "Bondio Limited",
+   "note": null
+  },
+  {
+   "issue": 1327,
+   "amendment": 44,
+   "country": "Trial of a proposed new international telecommunication service, shared code",
+   "op": "LIR",
+   "mcc": "991",
+   "mnc": "04",
+   "name": "E-Space Inc.(temporary assignment for trial until 17.X.2026)",
+   "note": null
+  },
+  {
+   "issue": 1328,
+   "amendment": 45,
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "11",
+   "name": "GlobalCell EU Ltd. ____________* MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil",
+   "note": null
+  },
+  {
+   "issue": 1328,
+   "amendment": 45,
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "11",
+   "name": "GlobalCell EU Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1328,
+   "amendment": 45,
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "11",
+   "name": "GlobalCell EU Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1331,
+   "amendment": 48,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "992",
+   "name": "AltaLink Management Ltd Estonia ADD 248 15 BSG Estonia OÜ Ireland ADD 272 26 Vodafone Ireland Limited Sweden SUP 240 04 3G Infrastructure Services AB Sweden ADD 240 58 Telia Sverige AB ____________* MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil",
+   "note": null
+  },
+  {
+   "issue": 1331,
+   "amendment": 48,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "992",
+   "name": "AltaLink Management Ltd Estonia ADD 248 15 BSG Estonia OÜ Ireland ADD 272 26 Vodafone Ireland Limited Sweden SUP 240 04 3G Infrastructure Services AB Sweden ADD 240 58 Telia Sverige AB",
+   "note": null
+  },
+  {
+   "issue": 1331,
+   "amendment": 48,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "992",
+   "name": "AltaLink Management Ltd",
+   "note": null
+  },
+  {
+   "issue": 1331,
+   "amendment": 48,
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "15",
+   "name": "BSG Estonia OÜ",
+   "note": null
+  },
+  {
+   "issue": 1331,
+   "amendment": 48,
+   "country": "Ireland",
+   "op": "ADD",
+   "mcc": "272",
+   "mnc": "26",
+   "name": "Vodafone Ireland Limited",
+   "note": null
+  },
+  {
+   "issue": 1331,
+   "amendment": 48,
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "04",
+   "name": "3G Infrastructure Services AB",
+   "note": null
+  },
+  {
+   "issue": 1331,
+   "amendment": 48,
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "58",
+   "name": "Telia Sverige AB",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "354",
+   "name": "Every-Day Computers Inc.",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "490",
+   "name": "Freedom Mobile Inc.",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "490",
+   "name": "Videotron Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "491",
+   "name": "Videotron Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Denmark",
+   "op": "SUP",
+   "mcc": "238",
+   "mnc": "14",
+   "name": "Monty UK Global Limited",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Ireland",
+   "op": "ADD",
+   "mcc": "272",
+   "mnc": "27",
+   "name": "TP Ireland Operations Limited",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "05",
+   "name": "Svenska UMTS-Nät AB",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "20",
+   "name": "Sierra Wireless Sweden AB",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "59",
+   "name": "Myndigheten för civilt försvar (MCF) – Swedish Civil Defence and Resilience Agency – Used for private network (PPDR network (Rakel G2))",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "Switzerland",
+   "op": "SUP",
+   "mcc": "228",
+   "mnc": "63",
+   "name": "Fink Telecom Services",
+   "note": null
+  },
+  {
+   "issue": 1333,
+   "amendment": 49,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "47",
+   "name": "Société française du radiotéléphone (SFR)",
+   "note": null
+  },
+  {
+   "issue": 1334,
+   "amendment": 50,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "57",
+   "name": "AST & Science, LLC (AST SpaceMobile)",
+   "note": null
+  },
+  {
+   "issue": 1335,
+   "amendment": 51,
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "54",
+   "name": "SimCorner Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1335,
+   "amendment": 51,
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "07",
+   "name": "RING CENTRALES DE COSTA RICA S.A.",
+   "note": null
+  },
+  {
+   "issue": 1335,
+   "amendment": 51,
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "26",
+   "name": "Simsalasim Germany GmbH",
+   "note": null
+  },
+  {
+   "issue": 1335,
+   "amendment": 51,
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "21",
+   "name": "spusu Deutschland GmbH",
+   "note": null
+  },
+  {
+   "issue": 1336,
+   "amendment": 52,
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "76",
+   "name": "1GLOBAL Operations (Switzerland) GmbH",
+   "note": null
+  },
+  {
+   "issue": 1336,
+   "amendment": 52,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "27",
+   "name": "Monaco Telecom",
+   "note": null
+  },
+  {
+   "issue": 1336,
+   "amendment": 52,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "29",
+   "name": "Myriota PTY",
+   "note": null
+  },
+  {
+   "issue": 1336,
+   "amendment": 52,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "70",
+   "name": "Bureau 1440 LLC",
+   "note": null
+  },
+  {
+   "issue": 1337,
+   "amendment": 53,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "352",
+   "name": "Lytton Area Wireless Society",
+   "note": null
+  },
+  {
+   "issue": 1337,
+   "amendment": 53,
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "99",
+   "name": "MÁV Infrastructure Co. Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1338,
+   "amendment": 54,
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "20",
+   "name": "Vodacom Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1339,
+   "amendment": 55,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "151",
+   "name": "Cogeco Connexion Inc.",
+   "note": null
+  },
+  {
+   "issue": 1339,
+   "amendment": 55,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "152",
+   "name": "Cogeco Connexion Inc.",
+   "note": null
+  },
+  {
+   "issue": 1339,
+   "amendment": 55,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "160",
+   "name": "Sugar Mobile Inc.",
+   "note": null
+  },
+  {
+   "issue": 1339,
+   "amendment": 55,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "480",
+   "name": "SSi Connexions Inc.",
+   "note": null
+  },
+  {
+   "issue": 1339,
+   "amendment": 55,
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "480",
+   "name": "SSi Micro Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "724",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "725",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "821",
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "790",
+   "name": "Manitoba NetSet Ltd",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "790",
+   "name": "Xplore Inc.",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Chile",
+   "op": "SUP",
+   "mcc": "730",
+   "mnc": "19",
+   "name": "Sociedad Falabella Móvil SPA",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Chile",
+   "op": "SUP",
+   "mcc": "730",
+   "mnc": "29",
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "28",
+   "name": "Airtime Chile S.p.A.",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "29",
+   "name": "Telefonica Moviles Chile",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "30",
+   "name": "Telefonica Moviles Chile",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "31",
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "note": null
+  },
+  {
+   "issue": 1340,
+   "amendment": 56,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "32",
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "note": null
+  },
+  {
+   "issue": 1341,
+   "amendment": 57,
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "64",
+   "name": "Roam Aussie Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1341,
+   "amendment": 57,
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "34",
+   "name": "Nettora Systems OÜ",
+   "note": null
+  },
+  {
+   "issue": 1341,
+   "amendment": 57,
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "12",
+   "name": "CHADEVA SUR 2001, S.L. UNIPERSONAL",
+   "note": null
+  },
+  {
+   "issue": 1341,
+   "amendment": 57,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "33",
+   "name": "Onomondo ApS",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "540",
+   "name": "Rovvr Communications Inc.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "540",
+   "name": "Rovvr Communications Inc.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "770",
+   "name": "TNW Wireless Inc.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "08",
+   "name": "COOPERATIVA DE ELECTRIFICACION RURAL DE SAN CARLOS R.L.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Jamaica",
+   "op": "ADD",
+   "mcc": "338",
+   "mnc": "111",
+   "name": "Cable & Wireless Jamaica Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Macao, China",
+   "op": "SUP",
+   "mcc": "455",
+   "mnc": "00",
+   "name": "SmarTone – Comunicações Móveis, S.A.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Macao, China",
+   "op": "SUP",
+   "mcc": "455",
+   "mnc": "06",
+   "name": "SmarTone – Comunicações Móveis, S.A.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Macao, China",
+   "op": "LIR",
+   "mcc": "455",
+   "mnc": "01",
+   "name": "Companhia de Telecomunicações de Macau, S.A.",
+   "note": null
+  },
+  {
+   "issue": 1342,
+   "amendment": 58,
+   "country": "Macao, China",
+   "op": "LIR",
+   "mcc": "455",
+   "mnc": "04",
+   "name": "Companhia de Telecomunicações de Macau, S.A.",
+   "note": null
+  },
+  {
+   "issue": 1343,
+   "amendment": 59,
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "51",
+   "name": "Ligado Networks Subsidiary LLC (\"Ligado Subsidiary\")",
+   "note": null
+  },
+  {
+   "issue": 1344,
+   "amendment": 60,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "992",
+   "name": "AltaLink Management Ltd",
+   "note": null
+  },
+  {
+   "issue": 1344,
+   "amendment": 60,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "912",
+   "name": "Halton Regional Police Service",
+   "note": null
+  },
+  {
+   "issue": 1344,
+   "amendment": 60,
+   "country": "Uganda",
+   "op": "SUP",
+   "mcc": "641",
+   "mnc": "33",
+   "name": "Smile Communications Uganda Limited",
+   "note": null
+  },
+  {
+   "issue": 1344,
+   "amendment": 60,
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "05",
+   "name": "Roke Telkom Limited",
+   "note": null
+  },
+  {
+   "issue": 1344,
+   "amendment": 60,
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "06",
+   "name": "Savanna Fibre Limited",
+   "note": null
+  },
+  {
+   "issue": 1344,
+   "amendment": 60,
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "07",
+   "name": "Blue Crane Communications (U) Limited",
+   "note": null
+  },
+  {
+   "issue": 1344,
+   "amendment": 60,
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "20",
+   "name": "Hamilton Telecom Limited",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "100",
+   "name": "Data on Tap Inc.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "330",
+   "name": "OpenMobile Inc.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "351",
+   "name": "MPVWIFI Inc.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "848",
+   "name": "Vocom International Telecommunications, Inc",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "30",
+   "name": "SIMPRACY",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Japan",
+   "op": "SUP",
+   "mcc": "441",
+   "mnc": "215",
+   "name": "KYOCERA Mirai Envision Co., Ltd.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "27",
+   "name": "Rakuten Mobile, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "28",
+   "name": "OPTAGE Inc.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "217",
+   "name": "NTT DOCOMO, INC.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "218",
+   "name": "KDDI Corporation",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "219",
+   "name": "NTT DOCOMO, INC.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Japan",
+   "op": "LIR",
+   "mcc": "440",
+   "mnc": "13",
+   "name": "NTT DOCOMO BUSINESS, Inc.",
+   "note": null
+  },
+  {
+   "issue": 1345,
+   "amendment": 61,
+   "country": "Sudan",
+   "op": "SUP",
+   "mcc": "634",
+   "mnc": "05",
+   "name": "Network of the World Ltd (NOW)",
+   "note": null
+  },
+  {
+   "issue": 1346,
+   "amendment": 62,
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "330",
+   "name": "OpenMobile Inc.",
+   "note": null
+  },
+  {
+   "issue": 1346,
+   "amendment": 62,
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "09",
+   "name": "COOPERATIVA DE ELECTRIFICACIÓN RURAL LOS SANTOS R.L.",
+   "note": null
+  },
+  {
+   "issue": 1347,
+   "amendment": 63,
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "33",
+   "name": "CLARO CHILE SpA",
+   "note": null
+  },
+  {
+   "issue": 1347,
+   "amendment": 63,
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "710",
+   "name": "AUTORIDAD PORTUARIA DE VALENCIA",
+   "note": null
+  },
+  {
+   "issue": 1348,
+   "amendment": 64,
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "65",
+   "name": "Fear Enterprises Pty Ltd",
+   "note": null
+  },
+  {
+   "issue": 1348,
+   "amendment": 64,
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "10",
+   "name": "COOPERATIVA DE ELECTRIFICACIÓN RURAL DE GUANACASTE R.L.",
+   "note": null
+  },
+  {
+   "issue": 1349,
+   "amendment": 65,
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "704",
+   "name": "ORANGE ESPAGNE, S.A. UNIPERSONAL",
+   "note": null
+  },
+  {
+   "issue": 1349,
+   "amendment": 65,
+   "country": "Venezuela (Bolivarian Republic of)",
+   "op": "ADD",
+   "mcc": "734",
+   "mnc": "05",
+   "name": "TELEFÓNICA VENEZOLANA C.A.",
+   "note": null
+  },
+  {
+   "issue": 1349,
+   "amendment": 65,
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "25",
+   "name": "Datora Mobile Telecomunicações SA",
+   "note": null
+  }
+ ],
+ "extra": [
+  {
+   "issue": 1296,
+   "amendment": 13,
+   "cells": [
+    "Country or Geographical Area",
+    "MCC+MNC*",
+    "MSIN** range to be used",
+    "Operators Name"
+   ]
+  },
+  {
+   "issue": 1296,
+   "amendment": 13,
+   "cells": [
+    "Luxembourg(Country A)",
+    "270 07",
+    "270 07 00 0X XX XX XX",
+    "Bouygues Telecom S.A."
+   ]
+  },
+  {
+   "issue": 1296,
+   "amendment": 13,
+   "cells": [
+    "France(Country B – Where the MCC+MNC is to be used extra-territorially)",
+    "270 07",
+    "270 07 60 XX XX XX XX",
+    "Bouygues Telecom S.A."
+   ]
+  },
+  {
+   "issue": 1348,
+   "amendment": 64,
+   "cells": [
+    "Country or Geographical Area",
+    "MCC+MNC*",
+    "MSIN** range to be used",
+    "Name of assignee"
+   ]
+  },
+  {
+   "issue": 1348,
+   "amendment": 64,
+   "cells": [
+    "Germany(Country A)",
+    "262 74",
+    "0000099000 - 0000099099",
+    "Ericsson GmbH"
+   ]
+  },
+  {
+   "issue": 1348,
+   "amendment": 64,
+   "cells": [
+    "Sweden(Country B – Where the MCC+MNC is to be used extraterritorially)",
+    "262 74",
+    "0000099100 - 0000099199",
+    "Ericsson GmbH"
+   ]
+  }
+ ]
+}

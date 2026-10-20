@@ -1,0 +1,249 @@
+{
+ "tiers": {
+  "registry": "In the ITU bulletin or a national registry",
+  "operator": "Stated by the operator itself",
+  "reported": "Reported by a named outlet",
+  "inferred": "Inferred, not confirmed by a source"
+ },
+ "cards": [
+  {
+   "id": "nubicom-paraguay-1350",
+   "issue": 1350,
+   "codes": [
+    "744 07"
+   ],
+   "type": "mno",
+   "type_tier": "inferred",
+   "headline": "Paraguay's second 5G licensee gets a network code two days after its first build deadline.",
+   "headline_tiers": [
+    "registry",
+    "reported"
+   ],
+   "claims": [
+    {
+     "t": "registry",
+     "text": "Assigned 744 07 in No. 1350 of 15 October 2026. It is the first Paraguayan code added to the ITU list since November 2023.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "NUBICOM is an Argentine internet provider. It won 200 MHz of spectrum in the 3.5 GHz band in Paraguay's first 5G auction, held in 2025, alongside Claro Paraguay.",
+     "src": [
+      1
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "It announced plans for a US$200 million standalone 5G network in Paraguay, working with Ericsson and Nokia.",
+     "src": [
+      2
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "Paraguay's Comptroller General is auditing how the regulator, Conatel, handled the award. A February 2026 report found Conatel had read NUBICOM's documents very flexibly and could not verify the 100,000 subscribers it claimed in Argentina.",
+     "src": [
+      1,
+      3
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "The tender required a first tranche of base stations by 13 October 2026. ABC Color put the minimum at 22 in July and at 20 in October.",
+     "src": [
+      4,
+      5
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "On 13 October Conatel said NUBICOM had met the obligation with 34 base stations, 28 of them in Asunción, but had two subscribers. The Comptroller had not been able to verify the service was working.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "Conatel also said NUBICOM had asked it for a network code and numbering, although the licence does not oblige it to offer mobile phone service in its first five years.",
+     "src": [
+      5
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "NUBICOM registered the brands Nubi and Ucel with Paraguay's intellectual property office on 30 January 2026.",
+     "src": [
+      6
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "title": "ITU Operational Bulletin No. 1350, Amendment No. 66",
+     "outlet": "ITU",
+     "date": "2026-10-15",
+     "url": "https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1350-2026-OAS-PDF-E.pdf"
+    },
+    {
+     "title": "Paraguay evalúa cancelar la licencia 5G de Nubicom mientras avanza la investigación sobre Conatel",
+     "outlet": "TeleSemana",
+     "date": "2026-05-08",
+     "url": "https://www.telesemana.com/blog/2026/05/08/paraguay-evalua-cancelar-la-licencia-5g-de-nubicom-mientras-avanza-la-investigacion-sobre-conatel/"
+    },
+    {
+     "title": "Argentina's Nubicom to invest US$200 million in standalone 5G network in Paraguay",
+     "outlet": "BNamericas",
+     "date": "2025-10-14",
+     "url": "https://www.bnamericas.com/en/features/argentinas-nubicom-to-invest-us200-million-in-standalone-5g-network-in-paraguay"
+    },
+    {
+     "title": "Contraloría confirma irregularidades en la licitación 5G de Paraguay",
+     "outlet": "TeleSemana",
+     "date": "2026-02-25",
+     "url": "https://www.telesemana.com/blog/2026/02/25/contraloria-confirma-irregularidades-en-la-licitacion-5g-de-paraguay-y-expone-el-rol-de-conatel-nubicom-y-copaco/"
+    },
+    {
+     "title": "Nubicom debe desplegar 22 radiobases, al menos, de 5G en octubre",
+     "outlet": "ABC Color",
+     "date": "2026-07-14",
+     "url": "https://www.abc.com.py/economia/2026/07/14/nubicom-debe-desplegar-22-radiobases-al-menos-de-5g-en-octubre-que-hara-conatel-si-incumple/"
+    },
+    {
+     "title": "Conatel da por cumplido el despliegue de Nubicom, pero admite cobertura limitada",
+     "outlet": "ABC Color",
+     "date": "2026-10-13",
+     "url": "https://www.abc.com.py/economia/2026/10/13/conatel-da-por-cumplido-el-despliegue-de-nubicom-pero-admite-cobertura-limitada-y-desconoce-sus-clientes/"
+    },
+    {
+     "title": "Nubicom registra “Nubi” y “Ucel” mientras se dilata informe de Contraloría sobre el 5G",
+     "outlet": "DPL News",
+     "date": "2026-02-19",
+     "url": "https://dplnews.com/paraguay-nubicom-registra-nubi-ucel/"
+    }
+   ]
+  },
+  {
+   "id": "airtel-gabon-1350",
+   "issue": 1350,
+   "codes": [
+    "628 06",
+    "628 03"
+   ],
+   "type": "mno",
+   "type_tier": "reported",
+   "headline": "Airtel Gabon takes a second code, and its first finally drops the Celtel name.",
+   "headline_tiers": [
+    "registry"
+   ],
+   "claims": [
+    {
+     "t": "registry",
+     "text": "No. 1350 assigned 628 06 to Airtel Gabon S.A. In the same issue, the entry for 628 03 was corrected to Airtel Gabon S.A.; it had read Celtel in the ITU list since at least November 2023.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "registry",
+     "text": "The bulletin does not say what the new code is for.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "registry",
+     "text": "Gabon's other codes in the list belong to Libertis, Moov, Usan Gabon and the government network RAG, the Réseau de l'Administration Gabonaise.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "Airtel Gabon is part of Airtel Africa. Bharti Airtel bought Zain's operations in 15 African countries, completing the purchase in June 2010.",
+     "src": [
+      1
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "Context: in January 2025 Airtel Gabon was authorised as the first private operator to build and run its own fixed network, including fibre to the home. Nothing links that licence to the new code.",
+     "src": [
+      2
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "title": "ITU Operational Bulletin No. 1350, Amendment No. 66",
+     "outlet": "ITU",
+     "date": "2026-10-15",
+     "url": "https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1350-2026-OAS-PDF-E.pdf"
+    },
+    {
+     "title": "Airtel Africa",
+     "outlet": "Wikipedia",
+     "date": null,
+     "url": "https://en.wikipedia.org/wiki/Airtel_Africa"
+    },
+    {
+     "title": "Airtel devient le premier opérateur privé autorisé à établir et exploiter un réseau fixe",
+     "outlet": "EcoMatin",
+     "date": "2025-01-09",
+     "url": "https://ecomatin.net/telecommunications-au-gabon-airtel-devient-le-premier-operateur-prive-autorise-a-etablir-et-exploiter-un-reseau-fixe"
+    }
+   ]
+  },
+  {
+   "id": "airtel-seychelles-1350",
+   "issue": 1350,
+   "codes": [
+    "633 09"
+   ],
+   "type": "mno",
+   "type_tier": "reported",
+   "headline": "Airtel Seychelles adds a second network code.",
+   "headline_tiers": [
+    "registry"
+   ],
+   "claims": [
+    {
+     "t": "registry",
+     "text": "Assigned 633 09 in No. 1350. The company already held 633 10, which was in the November 2023 list.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "registry",
+     "text": "The bulletin does not say what the second code is for, and no public statement about it was found.",
+     "src": [
+      0
+     ]
+    },
+    {
+     "t": "reported",
+     "text": "Airtel entered Seychelles by buying Telecom Seychelles in August 2010 for US$62 million; the business is part of Airtel Africa.",
+     "src": [
+      1
+     ]
+    }
+   ],
+   "sources": [
+    {
+     "title": "ITU Operational Bulletin No. 1350, Amendment No. 66",
+     "outlet": "ITU",
+     "date": "2026-10-15",
+     "url": "https://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-OB.1350-2026-OAS-PDF-E.pdf"
+    },
+    {
+     "title": "Airtel Africa",
+     "outlet": "Wikipedia",
+     "date": null,
+     "url": "https://en.wikipedia.org/wiki/Airtel_Africa"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+{ "name": "new-networks-geo", "private": true, "type": "module",
+  "dependencies": { "world-atlas": "2.0.2", "topojson-client": "3.1.0", "d3-geo": "3.1.1" } }

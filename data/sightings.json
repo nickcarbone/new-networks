@@ -1,0 +1,632 @@
+{
+ "Canada|302 310": {
+  "country": "Canada",
+  "mcc": "302",
+  "mnc": "310",
+  "first_seen": "2026-10-19",
+  "nat_date": "2019-01-16",
+  "holder": "ECOTEL Inc.",
+  "registry": "ca_cnac",
+  "status": "ahead"
+ },
+ "Canada|302 520": {
+  "country": "Canada",
+  "mcc": "302",
+  "mnc": "520",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Videotron Ltd.",
+  "registry": "ca_cnac",
+  "status": "ahead"
+ },
+ "Canada|302 750": {
+  "country": "Canada",
+  "mcc": "302",
+  "mnc": "750",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "SaskTel Mobility",
+  "registry": "ca_cnac",
+  "status": "ahead"
+ },
+ "Canada|302 820": {
+  "country": "Canada",
+  "mcc": "302",
+  "mnc": "820",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Rogers Communications Canada Inc. (Wireless)",
+  "registry": "ca_cnac",
+  "status": "ahead"
+ },
+ "Canada|302 991": {
+  "country": "Canada",
+  "mcc": "302",
+  "mnc": "991",
+  "first_seen": "2026-10-19",
+  "nat_date": "2019-04-16",
+  "holder": "Halton Regional Police Service",
+  "registry": "ca_cnac",
+  "status": "ahead"
+ },
+ "Finland|244 16": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "16",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-10-06",
+  "holder": "Digita Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 19": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "19",
+  "first_seen": "2026-10-19",
+  "nat_date": "2021-12-03",
+  "holder": "Nettia Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 20": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "20",
+  "first_seen": "2026-10-19",
+  "nat_date": "2021-08-31",
+  "holder": "Elisa Oyj",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 25": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "25",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-11-06",
+  "holder": "Fortum Power and Heat Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 28": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "28",
+  "first_seen": "2026-10-19",
+  "nat_date": "2023-11-02",
+  "holder": "Teknologian tutkimuskeskus VTT Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 29": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "29",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-02-07",
+  "holder": "Teknologian tutkimuskeskus VTT Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 30": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "30",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-02-07",
+  "holder": "Teknologian tutkimuskeskus VTT Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 42": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "42",
+  "first_seen": "2026-10-19",
+  "nat_date": "2017-01-23",
+  "holder": "SMS Provider Corp.",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 43": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "43",
+  "first_seen": "2026-10-19",
+  "nat_date": "2017-05-09",
+  "holder": "Telavox AB / Telavox OY",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 45": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "45",
+  "first_seen": "2026-10-19",
+  "nat_date": "2022-03-14",
+  "holder": "Suomen Erillisverkot Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 46": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "46",
+  "first_seen": "2026-10-19",
+  "nat_date": "2023-11-03",
+  "holder": "Suomen Erillisverkot Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 47": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "47",
+  "first_seen": "2026-10-19",
+  "nat_date": "2023-11-03",
+  "holder": "Suomen Erillisverkot Oy",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 51": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "51",
+  "first_seen": "2026-10-19",
+  "nat_date": "2026-01-07",
+  "holder": "Aalto-korkeakoulusäätiö sr",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 52": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "52",
+  "first_seen": "2026-10-19",
+  "nat_date": "2026-01-07",
+  "holder": "Aalto-korkeakoulusäätiö sr",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 53": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "53",
+  "first_seen": "2026-10-19",
+  "nat_date": "2026-01-07",
+  "holder": "Aalto-korkeakoulusäätiö sr",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 55": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "55",
+  "first_seen": "2026-10-19",
+  "nat_date": "2026-01-07",
+  "holder": "Aalto-korkeakoulusäätiö sr",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 93": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "93",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-08-26",
+  "holder": "Telia Finland Oyj",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Finland|244 95": {
+  "country": "Finland",
+  "mcc": "244",
+  "mnc": "95",
+  "first_seen": "2026-10-19",
+  "nat_date": "2021-04-12",
+  "holder": "Säteilyturvakeskus",
+  "registry": "fi_traficom",
+  "status": "ahead"
+ },
+ "Hong Kong, China|454 381": {
+  "country": "Hong Kong, China",
+  "mcc": "454",
+  "mnc": "381",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Government use",
+  "registry": "hk_ofca",
+  "status": "ahead"
+ },
+ "Hong Kong, China|454 384": {
+  "country": "Hong Kong, China",
+  "mcc": "454",
+  "mnc": "384",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "China Mobile International Limited 中国移动国际有限公司",
+  "registry": "hk_ofca",
+  "status": "ahead"
+ },
+ "Netherlands|204 05": {
+  "country": "Netherlands",
+  "mcc": "204",
+  "mnc": "05",
+  "first_seen": "2026-10-19",
+  "nat_date": "2024-11-28",
+  "holder": "Sona Business B.V.",
+  "registry": "nl_acm",
+  "status": "ahead"
+ },
+ "Netherlands|204 31": {
+  "country": "Netherlands",
+  "mcc": "204",
+  "mnc": "31",
+  "first_seen": "2026-10-19",
+  "nat_date": "2024-09-30",
+  "holder": "CleverEnable B.V.",
+  "registry": "nl_acm",
+  "status": "ahead"
+ },
+ "Netherlands|204 34": {
+  "country": "Netherlands",
+  "mcc": "204",
+  "mnc": "34",
+  "first_seen": "2026-10-19",
+  "nat_date": "2020-06-30",
+  "holder": "Victor Mobile NL B.V.",
+  "registry": "nl_acm",
+  "status": "ahead"
+ },
+ "Netherlands|204 35": {
+  "country": "Netherlands",
+  "mcc": "204",
+  "mnc": "35",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-12-03",
+  "holder": "AirGSM Netherlands B.V.",
+  "registry": "nl_acm",
+  "status": "ahead"
+ },
+ "Netherlands|204 67": {
+  "country": "Netherlands",
+  "mcc": "204",
+  "mnc": "67",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-02-28",
+  "holder": "Koning & Hartman B.V.",
+  "registry": "nl_acm",
+  "status": "ahead"
+ },
+ "Netherlands|204 68": {
+  "country": "Netherlands",
+  "mcc": "204",
+  "mnc": "68",
+  "first_seen": "2026-10-19",
+  "nat_date": "2026-09-25",
+  "holder": "UltraBand B.V.",
+  "registry": "nl_acm",
+  "status": "ahead"
+ },
+ "United Kingdom|234 41": {
+  "country": "United Kingdom",
+  "mcc": "234",
+  "mnc": "41",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-12-15",
+  "holder": "JET CONNECTIVITY LTD",
+  "registry": "uk_ofcom",
+  "status": "ahead"
+ },
+ "United Kingdom|234 42": {
+  "country": "United Kingdom",
+  "mcc": "234",
+  "mnc": "42",
+  "first_seen": "2026-10-19",
+  "nat_date": "2026-08-06",
+  "holder": "Telefonica UK Limited",
+  "registry": "uk_ofcom",
+  "status": "ahead"
+ },
+ "United Kingdom|234 59": {
+  "country": "United Kingdom",
+  "mcc": "234",
+  "mnc": "59",
+  "first_seen": "2026-10-19",
+  "nat_date": "2026-06-23",
+  "holder": "National Grid Telecoms Limited",
+  "registry": "uk_ofcom",
+  "status": "ahead"
+ },
+ "United Kingdom|234 81": {
+  "country": "United Kingdom",
+  "mcc": "234",
+  "mnc": "81",
+  "first_seen": "2026-10-19",
+  "nat_date": "2024-05-15",
+  "holder": "National Grid Telecoms Limited",
+  "registry": "uk_ofcom",
+  "status": "ahead"
+ },
+ "United Kingdom|234 82": {
+  "country": "United Kingdom",
+  "mcc": "234",
+  "mnc": "82",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-04-08",
+  "holder": "GEONETWORKS LTD",
+  "registry": "uk_ofcom",
+  "status": "ahead"
+ },
+ "United Kingdom|234 83": {
+  "country": "United Kingdom",
+  "mcc": "234",
+  "mnc": "83",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-02-04",
+  "holder": "UK Telecoms Lab (UKTL)",
+  "registry": "uk_ofcom",
+  "status": "ahead"
+ },
+ "United Kingdom|234 84": {
+  "country": "United Kingdom",
+  "mcc": "234",
+  "mnc": "84",
+  "first_seen": "2026-10-19",
+  "nat_date": "2025-12-05",
+  "holder": "National Grid Telecoms Limited",
+  "registry": "uk_ofcom",
+  "status": "ahead"
+ },
+ "United States|310 290": {
+  "country": "United States",
+  "mcc": "310",
+  "mnc": "290",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Minute Wireless LLC",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 820": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "820",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Sequoia Wireless, LLC",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 840": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "840",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Memphis Light, Gas, and Water",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 850": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "850",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Space Exploration Technologies Corp.",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 860": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "860",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Exelon",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 870": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "870",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Exelon",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 880": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "880",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Oncor License Holdings Company, LLC",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 890": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "890",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Central Council of Tlingit and Haida Indian Tribes of Alaska",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 900": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "900",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Inland Cellular Telephone Company",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 910": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "910",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Business Telecommunications Services, Inc",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 920": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "920",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Barr Tell USA, Inc.",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 930": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "930",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Granite Telecommunications, LLC",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 940": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "940",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "NxGenComm",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 950": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "950",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Snowcloud Services LLC.",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 960": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "960",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Utah DOT Traffic Operation",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 970": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "970",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Popcorn Labs, Inc.",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 980": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "980",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Buffalo Rock Communications",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|314 990": {
+  "country": "United States",
+  "mcc": "314",
+  "mnc": "990",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Abc-Hosters LLC",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|316 020": {
+  "country": "United States",
+  "mcc": "316",
+  "mnc": "020",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Heddian",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|316 030": {
+  "country": "United States",
+  "mcc": "316",
+  "mnc": "030",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "x2n",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|316 040": {
+  "country": "United States",
+  "mcc": "316",
+  "mnc": "040",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "PACIFIC GAS AND ELECTRIC COMPANY",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|316 050": {
+  "country": "United States",
+  "mcc": "316",
+  "mnc": "050",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "TriceTel,Inc.",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|316 060": {
+  "country": "United States",
+  "mcc": "316",
+  "mnc": "060",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Popcorn Labs, Inc.",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|316 070": {
+  "country": "United States",
+  "mcc": "316",
+  "mnc": "070",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "AST & Science, LLC",
+  "registry": "us_imsi",
+  "status": "ahead"
+ },
+ "United States|316 080": {
+  "country": "United States",
+  "mcc": "316",
+  "mnc": "080",
+  "first_seen": "2026-10-19",
+  "nat_date": null,
+  "holder": "Talus Communications",
+  "registry": "us_imsi",
+  "status": "ahead"
+ }
+}

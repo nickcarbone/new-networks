@@ -1,0 +1,8111 @@
+{
+ "issues": [
+  {
+   "issue": 1281,
+   "date": "2023-12-01",
+   "amendments": [],
+   "entries": 0
+  },
+  {
+   "issue": 1282,
+   "date": "2023-12-15",
+   "amendments": [
+    1
+   ],
+   "entries": 3
+  },
+  {
+   "issue": 1283,
+   "date": "2024-01-01",
+   "amendments": [
+    2
+   ],
+   "entries": 3
+  },
+  {
+   "issue": 1284,
+   "date": "2024-01-15",
+   "amendments": [],
+   "entries": 0
+  },
+  {
+   "issue": 1285,
+   "date": "2024-02-01",
+   "amendments": [
+    3
+   ],
+   "entries": 3
+  },
+  {
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendments": [
+    4
+   ],
+   "entries": 11
+  },
+  {
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendments": [
+    5
+   ],
+   "entries": 13
+  },
+  {
+   "issue": 1288,
+   "date": "2024-03-15",
+   "amendments": [
+    6
+   ],
+   "entries": 3
+  },
+  {
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendments": [
+    7
+   ],
+   "entries": 7
+  },
+  {
+   "issue": 1290,
+   "date": "2024-04-15",
+   "amendments": [],
+   "entries": 0
+  },
+  {
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendments": [
+    8
+   ],
+   "entries": 8
+  },
+  {
+   "issue": 1292,
+   "date": "2024-05-15",
+   "amendments": [
+    9
+   ],
+   "entries": 6
+  },
+  {
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendments": [
+    10
+   ],
+   "entries": 10
+  },
+  {
+   "issue": 1294,
+   "date": "2024-06-15",
+   "amendments": [
+    11
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendments": [
+    12
+   ],
+   "entries": 14
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendments": [
+    13
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1297,
+   "date": "2024-08-01",
+   "amendments": [
+    14
+   ],
+   "entries": 6
+  },
+  {
+   "issue": 1298,
+   "date": "2024-08-15",
+   "amendments": [
+    15
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1299,
+   "date": "2024-09-01",
+   "amendments": [
+    16
+   ],
+   "entries": 4
+  },
+  {
+   "issue": 1300,
+   "date": "2024-09-15",
+   "amendments": [
+    17
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendments": [
+    18
+   ],
+   "entries": 8
+  },
+  {
+   "issue": 1302,
+   "date": "2024-10-15",
+   "amendments": [
+    19
+   ],
+   "entries": 3
+  },
+  {
+   "issue": 1303,
+   "date": "2024-11-01",
+   "amendments": [
+    20
+   ],
+   "entries": 4
+  },
+  {
+   "issue": 1304,
+   "date": "2024-11-15",
+   "amendments": [
+    21
+   ],
+   "entries": 6
+  },
+  {
+   "issue": 1305,
+   "date": "2024-12-01",
+   "amendments": [
+    22
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendments": [
+    23
+   ],
+   "entries": 23
+  },
+  {
+   "issue": 1307,
+   "date": "2025-01-01",
+   "amendments": [
+    24
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendments": [
+    25
+   ],
+   "entries": 7
+  },
+  {
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendments": [
+    26
+   ],
+   "entries": 60
+  },
+  {
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendments": [
+    27
+   ],
+   "entries": 7
+  },
+  {
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendments": [
+    28
+   ],
+   "entries": 17
+  },
+  {
+   "issue": 1312,
+   "date": "2025-03-15",
+   "amendments": [
+    29
+   ],
+   "entries": 5
+  },
+  {
+   "issue": 1313,
+   "date": "2025-04-01",
+   "amendments": [
+    30
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendments": [
+    31
+   ],
+   "entries": 8
+  },
+  {
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendments": [
+    32
+   ],
+   "entries": 11
+  },
+  {
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendments": [
+    33
+   ],
+   "entries": 65
+  },
+  {
+   "issue": 1317,
+   "date": "2025-06-01",
+   "amendments": [
+    34
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1318,
+   "date": "2025-06-15",
+   "amendments": [
+    35
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1319,
+   "date": "2025-07-01",
+   "amendments": [
+    36
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendments": [
+    37
+   ],
+   "entries": 7
+  },
+  {
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendments": [
+    38
+   ],
+   "entries": 24
+  },
+  {
+   "issue": 1322,
+   "date": "2025-08-15",
+   "amendments": [
+    39
+   ],
+   "entries": 4
+  },
+  {
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendments": [
+    40
+   ],
+   "entries": 11
+  },
+  {
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendments": [
+    41
+   ],
+   "entries": 7
+  },
+  {
+   "issue": 1325,
+   "date": "2025-10-01",
+   "amendments": [
+    42
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1326,
+   "date": "2025-10-15",
+   "amendments": [
+    43
+   ],
+   "entries": 6
+  },
+  {
+   "issue": 1327,
+   "date": "2025-11-01",
+   "amendments": [
+    44
+   ],
+   "entries": 5
+  },
+  {
+   "issue": 1328,
+   "date": "2025-11-15",
+   "amendments": [
+    45
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1329,
+   "date": "2025-12-01",
+   "amendments": [
+    46
+   ],
+   "entries": 3
+  },
+  {
+   "issue": 1330,
+   "date": "2025-12-15",
+   "amendments": [
+    47
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1331,
+   "date": "2026-01-01",
+   "amendments": [
+    48
+   ],
+   "entries": 5
+  },
+  {
+   "issue": 1332,
+   "date": "2026-01-15",
+   "amendments": [],
+   "entries": 0
+  },
+  {
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendments": [
+    49
+   ],
+   "entries": 11
+  },
+  {
+   "issue": 1334,
+   "date": "2026-02-15",
+   "amendments": [
+    50
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1335,
+   "date": "2026-03-01",
+   "amendments": [
+    51
+   ],
+   "entries": 4
+  },
+  {
+   "issue": 1336,
+   "date": "2026-03-15",
+   "amendments": [
+    52
+   ],
+   "entries": 4
+  },
+  {
+   "issue": 1337,
+   "date": "2026-04-01",
+   "amendments": [
+    53
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1338,
+   "date": "2026-04-15",
+   "amendments": [
+    54
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1339,
+   "date": "2026-05-01",
+   "amendments": [
+    55
+   ],
+   "entries": 5
+  },
+  {
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendments": [
+    56
+   ],
+   "entries": 12
+  },
+  {
+   "issue": 1341,
+   "date": "2026-06-01",
+   "amendments": [
+    57
+   ],
+   "entries": 4
+  },
+  {
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendments": [
+    58
+   ],
+   "entries": 9
+  },
+  {
+   "issue": 1343,
+   "date": "2026-07-01",
+   "amendments": [
+    59
+   ],
+   "entries": 1
+  },
+  {
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendments": [
+    60
+   ],
+   "entries": 7
+  },
+  {
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendments": [
+    61
+   ],
+   "entries": 13
+  },
+  {
+   "issue": 1346,
+   "date": "2026-08-15",
+   "amendments": [
+    62
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1347,
+   "date": "2026-09-01",
+   "amendments": [
+    63
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendments": [
+    64
+   ],
+   "entries": 2
+  },
+  {
+   "issue": 1349,
+   "date": "2026-10-01",
+   "amendments": [
+    65
+   ],
+   "entries": 3
+  },
+  {
+   "issue": 1350,
+   "date": "2026-10-15",
+   "amendments": [
+    66
+   ],
+   "entries": 4
+  }
+ ],
+ "entries": [
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "58",
+   "note": null,
+   "flags": [],
+   "name": "Wi-Sky (NSW) Pty Ltd",
+   "raw": [
+    "Wi-Sky (NSW) Pty Ltd"
+   ],
+   "issue": 1282,
+   "date": "2023-12-15",
+   "amendment": 1
+  },
+  {
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "50",
+   "note": null,
+   "flags": [],
+   "name": "eRate Sverige AB",
+   "raw": [
+    "eRate Sverige AB"
+   ],
+   "issue": 1282,
+   "date": "2023-12-15",
+   "amendment": 1
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "95",
+   "note": null,
+   "flags": [],
+   "name": "HMD Global Oy",
+   "raw": [
+    "HMD Global Oy"
+   ],
+   "issue": 1282,
+   "date": "2023-12-15",
+   "amendment": 1
+  },
+  {
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "25",
+   "note": null,
+   "flags": [],
+   "name": "XFERA MÓVILES, S.A. UNIPERSONAL",
+   "raw": [
+    "XFERA MÓVILES, S.A. UNIPERSONAL"
+   ],
+   "issue": 1283,
+   "date": "2024-01-01",
+   "amendment": 2
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "13",
+   "note": null,
+   "flags": [],
+   "name": "FOOTBALLERISTA MOBILE SPAIN, S.A. UNIPERSONAL",
+   "raw": [
+    "FOOTBALLERISTA MOBILE SPAIN, S.A. UNIPERSONAL"
+   ],
+   "issue": 1283,
+   "date": "2024-01-01",
+   "amendment": 2
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "NTT Ltd.",
+   "raw": [
+    "NTT Ltd."
+   ],
+   "issue": 1283,
+   "date": "2024-01-01",
+   "amendment": 2
+  },
+  {
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "SkyTel OÜ",
+   "raw": [
+    "SkyTel OÜ"
+   ],
+   "issue": 1285,
+   "date": "2024-02-01",
+   "amendment": 3
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "33",
+   "note": null,
+   "flags": [],
+   "name": "Crowdfaster OÜ",
+   "raw": [
+    "Crowdfaster OÜ"
+   ],
+   "issue": 1285,
+   "date": "2024-02-01",
+   "amendment": 3
+  },
+  {
+   "country": "Nauru",
+   "op": "ADD",
+   "mcc": "536",
+   "mnc": "03",
+   "note": null,
+   "flags": [],
+   "name": "Nauru Telikom Corporation",
+   "raw": [
+    "Nauru Telikom Corporation"
+   ],
+   "issue": 1285,
+   "date": "2024-02-01",
+   "amendment": 3
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "351",
+   "note": null,
+   "flags": [],
+   "name": "MPVWIFI Inc.",
+   "raw": [
+    "MPVWIFI Inc."
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "Denmark",
+   "op": "ADD",
+   "mcc": "238",
+   "mnc": "19",
+   "note": null,
+   "flags": [],
+   "name": "YATECO OÜ",
+   "raw": [
+    "YATECO OÜ"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "New Zealand",
+   "op": "ADD",
+   "mcc": "530",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "Broadband & Internet New Zealand Limited",
+   "raw": [
+    "Broadband & Internet New Zealand Limited"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "United Kingdom",
+   "op": "ADD",
+   "mcc": "234",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Spitfire Network Services Limited",
+   "raw": [
+    "Spitfire Network Services Limited"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "United Kingdom",
+   "op": "ADD",
+   "mcc": "234",
+   "mnc": "79",
+   "note": null,
+   "flags": [],
+   "name": "UK Telecoms Lab (UKTL)",
+   "raw": [
+    "UK Telecoms Lab (UKTL)"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "United Kingdom",
+   "op": "ADD",
+   "mcc": "234",
+   "mnc": "87",
+   "note": null,
+   "flags": [],
+   "name": "LEBARA MOBILE LIMITED",
+   "raw": [
+    "LEBARA MOBILE LIMITED"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "United Kingdom",
+   "op": "LIR",
+   "mcc": "234",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "WAVE MOBILE LTD",
+   "raw": [
+    "WAVE MOBILE LTD"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "United Kingdom",
+   "op": "LIR",
+   "mcc": "234",
+   "mnc": "18",
+   "note": null,
+   "flags": [],
+   "name": "WIRELESS LOGIC LIMITED",
+   "raw": [
+    "WIRELESS LOGIC LIMITED"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "United Kingdom",
+   "op": "LIR",
+   "mcc": "234",
+   "mnc": "74",
+   "note": null,
+   "flags": [],
+   "name": "CIRCLES MVNE International B.V.",
+   "raw": [
+    "CIRCLES MVNE International B.V."
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "SpaceX",
+   "raw": [
+    "SpaceX"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "China Telecommunications Corporation",
+   "raw": [
+    "China Telecommunications Corporation"
+   ],
+   "issue": 1286,
+   "date": "2024-02-15",
+   "amendment": 4
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "352",
+   "note": null,
+   "flags": [],
+   "name": "Lytton Area Wireless Society",
+   "raw": [
+    "Lytton Area Wireless Society"
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Czech Rep.",
+   "op": "SUP",
+   "mcc": "230",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "incrate s.r.o.",
+   "raw": [
+    "incrate s.r.o."
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Czech Rep.",
+   "op": "ADD",
+   "mcc": "230",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "DataCell s.r.o.",
+   "raw": [
+    "DataCell s.r.o."
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Czech Rep.",
+   "op": "ADD",
+   "mcc": "230",
+   "mnc": "22",
+   "note": null,
+   "flags": [],
+   "name": "O2 Czech Republic a.s.",
+   "raw": [
+    "O2 Czech Republic a.s."
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Czech Rep.",
+   "op": "ADD",
+   "mcc": "230",
+   "mnc": "53",
+   "note": null,
+   "flags": [],
+   "name": "Škoda Auto a.s.",
+   "raw": [
+    "Škoda Auto a.s."
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "200",
+   "note": null,
+   "flags": [],
+   "name": "VIRGIN MOBILE MÉXICO, S. DE R.L. DE C.V.",
+   "raw": [
+    "VIRGIN MOBILE MÉXICO, S. DE R.L. DE C.V."
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "040",
+   "note": null,
+   "flags": [],
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "raw": [
+    "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V."
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "130",
+   "note": null,
+   "flags": [],
+   "name": "ALESTRA SERVICIOS MÓVILES, S.A. DE C.V.",
+   "raw": [
+    "ALESTRA SERVICIOS MÓVILES, S.A. DE C.V."
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "New Zealand",
+   "op": "ADD",
+   "mcc": "530",
+   "mnc": "13",
+   "note": null,
+   "flags": [],
+   "name": "One New Zealand Group Limited",
+   "raw": [
+    "One New Zealand Group Limited"
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Switzerland",
+   "op": "SUP",
+   "mcc": "228",
+   "mnc": "59",
+   "note": null,
+   "flags": [],
+   "name": "Vectone Mobile Limited, London",
+   "raw": [
+    "Vectone Mobile Limited, London"
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "65",
+   "note": null,
+   "flags": [],
+   "name": "Nexphone AG",
+   "raw": [
+    "Nexphone AG"
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "24",
+   "note": null,
+   "flags": [],
+   "name": "Voxbone SA",
+   "raw": [
+    "Voxbone SA"
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "90",
+   "note": null,
+   "flags": [],
+   "name": "Truphone Limited",
+   "raw": [
+    "Truphone Limited"
+   ],
+   "issue": 1287,
+   "date": "2024-03-01",
+   "amendment": 5
+  },
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "59",
+   "note": null,
+   "flags": [],
+   "name": "Starlink Internet Services Pte Ltd",
+   "raw": [
+    "Starlink Internet Services Pte Ltd"
+   ],
+   "issue": 1288,
+   "date": "2024-03-15",
+   "amendment": 6
+  },
+  {
+   "country": "Georgia",
+   "op": "ADD",
+   "mcc": "282",
+   "mnc": "16",
+   "note": null,
+   "flags": [],
+   "name": "\"Unicell Mobile\"LTD",
+   "raw": [
+    "\"Unicell Mobile\"LTD"
+   ],
+   "issue": 1288,
+   "date": "2024-03-15",
+   "amendment": 6
+  },
+  {
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "51",
+   "note": null,
+   "flags": [],
+   "name": "YATECO OÜ",
+   "raw": [
+    "YATECO OÜ"
+   ],
+   "issue": 1288,
+   "date": "2024-03-15",
+   "amendment": 6
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "160",
+   "note": null,
+   "flags": [],
+   "name": "Sugar Mobile Inc.",
+   "raw": [
+    "Sugar Mobile Inc."
+   ],
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendment": 7
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "353",
+   "note": null,
+   "flags": [],
+   "name": "SpeedFI Inc.",
+   "raw": [
+    "SpeedFI Inc."
+   ],
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendment": 7
+  },
+  {
+   "country": "Georgia",
+   "op": "ADD",
+   "mcc": "282",
+   "mnc": "66",
+   "note": null,
+   "flags": [],
+   "name": "Icecell Telecom LLC",
+   "raw": [
+    "Icecell Telecom LLC"
+   ],
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendment": 7
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "PROCONO, S.A.",
+   "raw": [
+    "PROCONO, S.A."
+   ],
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendment": 7
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "702",
+   "note": null,
+   "flags": [],
+   "name": "UNIVERSIDAD DE MÁLAGA",
+   "raw": [
+    "UNIVERSIDAD DE MÁLAGA"
+   ],
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendment": 7
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "703",
+   "note": null,
+   "flags": [],
+   "name": "ENDESA GENERACIÓN, S.A.",
+   "raw": [
+    "ENDESA GENERACIÓN, S.A."
+   ],
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendment": 7
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "Omnispace LLC",
+   "raw": [
+    "Omnispace LLC"
+   ],
+   "issue": 1289,
+   "date": "2024-04-01",
+   "amendment": 7
+  },
+  {
+   "country": "Japan",
+   "op": "SUP",
+   "mcc": "441",
+   "mnc": "01",
+   "note": null,
+   "flags": [],
+   "name": "SoftBank Corp.",
+   "raw": [
+    "SoftBank Corp."
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "91",
+   "note": null,
+   "flags": [],
+   "name": "NTT DOCOMO, INC.",
+   "raw": [
+    "NTT DOCOMO, INC."
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "92",
+   "note": null,
+   "flags": [],
+   "name": "KDDI Corporation",
+   "raw": [
+    "KDDI Corporation"
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "93",
+   "note": null,
+   "flags": [],
+   "name": "SoftBank Corp.",
+   "raw": [
+    "SoftBank Corp."
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "94",
+   "note": null,
+   "flags": [],
+   "name": "Rakuten Mobile Network, Inc.",
+   "raw": [
+    "Rakuten Mobile Network, Inc."
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "214",
+   "note": null,
+   "flags": [],
+   "name": "Vroove Inc.",
+   "raw": [
+    "Vroove Inc."
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "28",
+   "note": null,
+   "flags": [],
+   "name": "Consorcio de Telecomunicaciones Avanzadas, S.A.",
+   "raw": [
+    "Consorcio de Telecomunicaciones Avanzadas, S.A."
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "704",
+   "note": null,
+   "flags": [],
+   "name": "AMPER SISTEMAS, S.A.U.",
+   "raw": [
+    "AMPER SISTEMAS, S.A.U."
+   ],
+   "issue": 1291,
+   "date": "2024-05-01",
+   "amendment": 8
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "911",
+   "note": null,
+   "flags": [],
+   "name": "Halton Regional Police Service",
+   "raw": [
+    "Halton Regional Police Service"
+   ],
+   "issue": 1292,
+   "date": "2024-05-15",
+   "amendment": 9
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "24",
+   "note": null,
+   "flags": [],
+   "name": "CLARO CHILE SpA",
+   "raw": [
+    "CLARO CHILE SpA"
+   ],
+   "issue": 1292,
+   "date": "2024-05-15",
+   "amendment": 9
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "raw": [
+    "Entel PCS Telecomunicaciones S.A."
+   ],
+   "issue": 1292,
+   "date": "2024-05-15",
+   "amendment": 9
+  },
+  {
+   "country": "Georgia",
+   "op": "ADD",
+   "mcc": "282",
+   "mnc": "17",
+   "note": null,
+   "flags": [],
+   "name": "\"TMTECH\" LTD",
+   "raw": [
+    "\"TMTECH\" LTD"
+   ],
+   "issue": 1292,
+   "date": "2024-05-15",
+   "amendment": 9
+  },
+  {
+   "country": "Hungary",
+   "op": "SUP",
+   "mcc": "216",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "MVM NET Ltd.",
+   "raw": [
+    "MVM NET Ltd."
+   ],
+   "issue": 1292,
+   "date": "2024-05-15",
+   "amendment": 9
+  },
+  {
+   "country": "Hungary",
+   "op": "ADD",
+   "mcc": "216",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "HM EI Zrt.",
+   "raw": [
+    "HM EI Zrt."
+   ],
+   "issue": 1292,
+   "date": "2024-05-15",
+   "amendment": 9
+  },
+  {
+   "country": "Costa Rica",
+   "op": "SUP",
+   "mcc": "712",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "Virtualis",
+   "raw": [
+    "Virtualis"
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "RADIOGRAFICA COSTARRICENSE S.A.",
+   "raw": [
+    "RADIOGRAFICA COSTARRICENSE S.A."
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "34",
+   "note": null,
+   "flags": [],
+   "name": "Nettora Systems OÜ",
+   "raw": [
+    "Nettora Systems OÜ"
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Portugal",
+   "op": "ADD",
+   "mcc": "268",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "Digi Portugal, Lda.",
+   "raw": [
+    "Digi Portugal, Lda."
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Portugal",
+   "op": "ADD",
+   "mcc": "268",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "Sumamovil Portugal, S.A.",
+   "raw": [
+    "Sumamovil Portugal, S.A."
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Portugal",
+   "op": "ADD",
+   "mcc": "268",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "MEO - Serviços de Comunicações e Multimédia, S.A.",
+   "raw": [
+    "MEO - Serviços de Comunicações e Multimédia, S.A."
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Portugal",
+   "op": "ADD",
+   "mcc": "268",
+   "mnc": "91",
+   "note": null,
+   "flags": [],
+   "name": "Vodafone Portugal - Comunicações Pessoais, S.A.",
+   "raw": [
+    "Vodafone Portugal - Comunicações Pessoais, S.A."
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Portugal",
+   "op": "ADD",
+   "mcc": "268",
+   "mnc": "92",
+   "note": null,
+   "flags": [],
+   "name": "Vodafone Portugal - Comunicações Pessoais, S.A.",
+   "raw": [
+    "Vodafone Portugal - Comunicações Pessoais, S.A."
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Portugal",
+   "op": "ADD",
+   "mcc": "268",
+   "mnc": "93",
+   "note": null,
+   "flags": [],
+   "name": "NOS Comunicações, S.A.",
+   "raw": [
+    "NOS Comunicações, S.A."
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Zambia",
+   "op": "ADD",
+   "mcc": "645",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "Beeline Telecoms Limited",
+   "raw": [
+    "Beeline Telecoms Limited"
+   ],
+   "issue": 1293,
+   "date": "2024-06-01",
+   "amendment": 10
+  },
+  {
+   "country": "Portugal",
+   "op": "LIR",
+   "mcc": "268",
+   "mnc": "80",
+   "note": null,
+   "flags": [],
+   "name": "E-Redes - Distribuição de Eletricidade, S.A.",
+   "raw": [
+    "E-Redes - Distribuição de Eletricidade, S.A."
+   ],
+   "issue": 1294,
+   "date": "2024-06-15",
+   "amendment": 11
+  },
+  {
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "72",
+   "note": null,
+   "flags": [],
+   "name": "BSE Software GmbH",
+   "raw": [
+    "BSE Software GmbH"
+   ],
+   "issue": 1294,
+   "date": "2024-06-15",
+   "amendment": 11
+  },
+  {
+   "country": "Cayman Islands",
+   "op": "ADD",
+   "mcc": "346",
+   "mnc": "007",
+   "note": null,
+   "flags": [],
+   "name": "Paradise Mobile Limited",
+   "raw": [
+    "Paradise Mobile Limited"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "Grid Communications Limited",
+   "raw": [
+    "Grid Communications Limited"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "06",
+   "note": null,
+   "flags": [],
+   "name": "StarHub Mobile Pte Ltd",
+   "raw": [
+    "StarHub Mobile Pte Ltd"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "StarHub Mobile Pte Ltd",
+   "raw": [
+    "StarHub Mobile Pte Ltd"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "M1 Limited",
+   "raw": [
+    "M1 Limited"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "200",
+   "note": null,
+   "flags": [],
+   "name": "5G Test Bed",
+   "raw": [
+    "5G Test Bed"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "201",
+   "note": null,
+   "flags": [],
+   "name": "5G EP Twin Networks",
+   "raw": [
+    "5G EP Twin Networks"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "202",
+   "note": null,
+   "flags": [],
+   "name": "5G EP Twin Networks",
+   "raw": [
+    "5G EP Twin Networks"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "203",
+   "note": null,
+   "flags": [],
+   "name": "5G EP Twin Networks",
+   "raw": [
+    "5G EP Twin Networks"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "204",
+   "note": null,
+   "flags": [],
+   "name": "5G EP Twin Networks",
+   "raw": [
+    "5G EP Twin Networks"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "LIR",
+   "mcc": "525",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "Simba Telecom Pte Ltd",
+   "raw": [
+    "Simba Telecom Pte Ltd"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Singapore",
+   "op": "LIR",
+   "mcc": "525",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "Grid Communications Limited",
+   "raw": [
+    "Grid Communications Limited"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "705",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "ENTIDAD PÚBLICA EMPRESARIAL ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS",
+   "raw": [
+    "ENTIDAD PÚBLICA EMPRESARIAL ADMINISTRADOR DE",
+    "INFRAESTRUCTURAS FERROVIARIAS"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "706",
+   "note": null,
+   "flags": [],
+   "name": "GOBIERNO VASCO",
+   "raw": [
+    "GOBIERNO VASCO"
+   ],
+   "issue": 1295,
+   "date": "2024-07-01",
+   "amendment": 12
+  },
+  {
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "73",
+   "note": null,
+   "flags": [],
+   "name": "iWay AG",
+   "raw": [
+    "iWay AG"
+   ],
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13
+  },
+  {
+   "country": "Micronesia",
+   "op": "ADD",
+   "mcc": "550",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "Boom! Inc.",
+   "raw": [
+    "Boom! Inc."
+   ],
+   "issue": 1297,
+   "date": "2024-08-01",
+   "amendment": 14
+  },
+  {
+   "country": "Panama",
+   "op": "SUP",
+   "mcc": "714",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "Digicel (Panamá), S.A.",
+   "raw": [
+    "Digicel (Panamá), S.A."
+   ],
+   "issue": 1297,
+   "date": "2024-08-01",
+   "amendment": 14
+  },
+  {
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "Alta Tecnologia en Comunicacions, S.L.",
+   "raw": [
+    "Alta Tecnologia en Comunicacions, S.L."
+   ],
+   "issue": 1297,
+   "date": "2024-08-01",
+   "amendment": 14
+  },
+  {
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "VENUS MOVIL, S.L. UNIPERSONAL",
+   "raw": [
+    "VENUS MOVIL, S.L. UNIPERSONAL"
+   ],
+   "issue": 1297,
+   "date": "2024-08-01",
+   "amendment": 14
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "707",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "MINISTERIO DE DEFENSA - CENTRO DE SISTEMAS Y TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+   "raw": [
+    "MINISTERIO DE DEFENSA - CENTRO DE SISTEMAS Y",
+    "TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES"
+   ],
+   "issue": 1297,
+   "date": "2024-08-01",
+   "amendment": 14
+  },
+  {
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "59",
+   "note": null,
+   "flags": [
+    "multiline"
+   ],
+   "name": "Myndigheten för samhällsskydd och beredskap (MSB) / Swedish Civil Contingencies Agency - Used for private network (PPDR network (Rakel G2))",
+   "raw": [
+    "Myndigheten för samhällsskydd och beredskap (MSB) /",
+    "Swedish Civil Contingencies Agency - Used for private network",
+    "(PPDR network (Rakel G2))"
+   ],
+   "issue": 1297,
+   "date": "2024-08-01",
+   "amendment": 14
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "330",
+   "note": null,
+   "flags": [],
+   "name": "OpenMobile Inc.",
+   "raw": [
+    "OpenMobile Inc."
+   ],
+   "issue": 1298,
+   "date": "2024-08-15",
+   "amendment": 15
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "17",
+   "note": null,
+   "flags": [],
+   "name": "Optus Mobile Pty Ltd",
+   "raw": [
+    "Optus Mobile Pty Ltd"
+   ],
+   "issue": 1299,
+   "date": "2024-09-01",
+   "amendment": 16
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "90",
+   "note": null,
+   "flags": [],
+   "name": "Alphawest Pty Ltd",
+   "raw": [
+    "Alphawest Pty Ltd"
+   ],
+   "issue": 1299,
+   "date": "2024-09-01",
+   "amendment": 16
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "970",
+   "note": null,
+   "flags": [],
+   "name": "Canadian Pacific Railway Company",
+   "raw": [
+    "Canadian Pacific Railway Company"
+   ],
+   "issue": 1299,
+   "date": "2024-09-01",
+   "amendment": 16
+  },
+  {
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "22",
+   "note": null,
+   "flags": [],
+   "name": "Mediafon Carrier Services UAB",
+   "raw": [
+    "Mediafon Carrier Services UAB"
+   ],
+   "issue": 1299,
+   "date": "2024-09-01",
+   "amendment": 16
+  },
+  {
+   "country": "Kazakhstan",
+   "op": "ADD",
+   "mcc": "401",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "Freedom Telecom Operations LLP",
+   "raw": [
+    "Freedom Telecom Operations LLP"
+   ],
+   "issue": 1300,
+   "date": "2024-09-15",
+   "amendment": 17
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "OLAMO MOBILE, S.L. UNIPERSONAL",
+   "raw": [
+    "OLAMO MOBILE, S.L. UNIPERSONAL"
+   ],
+   "issue": 1300,
+   "date": "2024-09-15",
+   "amendment": 17
+  },
+  {
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "13",
+   "note": null,
+   "flags": [],
+   "name": "Telia Eesti AS",
+   "raw": [
+    "Telia Eesti AS"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "35",
+   "note": null,
+   "flags": [],
+   "name": "Teliqon Communications OÜ",
+   "raw": [
+    "Teliqon Communications OÜ"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "Cell C (Pty) Ltd",
+   "raw": [
+    "Cell C (Pty) Ltd"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "Cell C (Pty) Ltd",
+   "raw": [
+    "Cell C (Pty) Ltd"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "Mobile Telephone Networks (MTN) Pty Ltd",
+   "raw": [
+    "Mobile Telephone Networks (MTN) Pty Ltd"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "18",
+   "note": null,
+   "flags": [],
+   "name": "Mobile Telephone Networks (MTN) Pty Ltd",
+   "raw": [
+    "Mobile Telephone Networks (MTN) Pty Ltd"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "25",
+   "note": null,
+   "flags": [],
+   "name": "Datora Mobile Telecomunicações SA",
+   "raw": [
+    "Datora Mobile Telecomunicações SA"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "49",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "Mobile Telecommunications Company K.S.C.P. /Zain Bahrain BSC",
+   "raw": [
+    "Mobile Telecommunications Company K.S.C.P.",
+    "/Zain Bahrain BSC"
+   ],
+   "issue": 1301,
+   "date": "2024-10-01",
+   "amendment": 18
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "130",
+   "note": null,
+   "flags": [],
+   "name": "Xplornet Communications",
+   "raw": [
+    "Xplornet Communications"
+   ],
+   "issue": 1302,
+   "date": "2024-10-15",
+   "amendment": 19
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "971",
+   "note": null,
+   "flags": [],
+   "name": "Canadian National Railway",
+   "raw": [
+    "Canadian National Railway"
+   ],
+   "issue": 1302,
+   "date": "2024-10-15",
+   "amendment": 19
+  },
+  {
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "131",
+   "note": null,
+   "flags": [],
+   "name": "Xplore Inc.",
+   "raw": [
+    "Xplore Inc."
+   ],
+   "issue": 1302,
+   "date": "2024-10-15",
+   "amendment": 19
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "722",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1303,
+   "date": "2024-11-01",
+   "amendment": 20
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "723",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1303,
+   "date": "2024-11-01",
+   "amendment": 20
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "215",
+   "note": null,
+   "flags": [],
+   "name": "KYOCERA Mirai Envision Co., Ltd.",
+   "raw": [
+    "KYOCERA Mirai Envision Co., Ltd."
+   ],
+   "issue": 1303,
+   "date": "2024-11-01",
+   "amendment": 20
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "216",
+   "note": null,
+   "flags": [],
+   "name": "Eureka Wireless K.K.",
+   "raw": [
+    "Eureka Wireless K.K."
+   ],
+   "issue": 1303,
+   "date": "2024-11-01",
+   "amendment": 20
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "724",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1304,
+   "date": "2024-11-15",
+   "amendment": 21
+  },
+  {
+   "country": "Hungary",
+   "op": "ADD",
+   "mcc": "216",
+   "mnc": "25",
+   "note": null,
+   "flags": [],
+   "name": "Yettel Hungary Ltd.",
+   "raw": [
+    "Yettel Hungary Ltd."
+   ],
+   "issue": 1304,
+   "date": "2024-11-15",
+   "amendment": 21
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "24",
+   "note": null,
+   "flags": [],
+   "name": "Japan Communications Inc.",
+   "raw": [
+    "Japan Communications Inc."
+   ],
+   "issue": 1304,
+   "date": "2024-11-15",
+   "amendment": 21
+  },
+  {
+   "country": "Japan",
+   "op": "LIR",
+   "mcc": "441",
+   "mnc": "211",
+   "note": null,
+   "flags": [],
+   "name": "STARCAT Co., Ltd.",
+   "raw": [
+    "STARCAT Co., Ltd."
+   ],
+   "issue": 1304,
+   "date": "2024-11-15",
+   "amendment": 21
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "30",
+   "note": null,
+   "flags": [],
+   "name": "OQ Technology",
+   "raw": [
+    "OQ Technology"
+   ],
+   "issue": 1304,
+   "date": "2024-11-15",
+   "amendment": 21
+  },
+  {
+   "country": "Trial of a proposed new international telecommunication service, shared code",
+   "op": "ADD",
+   "mcc": "991",
+   "mnc": "04",
+   "note": "(temporary assignment for trial until 17.X.2025)",
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "E-Space Inc.",
+   "raw": [
+    "E-Space Inc.",
+    "(temporary assignment for trial until 17.X.2025)"
+   ],
+   "issue": 1304,
+   "date": "2024-11-15",
+   "amendment": 21
+  },
+  {
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "50",
+   "note": null,
+   "flags": [],
+   "name": "Telavox AB",
+   "raw": [
+    "Telavox AB"
+   ],
+   "issue": 1305,
+   "date": "2024-12-01",
+   "amendment": 22
+  },
+  {
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "OTE AE",
+   "raw": [
+    "OTE AE"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "INTERCONNECT",
+   "raw": [
+    "INTERCONNECT"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "YUBOTO",
+   "raw": [
+    "YUBOTO"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "13",
+   "note": null,
+   "flags": [],
+   "name": "COMPATEL LIMITED",
+   "raw": [
+    "COMPATEL LIMITED"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "BWS",
+   "raw": [
+    "BWS"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "SUP",
+   "mcc": "202",
+   "mnc": "16",
+   "note": null,
+   "flags": [],
+   "name": "INTER TELECOM",
+   "raw": [
+    "INTER TELECOM"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "00",
+   "note": null,
+   "flags": [],
+   "name": "INTER TELECOM",
+   "raw": [
+    "INTER TELECOM"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "OSE AE",
+   "raw": [
+    "OSE AE"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "06",
+   "note": null,
+   "flags": [],
+   "name": "VODAFONE-PANAFON",
+   "raw": [
+    "VODAFONE-PANAFON"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "RC",
+   "raw": [
+    "RC"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "16",
+   "note": null,
+   "flags": [],
+   "name": "INTERCONNECT",
+   "raw": [
+    "INTERCONNECT"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "17",
+   "note": null,
+   "flags": [],
+   "name": "NOVA M.A.E.",
+   "raw": [
+    "NOVA M.A.E."
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "ADD",
+   "mcc": "202",
+   "mnc": "21",
+   "note": null,
+   "flags": [],
+   "name": "CELL MOBILE",
+   "raw": [
+    "CELL MOBILE"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "01",
+   "note": null,
+   "flags": [],
+   "name": "OTE AE",
+   "raw": [
+    "OTE AE"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "OTE AE",
+   "raw": [
+    "OTE AE"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "AMD TELECOM",
+   "raw": [
+    "AMD TELECOM"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "NOVA M.A.E.",
+   "raw": [
+    "NOVA M.A.E."
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "NOVA M.A.E.",
+   "raw": [
+    "NOVA M.A.E."
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Greece",
+   "op": "LIR",
+   "mcc": "202",
+   "mnc": "14",
+   "note": null,
+   "flags": [],
+   "name": "VODAFONE-PANAFON",
+   "raw": [
+    "VODAFONE-PANAFON"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "74",
+   "note": null,
+   "flags": [],
+   "name": "Netplus.ch SA",
+   "raw": [
+    "Netplus.ch SA"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "\"T.R. Communications\" Limited Liability Company",
+   "raw": [
+    "\"T.R. Communications\" Limited Liability Company"
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "701",
+   "note": null,
+   "flags": [],
+   "name": "Public enterprise \"Ukrspetszvyazok\"",
+   "raw": [
+    "Public enterprise \"Ukrspetszvyazok\""
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Ukraine",
+   "op": "LIR",
+   "mcc": "255",
+   "mnc": "04",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "Limited Liability Company \"International Telecommunications\"",
+   "raw": [
+    "Limited Liability Company",
+    "\"International Telecommunications\""
+   ],
+   "issue": 1306,
+   "date": "2024-12-15",
+   "amendment": 23
+  },
+  {
+   "country": "Namibia",
+   "op": "SUP",
+   "mcc": "649",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "Capricorn Connect",
+   "raw": [
+    "Capricorn Connect"
+   ],
+   "issue": 1307,
+   "date": "2025-01-01",
+   "amendment": 24
+  },
+  {
+   "country": "Mexico",
+   "op": "SUP",
+   "mcc": "334",
+   "mnc": "060",
+   "note": null,
+   "flags": [],
+   "name": "SERVICIOS DE ACCESO INALÁMBRICO, S.A DE C.V.",
+   "raw": [
+    "SERVICIOS DE ACCESO INALÁMBRICO, S.A DE C.V."
+   ],
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendment": 25
+  },
+  {
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "210",
+   "note": null,
+   "flags": [],
+   "name": "YONDER MEDIA MOBILE MÉXICO, S. DE R.L. DE C.V.",
+   "raw": [
+    "YONDER MEDIA MOBILE MÉXICO, S. DE R.L. DE C.V."
+   ],
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendment": 25
+  },
+  {
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "010",
+   "note": null,
+   "flags": [],
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "raw": [
+    "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V."
+   ],
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendment": 25
+  },
+  {
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "050",
+   "note": null,
+   "flags": [],
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "raw": [
+    "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V."
+   ],
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendment": 25
+  },
+  {
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "090",
+   "note": null,
+   "flags": [],
+   "name": "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V.",
+   "raw": [
+    "AT&T COMERCIALIZACIÓN MÓVIL, S. DE R.L. DE C.V."
+   ],
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendment": 25
+  },
+  {
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "100",
+   "note": null,
+   "flags": [],
+   "name": "FINANCIERA PARA EL BIENESTAR",
+   "raw": [
+    "FINANCIERA PARA EL BIENESTAR"
+   ],
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendment": 25
+  },
+  {
+   "country": "Mexico",
+   "op": "LIR",
+   "mcc": "334",
+   "mnc": "160",
+   "note": null,
+   "flags": [],
+   "name": "TELEVISIÓN INTERNACIONAL, S.A. DE C.V.",
+   "raw": [
+    "TELEVISIÓN INTERNACIONAL, S.A. DE C.V."
+   ],
+   "issue": 1308,
+   "date": "2025-01-15",
+   "amendment": 25
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "060",
+   "note": null,
+   "flags": [],
+   "name": "Karrier One Inc.",
+   "raw": [
+    "Karrier One Inc."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Denmark",
+   "op": "SUP",
+   "mcc": "238",
+   "mnc": "03",
+   "note": null,
+   "flags": [],
+   "name": "Syniverse Technologies",
+   "raw": [
+    "Syniverse Technologies"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Denmark",
+   "op": "ADD",
+   "mcc": "238",
+   "mnc": "95",
+   "note": null,
+   "flags": [],
+   "name": "DANSK BEREDSKABSKOMMUNIKATION",
+   "raw": [
+    "DANSK BEREDSKABSKOMMUNIKATION"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "SUP",
+   "mcc": "454",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "Hong Kong Telecommunications (HKT) Limited",
+   "raw": [
+    "Hong Kong Telecommunications (HKT) Limited"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "SUP",
+   "mcc": "454",
+   "mnc": "32",
+   "note": null,
+   "flags": [],
+   "name": "Hong Kong Broadband Network Ltd",
+   "raw": [
+    "Hong Kong Broadband Network Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "SUP",
+   "mcc": "454",
+   "mnc": "36",
+   "note": null,
+   "flags": [],
+   "name": "Easco Telecommunications Limited",
+   "raw": [
+    "Easco Telecommunications Limited"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "290",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "291",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "292",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "293",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "294",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "295",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "296",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "297",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "298",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "299",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "380",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "382",
+   "note": null,
+   "flags": [],
+   "name": "South China Telecommunications (H.K.) Limited",
+   "raw": [
+    "South China Telecommunications (H.K.) Limited"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "383",
+   "note": null,
+   "flags": [],
+   "name": "China Mobile Hong Kong Company Limited",
+   "raw": [
+    "China Mobile Hong Kong Company Limited"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "390",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "391",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "392",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "393",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "394",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "395",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "396",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "397",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "398",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "ADD",
+   "mcc": "454",
+   "mnc": "399",
+   "note": null,
+   "flags": [],
+   "name": "Government use",
+   "raw": [
+    "Government use"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "LIR",
+   "mcc": "454",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "TP Hong Kong Operations Limited",
+   "raw": [
+    "TP Hong Kong Operations Limited"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "LIR",
+   "mcc": "454",
+   "mnc": "21",
+   "note": null,
+   "flags": [],
+   "name": "VNET Group Limited",
+   "raw": [
+    "VNET Group Limited"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Hong Kong, China",
+   "op": "LIR",
+   "mcc": "454",
+   "mnc": "22",
+   "note": null,
+   "flags": [],
+   "name": "HuiYinBi Telecom (Hong Kong) Limited",
+   "raw": [
+    "HuiYinBi Telecom (Hong Kong) Limited"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "Globalsim Ltd",
+   "raw": [
+    "Globalsim Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "Mirs Ltd",
+   "raw": [
+    "Mirs Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "Marathon 018 Xphone Ltd.",
+   "raw": [
+    "Marathon 018 Xphone Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "365 Telecom (MVNO)",
+   "raw": [
+    "365 Telecom (MVNO)"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "Free Telecom (MVNO)",
+   "raw": [
+    "Free Telecom (MVNO)"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "13",
+   "note": null,
+   "flags": [],
+   "name": "Ituran Cellular Communications",
+   "raw": [
+    "Ituran Cellular Communications"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "14",
+   "note": null,
+   "flags": [],
+   "name": "Alon Cellular Ltd.",
+   "raw": [
+    "Alon Cellular Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "Home Cellular (MVNO)",
+   "raw": [
+    "Home Cellular (MVNO)"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "16",
+   "note": null,
+   "flags": [],
+   "name": "Rami Levi (MVNO)",
+   "raw": [
+    "Rami Levi (MVNO)"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "17",
+   "note": null,
+   "flags": [],
+   "name": "Gale Phone (MVNO)",
+   "raw": [
+    "Gale Phone (MVNO)"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "19",
+   "note": null,
+   "flags": [],
+   "name": "Azi Communications Ltd",
+   "raw": [
+    "Azi Communications Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "21",
+   "note": null,
+   "flags": [],
+   "name": "B.I.P Communications Ltd.",
+   "raw": [
+    "B.I.P Communications Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "24",
+   "note": null,
+   "flags": [],
+   "name": "012 Telecom Ltd.",
+   "raw": [
+    "012 Telecom Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "27",
+   "note": null,
+   "flags": [],
+   "name": "BITIT Ltd.",
+   "raw": [
+    "BITIT Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "SUP",
+   "mcc": "425",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "CG Networks",
+   "raw": [
+    "CG Networks"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "Hot Mobile Ltd",
+   "raw": [
+    "Hot Mobile Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "Wecom Mobile Ltd.",
+   "raw": [
+    "Wecom Mobile Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "Merkaziya Ltd",
+   "raw": [
+    "Merkaziya Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "Widly Mobile Ltd",
+   "raw": [
+    "Widly Mobile Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "14",
+   "note": null,
+   "flags": [],
+   "name": "Pelephone Communications Ltd",
+   "raw": [
+    "Pelephone Communications Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "Cellcom Israel Ltd",
+   "raw": [
+    "Cellcom Israel Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "16",
+   "note": null,
+   "flags": [],
+   "name": "Rami Levi Ltd",
+   "raw": [
+    "Rami Levi Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "19",
+   "note": null,
+   "flags": [],
+   "name": "Telzar 019 Ltd",
+   "raw": [
+    "Telzar 019 Ltd"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "21",
+   "note": null,
+   "flags": [],
+   "name": "Xphone 018 Ltd.",
+   "raw": [
+    "Xphone 018 Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "24",
+   "note": null,
+   "flags": [],
+   "name": "Partner Communications Co. Ltd.",
+   "raw": [
+    "Partner Communications Co. Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "27",
+   "note": null,
+   "flags": [],
+   "name": "Paycall Ltd.",
+   "raw": [
+    "Paycall Ltd."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "C.M.G Networks",
+   "raw": [
+    "C.M.G Networks"
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Slovakia",
+   "op": "ADD",
+   "mcc": "231",
+   "mnc": "51",
+   "note": null,
+   "flags": [],
+   "name": "CETIN/CETIN Networks, s. r. o.",
+   "raw": [
+    "CETIN/CETIN Networks, s. r. o."
+   ],
+   "issue": 1309,
+   "date": "2025-02-01",
+   "amendment": 26
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "301",
+   "note": null,
+   "flags": [],
+   "name": "ECOTEL inc.",
+   "raw": [
+    "ECOTEL inc."
+   ],
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendment": 27
+  },
+  {
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "220",
+   "note": null,
+   "flags": [],
+   "name": "MEGA CABLE, S.A. DE C.V",
+   "raw": [
+    "MEGA CABLE, S.A. DE C.V"
+   ],
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendment": 27
+  },
+  {
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "50",
+   "note": null,
+   "flags": [],
+   "name": "eRate Sverige AB",
+   "raw": [
+    "eRate Sverige AB"
+   ],
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendment": 27
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "SITA (Formerly OnAir N.V.)",
+   "raw": [
+    "SITA (Formerly OnAir N.V.)"
+   ],
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendment": 27
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "99",
+   "note": null,
+   "flags": [],
+   "name": "Athalos Global Services BV",
+   "raw": [
+    "Athalos Global Services BV"
+   ],
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendment": 27
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "23",
+   "note": null,
+   "flags": [],
+   "name": "Bloxtel Inc.",
+   "raw": [
+    "Bloxtel Inc."
+   ],
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendment": 27
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "59",
+   "note": null,
+   "flags": [],
+   "name": "Bird B.V. (formerly MessageBird B.V.)",
+   "raw": [
+    "Bird B.V. (formerly MessageBird B.V.)"
+   ],
+   "issue": 1310,
+   "date": "2025-02-15",
+   "amendment": 27
+  },
+  {
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "002",
+   "note": null,
+   "flags": [],
+   "name": "Edatel S.A.",
+   "raw": [
+    "Edatel S.A."
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "020",
+   "note": null,
+   "flags": [],
+   "name": "Emtelsa",
+   "raw": [
+    "Emtelsa"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "102",
+   "note": null,
+   "flags": [],
+   "name": "Bellsouth Colombia S.A.",
+   "raw": [
+    "Bellsouth Colombia S.A."
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "SUP",
+   "mcc": "732",
+   "mnc": "130",
+   "note": null,
+   "flags": [],
+   "name": "Avantel",
+   "raw": [
+    "Avantel"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "100",
+   "note": null,
+   "flags": [],
+   "name": "COMUNICACION CELULAR S A COMCEL S A",
+   "raw": [
+    "COMUNICACION CELULAR S A COMCEL S A"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "124",
+   "note": null,
+   "flags": [],
+   "name": "COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC",
+   "raw": [
+    "COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "154",
+   "note": null,
+   "flags": [],
+   "name": "VIRGIN MOBILE COLOMBIA S.A.S.",
+   "raw": [
+    "VIRGIN MOBILE COLOMBIA S.A.S."
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "165",
+   "note": null,
+   "flags": [],
+   "name": "COLOMBIA MOVIL S A E S P",
+   "raw": [
+    "COLOMBIA MOVIL S A E S P"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "187",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP - ETB S.A. E.S.P.",
+   "raw": [
+    "EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP -",
+    "ETB S.A. E.S.P."
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "199",
+   "note": null,
+   "flags": [],
+   "name": "SUMA MOVIL S.A.S.",
+   "raw": [
+    "SUMA MOVIL S.A.S."
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "360",
+   "note": null,
+   "flags": [],
+   "name": "PARTNERS TELECOM COLOMBIA SAS",
+   "raw": [
+    "PARTNERS TELECOM COLOMBIA SAS"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "001",
+   "note": null,
+   "flags": [],
+   "name": "COLOMBIA TELECOMUNICACIONES S.A E.S.P. BIC",
+   "raw": [
+    "COLOMBIA TELECOMUNICACIONES S.A E.S.P. BIC"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "101",
+   "note": null,
+   "flags": [],
+   "name": "COMUNICACION CELULAR S A COMCEL S A",
+   "raw": [
+    "COMUNICACION CELULAR S A COMCEL S A"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "103",
+   "note": null,
+   "flags": [],
+   "name": "COLOMBIA MOVIL S A E S P",
+   "raw": [
+    "COLOMBIA MOVIL S A E S P"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "111",
+   "note": null,
+   "flags": [],
+   "name": "COLOMBIA MÓVIL S A E S P",
+   "raw": [
+    "COLOMBIA MÓVIL S A E S P"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Colombia",
+   "op": "LIR",
+   "mcc": "732",
+   "mnc": "123",
+   "note": null,
+   "flags": [],
+   "name": "COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC",
+   "raw": [
+    "COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "709",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "CENTRE DE TELECOMUNICACIONS I TECNOLOGIES DE LA INFORMACIÓ DE LA GENERALITAT DE CATALUNYA",
+   "raw": [
+    "CENTRE DE TELECOMUNICACIONS I TECNOLOGIES DE LA",
+    "INFORMACIÓ DE LA GENERALITAT DE CATALUNYA"
+   ],
+   "issue": 1311,
+   "date": "2025-03-01",
+   "amendment": 28
+  },
+  {
+   "country": "Namibia",
+   "op": "SUP",
+   "mcc": "649",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Demshi Investments CC",
+   "raw": [
+    "Demshi Investments CC"
+   ],
+   "issue": 1312,
+   "date": "2025-03-15",
+   "amendment": 29
+  },
+  {
+   "country": "Namibia",
+   "op": "ADD",
+   "mcc": "649",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "Loc Eight Mobile (Pty) Ltd",
+   "raw": [
+    "Loc Eight Mobile (Pty) Ltd"
+   ],
+   "issue": 1312,
+   "date": "2025-03-15",
+   "amendment": 29
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "72",
+   "note": null,
+   "flags": [],
+   "name": "Tele2 Sverige Aktiebolag (Formerly Tele2 IoT)",
+   "raw": [
+    "Tele2 Sverige Aktiebolag (Formerly Tele2 IoT)"
+   ],
+   "issue": 1312,
+   "date": "2025-03-15",
+   "amendment": 29
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "63",
+   "note": null,
+   "flags": [],
+   "name": "Beamlink, Inc.",
+   "raw": [
+    "Beamlink, Inc."
+   ],
+   "issue": 1312,
+   "date": "2025-03-15",
+   "amendment": 29
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "18",
+   "note": null,
+   "flags": [
+    "multiline"
+   ],
+   "name": "Wireless Maritime Services, LLC (Formerly Cingular Wireless)",
+   "raw": [
+    "Wireless Maritime Services, LLC",
+    "(Formerly Cingular Wireless)"
+   ],
+   "issue": 1312,
+   "date": "2025-03-15",
+   "amendment": 29
+  },
+  {
+   "country": "Singapore",
+   "op": "ADD",
+   "mcc": "525",
+   "mnc": "205",
+   "note": null,
+   "flags": [],
+   "name": "5G EP Testbed",
+   "raw": [
+    "5G EP Testbed"
+   ],
+   "issue": 1313,
+   "date": "2025-04-01",
+   "amendment": 30
+  },
+  {
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "704",
+   "note": null,
+   "flags": [],
+   "name": "AMPER SISTEMAS, S.A.U.",
+   "raw": [
+    "AMPER SISTEMAS, S.A.U."
+   ],
+   "issue": 1313,
+   "date": "2025-04-01",
+   "amendment": 30
+  },
+  {
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "21",
+   "note": null,
+   "flags": [],
+   "name": "Tismi B.V.",
+   "raw": [
+    "Tismi B.V."
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "33",
+   "note": null,
+   "flags": [],
+   "name": "J-Mobile OÜ (formerly Crowdfaster OÜ)",
+   "raw": [
+    "J-Mobile OÜ (formerly Crowdfaster OÜ)"
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "36",
+   "note": null,
+   "flags": [],
+   "name": "GLOBALCELL EU",
+   "raw": [
+    "GLOBALCELL EU"
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "37",
+   "note": null,
+   "flags": [],
+   "name": "Revaltex Grooup OÜ",
+   "raw": [
+    "Revaltex Grooup OÜ"
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "70",
+   "note": null,
+   "flags": [],
+   "name": "One Hungary Ltd.",
+   "raw": [
+    "One Hungary Ltd."
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "71",
+   "note": null,
+   "flags": [],
+   "name": "One Hungary Ltd.",
+   "raw": [
+    "One Hungary Ltd."
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "230",
+   "note": null,
+   "flags": [],
+   "name": "VINOC, S.A.P.I. DE C.V.",
+   "raw": [
+    "VINOC, S.A.P.I. DE C.V."
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "62",
+   "note": null,
+   "flags": [
+    "multiline"
+   ],
+   "name": "KORE Wireless (Formerly Twilio Inc.)",
+   "raw": [
+    "KORE Wireless",
+    "(Formerly Twilio Inc.)"
+   ],
+   "issue": 1314,
+   "date": "2025-04-15",
+   "amendment": 31
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "996",
+   "note": null,
+   "flags": [
+    "multiline"
+   ],
+   "name": "BC Hydro (formerly Powertech Labs (experimental))",
+   "raw": [
+    "BC Hydro",
+    "(formerly Powertech Labs (experimental))"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "420",
+   "note": null,
+   "flags": [],
+   "name": "TELUS Mobility",
+   "raw": [
+    "TELUS Mobility"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Georgia",
+   "op": "ADD",
+   "mcc": "282",
+   "mnc": "18",
+   "note": null,
+   "flags": [],
+   "name": "\"lagi\" LTD",
+   "raw": [
+    "\"lagi\" LTD"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "SUP",
+   "mcc": "437",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "iTel",
+   "raw": [
+    "iTel"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "ADD",
+   "mcc": "437",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "Alfa Telekom CJSC",
+   "raw": [
+    "Alfa Telekom CJSC"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "01",
+   "note": null,
+   "flags": [],
+   "name": "Sky Mobile LTD",
+   "raw": [
+    "Sky Mobile LTD"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "03",
+   "note": null,
+   "flags": [],
+   "name": "NUR Telekom LLC",
+   "raw": [
+    "NUR Telekom LLC"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Alfa Telekom CJSC",
+   "raw": [
+    "Alfa Telekom CJSC"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "06",
+   "note": null,
+   "flags": [],
+   "name": "Kyrgyztelecom OJSC",
+   "raw": [
+    "Kyrgyztelecom OJSC"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "NUR Telekom LLC",
+   "raw": [
+    "NUR Telekom LLC"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Kyrgyzstan",
+   "op": "LIR",
+   "mcc": "437",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "SAIMA TELECOM JSC",
+   "raw": [
+    "SAIMA TELECOM JSC"
+   ],
+   "issue": 1315,
+   "date": "2025-05-01",
+   "amendment": 32
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "975",
+   "note": null,
+   "flags": [],
+   "name": "BC Hydro",
+   "raw": [
+    "BC Hydro"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "16",
+   "note": null,
+   "flags": [],
+   "name": "E-Plus Mobilfunk GmbH & Co. KG",
+   "raw": [
+    "E-Plus Mobilfunk GmbH & Co. KG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "17",
+   "note": null,
+   "flags": [],
+   "name": "E-Plus Mobilfunk GmbH & Co. KG",
+   "raw": [
+    "E-Plus Mobilfunk GmbH & Co. KG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "75",
+   "note": null,
+   "flags": [],
+   "name": "Core Network Dynamics GmbH",
+   "raw": [
+    "Core Network Dynamics GmbH"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "SUP",
+   "mcc": "262",
+   "mnc": "77",
+   "note": null,
+   "flags": [],
+   "name": "E-Plus Mobilfunk GmbH & Co. KG",
+   "raw": [
+    "E-Plus Mobilfunk GmbH & Co. KG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "13",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw)",
+   "raw": [
+    "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der",
+    "Bundeswehr (BAAINBw)"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "14",
+   "note": null,
+   "flags": [],
+   "name": "Lebara Limited",
+   "raw": [
+    "Lebara Limited"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "24",
+   "note": null,
+   "flags": [],
+   "name": "TelcoVillage GmbH",
+   "raw": [
+    "TelcoVillage GmbH"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "25",
+   "note": null,
+   "flags": [],
+   "name": "MTEL Deutschland GmbH",
+   "raw": [
+    "MTEL Deutschland GmbH"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "70",
+   "note": null,
+   "flags": [],
+   "name": "BDBOS",
+   "raw": [
+    "BDBOS"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "76",
+   "note": null,
+   "flags": [],
+   "name": "BDBOS",
+   "raw": [
+    "BDBOS"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "868",
+   "note": null,
+   "flags": [],
+   "name": "BDBOS",
+   "raw": [
+    "BDBOS"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "869",
+   "note": null,
+   "flags": [],
+   "name": "TKÜV-Netzanbindungen",
+   "raw": [
+    "TKÜV-Netzanbindungen"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "03",
+   "note": null,
+   "flags": [],
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "raw": [
+    "Telefónica Germany GmbH & Co. oHG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "raw": [
+    "Telefónica Germany GmbH & Co. oHG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "raw": [
+    "Telefónica Germany GmbH & Co. oHG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "Telefónica Germany GmbH & Co. oHG",
+   "raw": [
+    "Telefónica Germany GmbH & Co. oHG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "23",
+   "note": null,
+   "flags": [],
+   "name": "Drillisch Netz AG",
+   "raw": [
+    "Drillisch Netz AG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "73",
+   "note": null,
+   "flags": [],
+   "name": "Nokia Solutions and Networks GmbH & Co.KG",
+   "raw": [
+    "Nokia Solutions and Networks GmbH & Co.KG"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "74",
+   "note": null,
+   "flags": [],
+   "name": "Ericsson GmbH",
+   "raw": [
+    "Ericsson GmbH"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Mexico",
+   "op": "ADD",
+   "mcc": "334",
+   "mnc": "240",
+   "note": null,
+   "flags": [],
+   "name": "PEGASO PCS, S.A. DE C.V.",
+   "raw": [
+    "PEGASO PCS, S.A. DE C.V."
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "310",
+   "mnc": "035",
+   "note": null,
+   "flags": [],
+   "name": "ETEX Communications, LP (d/b/a) ETEX Wireless",
+   "raw": [
+    "ETEX Communications, LP (d/b/a) ETEX Wireless"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "310",
+   "mnc": "290",
+   "note": null,
+   "flags": [],
+   "name": "NEP Cellcorp Inc.",
+   "raw": [
+    "NEP Cellcorp Inc."
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "310",
+   "mnc": "360",
+   "note": null,
+   "flags": [],
+   "name": "Cellular Network Partnership dba Pioneer Cellular",
+   "raw": [
+    "Cellular Network Partnership dba Pioneer Cellular"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "311",
+   "mnc": "930",
+   "note": null,
+   "flags": [],
+   "name": "Cox Communications",
+   "raw": [
+    "Cox Communications"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "311",
+   "mnc": "950",
+   "note": null,
+   "flags": [],
+   "name": "Sunman Telecommunications Corp.",
+   "raw": [
+    "Sunman Telecommunications Corp."
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "312",
+   "mnc": "270",
+   "note": null,
+   "flags": [],
+   "name": "Cellular Network Partnership dba Pioneer Cellular",
+   "raw": [
+    "Cellular Network Partnership dba Pioneer Cellular"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "312",
+   "mnc": "760",
+   "note": null,
+   "flags": [],
+   "name": "ARCTIC SLOPE TELEPHONE ASSOCIATION COOPERATIVE",
+   "raw": [
+    "ARCTIC SLOPE TELEPHONE ASSOCIATION COOPERATIVE"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "312",
+   "mnc": "810",
+   "note": null,
+   "flags": [],
+   "name": "Bristol Bay Telephone Cooperative",
+   "raw": [
+    "Bristol Bay Telephone Cooperative"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "313",
+   "mnc": "080",
+   "note": null,
+   "flags": [],
+   "name": "Speedwavz LLP",
+   "raw": [
+    "Speedwavz LLP"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "313",
+   "mnc": "570",
+   "note": null,
+   "flags": [],
+   "name": "Cellular Network Partnership",
+   "raw": [
+    "Cellular Network Partnership"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "SUP",
+   "mcc": "313",
+   "mnc": "600",
+   "note": null,
+   "flags": [],
+   "name": "ST Engineering iDirect",
+   "raw": [
+    "ST Engineering iDirect"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "310",
+   "mnc": "030",
+   "note": null,
+   "flags": [],
+   "name": "mobi",
+   "raw": [
+    "mobi"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "310",
+   "mnc": "060",
+   "note": null,
+   "flags": [],
+   "name": "Karrier One",
+   "raw": [
+    "Karrier One"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "550",
+   "note": null,
+   "flags": [],
+   "name": "REALLY COMMUNICATIONS",
+   "raw": [
+    "REALLY COMMUNICATIONS"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "560",
+   "note": null,
+   "flags": [],
+   "name": "Private Tech, Inc., dba Cape",
+   "raw": [
+    "Private Tech, Inc., dba Cape"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "570",
+   "note": null,
+   "flags": [],
+   "name": "Newmont Corporation",
+   "raw": [
+    "Newmont Corporation"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "580",
+   "note": null,
+   "flags": [],
+   "name": "Lower Colorado River Authority",
+   "raw": [
+    "Lower Colorado River Authority"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "590",
+   "note": null,
+   "flags": [],
+   "name": "Lynk Global, Inc.",
+   "raw": [
+    "Lynk Global, Inc."
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "600",
+   "note": null,
+   "flags": [],
+   "name": "XNET Inc",
+   "raw": [
+    "XNET Inc"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "610",
+   "note": null,
+   "flags": [],
+   "name": "IMSI.AI",
+   "raw": [
+    "IMSI.AI"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "620",
+   "note": null,
+   "flags": [],
+   "name": "Memphis Light, Gas, and Water",
+   "raw": [
+    "Memphis Light, Gas, and Water"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "630",
+   "note": null,
+   "flags": [],
+   "name": "Private Tech, Inc., dba Cape",
+   "raw": [
+    "Private Tech, Inc., dba Cape"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "640",
+   "note": null,
+   "flags": [],
+   "name": "Private Tech, Inc., dba Cape",
+   "raw": [
+    "Private Tech, Inc., dba Cape"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "650",
+   "note": null,
+   "flags": [],
+   "name": "Private Tech, Inc., dba Cape",
+   "raw": [
+    "Private Tech, Inc., dba Cape"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "660",
+   "note": null,
+   "flags": [],
+   "name": "Private Tech, Inc., dba Cape",
+   "raw": [
+    "Private Tech, Inc., dba Cape"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "670",
+   "note": null,
+   "flags": [],
+   "name": "Wi-DAS LLC",
+   "raw": [
+    "Wi-DAS LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "680",
+   "note": null,
+   "flags": [],
+   "name": "Comcast OTR1, LLC",
+   "raw": [
+    "Comcast OTR1, LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "690",
+   "note": null,
+   "flags": [],
+   "name": "Agri-Valley Communications, Inc",
+   "raw": [
+    "Agri-Valley Communications, Inc"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "700",
+   "note": null,
+   "flags": [],
+   "name": "Tampa Electric Company",
+   "raw": [
+    "Tampa Electric Company"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "710",
+   "note": null,
+   "flags": [],
+   "name": "Tribal Ready, PBC",
+   "raw": [
+    "Tribal Ready, PBC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "720",
+   "note": null,
+   "flags": [],
+   "name": "OXIO, Inc.",
+   "raw": [
+    "OXIO, Inc."
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "730",
+   "note": null,
+   "flags": [],
+   "name": "TextNow, Inc.",
+   "raw": [
+    "TextNow, Inc."
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "740",
+   "note": null,
+   "flags": [],
+   "name": "Ringer Mobile, LLC",
+   "raw": [
+    "Ringer Mobile, LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "750",
+   "note": null,
+   "flags": [],
+   "name": "SDF, Inc.",
+   "raw": [
+    "SDF, Inc."
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "760",
+   "note": null,
+   "flags": [],
+   "name": "Broadband Antenna Tracking Systems, Inc. (DBA. BATS Wireless)",
+   "raw": [
+    "Broadband Antenna Tracking Systems, Inc. (DBA. BATS Wireless)"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "770",
+   "note": null,
+   "flags": [],
+   "name": "Westbold LLC",
+   "raw": [
+    "Westbold LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "780",
+   "note": null,
+   "flags": [],
+   "name": "Saint Regis Mohawk Tribe",
+   "raw": [
+    "Saint Regis Mohawk Tribe"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "790",
+   "note": null,
+   "flags": [],
+   "name": "Neuner Mobile Technologies LLC",
+   "raw": [
+    "Neuner Mobile Technologies LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "800",
+   "note": null,
+   "flags": [],
+   "name": "Boost Network",
+   "raw": [
+    "Boost Network"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "ADD",
+   "mcc": "314",
+   "mnc": "810",
+   "note": null,
+   "flags": [],
+   "name": "ORCID - The Open RAN Center for Integration and Deployment",
+   "raw": [
+    "ORCID - The Open RAN Center for Integration and Deployment"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "310",
+   "mnc": "460",
+   "note": null,
+   "flags": [],
+   "name": "Eseye LLC",
+   "raw": [
+    "Eseye LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "312",
+   "mnc": "570",
+   "note": null,
+   "flags": [],
+   "name": "MHG Telco LLC",
+   "raw": [
+    "MHG Telco LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "312",
+   "mnc": "620",
+   "note": null,
+   "flags": [],
+   "name": "Airlinq Inc",
+   "raw": [
+    "Airlinq Inc"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "United States",
+   "op": "LIR",
+   "mcc": "312",
+   "mnc": "690",
+   "note": null,
+   "flags": [],
+   "name": "Tecore Global Services, LLC",
+   "raw": [
+    "Tecore Global Services, LLC"
+   ],
+   "issue": 1316,
+   "date": "2025-05-15",
+   "amendment": 33
+  },
+  {
+   "country": "Cook Islands",
+   "op": "ADD",
+   "mcc": "548",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "VakaNET Limited",
+   "raw": [
+    "VakaNET Limited"
+   ],
+   "issue": 1317,
+   "date": "2025-06-01",
+   "amendment": 34
+  },
+  {
+   "country": "Switzerland",
+   "op": "SUP",
+   "mcc": "228",
+   "mnc": "66",
+   "note": null,
+   "flags": [],
+   "name": "Inovia Services SA",
+   "raw": [
+    "Inovia Services SA"
+   ],
+   "issue": 1317,
+   "date": "2025-06-01",
+   "amendment": 34
+  },
+  {
+   "country": "New Zealand",
+   "op": "LIR",
+   "mcc": "530",
+   "mnc": "00",
+   "note": null,
+   "flags": [],
+   "name": "Spark NZT",
+   "raw": [
+    "Spark NZT"
+   ],
+   "issue": 1318,
+   "date": "2025-06-15",
+   "amendment": 35
+  },
+  {
+   "country": "New Zealand",
+   "op": "LIR",
+   "mcc": "530",
+   "mnc": "02",
+   "note": null,
+   "flags": [],
+   "name": "Spark NZT",
+   "raw": [
+    "Spark NZT"
+   ],
+   "issue": 1318,
+   "date": "2025-06-15",
+   "amendment": 35
+  },
+  {
+   "country": "Colombia",
+   "op": "ADD",
+   "mcc": "732",
+   "mnc": "230",
+   "note": null,
+   "flags": [],
+   "name": "SETROC MOBILE GROUP SAS",
+   "raw": [
+    "SETROC MOBILE GROUP SAS"
+   ],
+   "issue": 1319,
+   "date": "2025-07-01",
+   "amendment": 36
+  },
+  {
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "13",
+   "note": null,
+   "flags": [],
+   "name": "Schweizerische Bundesbahn SBB",
+   "raw": [
+    "Schweizerische Bundesbahn SBB"
+   ],
+   "issue": 1319,
+   "date": "2025-07-01",
+   "amendment": 36
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "25",
+   "note": null,
+   "flags": [],
+   "name": "SoftBank Corp.",
+   "raw": [
+    "SoftBank Corp."
+   ],
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendment": 37
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "26",
+   "note": null,
+   "flags": [],
+   "name": "NTT DOCOMO, INC.",
+   "raw": [
+    "NTT DOCOMO, INC."
+   ],
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendment": 37
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "55",
+   "note": null,
+   "flags": [],
+   "name": "KDDI CORPORATION",
+   "raw": [
+    "KDDI CORPORATION"
+   ],
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendment": 37
+  },
+  {
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "19",
+   "note": null,
+   "flags": [],
+   "name": "Vecton Mobile (Sweden) Ltd",
+   "raw": [
+    "Vecton Mobile (Sweden) Ltd"
+   ],
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendment": 37
+  },
+  {
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "39",
+   "note": null,
+   "flags": [],
+   "name": "Primlight AB",
+   "raw": [
+    "Primlight AB"
+   ],
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendment": 37
+  },
+  {
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "63",
+   "note": null,
+   "flags": [],
+   "name": "Fink Telecom Services",
+   "raw": [
+    "Fink Telecom Services"
+   ],
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendment": 37
+  },
+  {
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "80",
+   "note": null,
+   "flags": [],
+   "name": "Phonegroup SA",
+   "raw": [
+    "Phonegroup SA"
+   ],
+   "issue": 1320,
+   "date": "2025-07-15",
+   "amendment": 37
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "The Ozitel Network Pty. Ltd.",
+   "raw": [
+    "The Ozitel Network Pty. Ltd."
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "One.Tel GSM 1800 Pty. Ltd.",
+   "raw": [
+    "One.Tel GSM 1800 Pty. Ltd."
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "Airnet Commercial Australia Ltd.",
+   "raw": [
+    "Airnet Commercial Australia Ltd."
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "Ausgrid Corporation",
+   "raw": [
+    "Ausgrid Corporation"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "22",
+   "note": null,
+   "flags": [],
+   "name": "iiNet Ltd",
+   "raw": [
+    "iiNet Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "28",
+   "note": null,
+   "flags": [],
+   "name": "RCOM International Pty Ltd",
+   "raw": [
+    "RCOM International Pty Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "30",
+   "note": null,
+   "flags": [],
+   "name": "Compatel Limited",
+   "raw": [
+    "Compatel Limited"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "47",
+   "note": null,
+   "flags": [],
+   "name": "Woodside Energy Limited",
+   "raw": [
+    "Woodside Energy Limited"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "99",
+   "note": null,
+   "flags": [],
+   "name": "One.Tel GSM 1800 Pty. Ltd.",
+   "raw": [
+    "One.Tel GSM 1800 Pty. Ltd."
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "60",
+   "note": null,
+   "flags": [],
+   "name": "Starlink Internet Services Pte Ltd",
+   "raw": [
+    "Starlink Internet Services Pte Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "63",
+   "note": null,
+   "flags": [],
+   "name": "March IT Pty Ltd",
+   "raw": [
+    "March IT Pty Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "01",
+   "note": null,
+   "flags": [],
+   "name": "Telstra Limited",
+   "raw": [
+    "Telstra Limited"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "Telstra Limited",
+   "raw": [
+    "Telstra Limited"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "26",
+   "note": null,
+   "flags": [],
+   "name": "Sinch Australia Pty Ltd",
+   "raw": [
+    "Sinch Australia Pty Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "33",
+   "note": null,
+   "flags": [],
+   "name": "Sinch Australia Pty Ltd",
+   "raw": [
+    "Sinch Australia Pty Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "35",
+   "note": null,
+   "flags": [],
+   "name": "Bird.com Pty Ltd",
+   "raw": [
+    "Bird.com Pty Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "38",
+   "note": null,
+   "flags": [],
+   "name": "TP Operations Australia Pty Ltd",
+   "raw": [
+    "TP Operations Australia Pty Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "39",
+   "note": null,
+   "flags": [],
+   "name": "Telstra Limited",
+   "raw": [
+    "Telstra Limited"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "51",
+   "note": null,
+   "flags": [],
+   "name": "Fortescue Ltd",
+   "raw": [
+    "Fortescue Ltd"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "71",
+   "note": null,
+   "flags": [],
+   "name": "Telstra Limited",
+   "raw": [
+    "Telstra Limited"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "72",
+   "note": null,
+   "flags": [],
+   "name": "Telstra Limited",
+   "raw": [
+    "Telstra Limited"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "18",
+   "note": null,
+   "flags": [],
+   "name": "CLOUD COMMUNICATIONS OÜ",
+   "raw": [
+    "CLOUD COMMUNICATIONS OÜ"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Spain",
+   "op": "SUP",
+   "mcc": "214",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "XFERA MÓVILES, S.A.U.",
+   "raw": [
+    "XFERA MÓVILES, S.A.U."
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "LIR",
+   "mcc": "901",
+   "mnc": "75",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "Giesecke+Devrient Mobile Security TCD UK Limited (Formerly Podsystem Ltd.)",
+   "raw": [
+    "Giesecke+Devrient Mobile Security TCD UK Limited",
+    "(Formerly Podsystem Ltd.)"
+   ],
+   "issue": 1321,
+   "date": "2025-08-01",
+   "amendment": 38
+  },
+  {
+   "country": "Israel",
+   "op": "LIR",
+   "mcc": "425",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "Cellcom ISRAEL Ltd",
+   "raw": [
+    "Cellcom ISRAEL Ltd"
+   ],
+   "issue": 1322,
+   "date": "2025-08-15",
+   "amendment": 39
+  },
+  {
+   "country": "Namibia",
+   "op": "ADD",
+   "mcc": "649",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Click Cloud Hosting Services CC",
+   "raw": [
+    "Click Cloud Hosting Services CC"
+   ],
+   "issue": 1322,
+   "date": "2025-08-15",
+   "amendment": 39
+  },
+  {
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "702",
+   "note": null,
+   "flags": [],
+   "name": "Limited Liability Company \"J&W\"",
+   "raw": [
+    "Limited Liability Company \"J&W\""
+   ],
+   "issue": 1322,
+   "date": "2025-08-15",
+   "amendment": 39
+  },
+  {
+   "country": "Ukraine",
+   "op": "ADD",
+   "mcc": "255",
+   "mnc": "707",
+   "note": null,
+   "flags": [],
+   "name": "\"Kyivstar\" PrJSC",
+   "raw": [
+    "\"Kyivstar\" PrJSC"
+   ],
+   "issue": 1322,
+   "date": "2025-08-15",
+   "amendment": 39
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "725",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "731",
+   "note": null,
+   "flags": [],
+   "name": "Terrestar Solutions Inc.",
+   "raw": [
+    "Terrestar Solutions Inc."
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "821",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "972",
+   "note": null,
+   "flags": [],
+   "name": "Hydro-Québec",
+   "raw": [
+    "Hydro-Québec"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "Switzerland",
+   "op": "SUP",
+   "mcc": "228",
+   "mnc": "55",
+   "note": null,
+   "flags": [],
+   "name": "Komodos SA (formerly WeMobile SA)",
+   "raw": [
+    "Komodos SA (formerly WeMobile SA)"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "Intermatica",
+   "raw": [
+    "Intermatica"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "21",
+   "note": null,
+   "flags": [
+    "multiline"
+   ],
+   "name": "Wins Limited (Formerly Seanet Maritime Communications AB)",
+   "raw": [
+    "Wins Limited",
+    "(Formerly Seanet Maritime Communications AB)"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "22",
+   "note": null,
+   "flags": [],
+   "name": "MediaLincc Ltd",
+   "raw": [
+    "MediaLincc Ltd"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "35",
+   "note": null,
+   "flags": [],
+   "name": "Globecomm Network Services",
+   "raw": [
+    "Globecomm Network Services"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "36",
+   "note": null,
+   "flags": [],
+   "name": "Azerfon LLC",
+   "raw": [
+    "Azerfon LLC"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "38",
+   "note": null,
+   "flags": [],
+   "name": "Multiregional TransitTelecom (MTT)",
+   "raw": [
+    "Multiregional TransitTelecom (MTT)"
+   ],
+   "issue": 1323,
+   "date": "2025-09-01",
+   "amendment": 40
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "14",
+   "note": null,
+   "flags": [],
+   "name": "AAPT Ltd",
+   "raw": [
+    "AAPT Ltd"
+   ],
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendment": 41
+  },
+  {
+   "country": "Australia",
+   "op": "SUP",
+   "mcc": "505",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "3GIS Pty Ltd. (Telstra & Hutchison 3G)",
+   "raw": [
+    "3GIS Pty Ltd. (Telstra & Hutchison 3G)"
+   ],
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendment": 41
+  },
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "99",
+   "note": null,
+   "flags": [],
+   "name": "Telstra Limited",
+   "raw": [
+    "Telstra Limited"
+   ],
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendment": 41
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "03",
+   "note": null,
+   "flags": [],
+   "name": "TPG Telecom Limited",
+   "raw": [
+    "TPG Telecom Limited"
+   ],
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendment": 41
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "TPG Telecom Limited",
+   "raw": [
+    "TPG Telecom Limited"
+   ],
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendment": 41
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "23",
+   "note": null,
+   "flags": [],
+   "name": "Vocus Pty Ltd",
+   "raw": [
+    "Vocus Pty Ltd"
+   ],
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendment": 41
+  },
+  {
+   "country": "Australia",
+   "op": "LIR",
+   "mcc": "505",
+   "mnc": "27",
+   "note": null,
+   "flags": [],
+   "name": "Ergon Energy Telecommunications Pty Ltd",
+   "raw": [
+    "Ergon Energy Telecommunications Pty Ltd"
+   ],
+   "issue": 1324,
+   "date": "2025-09-15",
+   "amendment": 41
+  },
+  {
+   "country": "Botswana",
+   "op": "ADD",
+   "mcc": "652",
+   "mnc": "06",
+   "note": null,
+   "flags": [],
+   "name": "PARATUS TELECOMMUNICATIONS (PTY)LTD",
+   "raw": [
+    "PARATUS TELECOMMUNICATIONS (PTY)LTD"
+   ],
+   "issue": 1325,
+   "date": "2025-10-01",
+   "amendment": 42
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "Intergo Telecom OÜ",
+   "raw": [
+    "Intergo Telecom OÜ"
+   ],
+   "issue": 1325,
+   "date": "2025-10-01",
+   "amendment": 42
+  },
+  {
+   "country": "Gibraltar",
+   "op": "ADD",
+   "mcc": "266",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "Melmasti Global (Gibraltar) Ltd (trading as “MCOM”)",
+   "raw": [
+    "Melmasti Global (Gibraltar) Ltd (trading as “MCOM”)"
+   ],
+   "issue": 1326,
+   "date": "2025-10-15",
+   "amendment": 43
+  },
+  {
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "03",
+   "note": null,
+   "flags": [],
+   "name": "One Hungary Ltd.",
+   "raw": [
+    "One Hungary Ltd."
+   ],
+   "issue": 1326,
+   "date": "2025-10-15",
+   "amendment": 43
+  },
+  {
+   "country": "Japan",
+   "op": "SUP",
+   "mcc": "440",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "Marubeni Network Solutions Inc.",
+   "raw": [
+    "Marubeni Network Solutions Inc."
+   ],
+   "issue": 1326,
+   "date": "2025-10-15",
+   "amendment": 43
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "Misora Connect Inc.",
+   "raw": [
+    "Misora Connect Inc."
+   ],
+   "issue": 1326,
+   "date": "2025-10-15",
+   "amendment": 43
+  },
+  {
+   "country": "Japan",
+   "op": "LIR",
+   "mcc": "441",
+   "mnc": "210",
+   "note": null,
+   "flags": [],
+   "name": "NTT EAST, Inc.",
+   "raw": [
+    "NTT EAST, Inc."
+   ],
+   "issue": 1326,
+   "date": "2025-10-15",
+   "amendment": 43
+  },
+  {
+   "country": "Kazakhstan",
+   "op": "ADD",
+   "mcc": "401",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "KaR-Tel LLP",
+   "raw": [
+    "KaR-Tel LLP"
+   ],
+   "issue": 1326,
+   "date": "2025-10-15",
+   "amendment": 43
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "21",
+   "note": null,
+   "flags": [],
+   "name": "Trinavo LLC",
+   "raw": [
+    "Trinavo LLC"
+   ],
+   "issue": 1327,
+   "date": "2025-11-01",
+   "amendment": 44
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "VOYE GLOBAL CONNECTIVITY LTD",
+   "raw": [
+    "VOYE GLOBAL CONNECTIVITY LTD"
+   ],
+   "issue": 1327,
+   "date": "2025-11-01",
+   "amendment": 44
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "VOICENTER LTD",
+   "raw": [
+    "VOICENTER LTD"
+   ],
+   "issue": 1327,
+   "date": "2025-11-01",
+   "amendment": 44
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "88",
+   "note": null,
+   "flags": [],
+   "name": "Bondio Limited",
+   "raw": [
+    "Bondio Limited"
+   ],
+   "issue": 1327,
+   "date": "2025-11-01",
+   "amendment": 44
+  },
+  {
+   "country": "Trial of a proposed new international telecommunication service, shared code",
+   "op": "LIR",
+   "mcc": "991",
+   "mnc": "04",
+   "note": "(temporary assignment for trial until 17.X.2026)",
+   "flags": [
+    "multiline"
+   ],
+   "name": "E-Space Inc.",
+   "raw": [
+    "E-Space Inc.",
+    "(temporary assignment for trial until 17.X.2026)"
+   ],
+   "issue": 1327,
+   "date": "2025-11-01",
+   "amendment": 44
+  },
+  {
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "11",
+   "note": null,
+   "flags": [],
+   "name": "GlobalCell EU Ltd.",
+   "raw": [
+    "GlobalCell EU Ltd."
+   ],
+   "issue": 1328,
+   "date": "2025-11-15",
+   "amendment": 45
+  },
+  {
+   "country": "Israel",
+   "op": "LIR",
+   "mcc": "425",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "FREE TELECOM LTD",
+   "raw": [
+    "FREE TELECOM LTD"
+   ],
+   "issue": 1329,
+   "date": "2025-12-01",
+   "amendment": 46
+  },
+  {
+   "country": "New Zealand",
+   "op": "ADD",
+   "mcc": "530",
+   "mnc": "14",
+   "note": null,
+   "flags": [],
+   "name": "2degrees",
+   "raw": [
+    "2degrees"
+   ],
+   "issue": 1329,
+   "date": "2025-12-01",
+   "amendment": 46
+  },
+  {
+   "country": "New Zealand",
+   "op": "ADD",
+   "mcc": "530",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "Spark NZT",
+   "raw": [
+    "Spark NZT"
+   ],
+   "issue": 1329,
+   "date": "2025-12-01",
+   "amendment": 46
+  },
+  {
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "900",
+   "note": null,
+   "flags": [
+    "bare_code",
+    "multiline"
+   ],
+   "name": "Västra Götalandsregionen - Used for private network",
+   "raw": [
+    "Västra Götalandsregionen - Used for",
+    "private network"
+   ],
+   "issue": 1330,
+   "date": "2025-12-15",
+   "amendment": 47
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "992",
+   "note": null,
+   "flags": [],
+   "name": "AltaLink Management Ltd",
+   "raw": [
+    "AltaLink Management Ltd"
+   ],
+   "issue": 1331,
+   "date": "2026-01-01",
+   "amendment": 48
+  },
+  {
+   "country": "Estonia",
+   "op": "ADD",
+   "mcc": "248",
+   "mnc": "15",
+   "note": null,
+   "flags": [],
+   "name": "BSG Estonia OÜ",
+   "raw": [
+    "BSG Estonia OÜ"
+   ],
+   "issue": 1331,
+   "date": "2026-01-01",
+   "amendment": 48
+  },
+  {
+   "country": "Ireland",
+   "op": "ADD",
+   "mcc": "272",
+   "mnc": "26",
+   "note": null,
+   "flags": [],
+   "name": "Vodafone Ireland Limited",
+   "raw": [
+    "Vodafone Ireland Limited"
+   ],
+   "issue": 1331,
+   "date": "2026-01-01",
+   "amendment": 48
+  },
+  {
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "3G Infrastructure Services AB",
+   "raw": [
+    "3G Infrastructure Services AB"
+   ],
+   "issue": 1331,
+   "date": "2026-01-01",
+   "amendment": 48
+  },
+  {
+   "country": "Sweden",
+   "op": "ADD",
+   "mcc": "240",
+   "mnc": "58",
+   "note": null,
+   "flags": [],
+   "name": "Telia Sverige AB",
+   "raw": [
+    "Telia Sverige AB"
+   ],
+   "issue": 1331,
+   "date": "2026-01-01",
+   "amendment": 48
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "354",
+   "note": null,
+   "flags": [],
+   "name": "Every-Day Computers Inc.",
+   "raw": [
+    "Every-Day Computers Inc."
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "490",
+   "note": null,
+   "flags": [],
+   "name": "Freedom Mobile Inc.",
+   "raw": [
+    "Freedom Mobile Inc."
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "490",
+   "note": null,
+   "flags": [],
+   "name": "Videotron Ltd.",
+   "raw": [
+    "Videotron Ltd."
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "491",
+   "note": null,
+   "flags": [],
+   "name": "Videotron Ltd.",
+   "raw": [
+    "Videotron Ltd."
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Denmark",
+   "op": "SUP",
+   "mcc": "238",
+   "mnc": "14",
+   "note": null,
+   "flags": [],
+   "name": "Monty UK Global Limited",
+   "raw": [
+    "Monty UK Global Limited"
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Ireland",
+   "op": "ADD",
+   "mcc": "272",
+   "mnc": "27",
+   "note": null,
+   "flags": [],
+   "name": "TP Ireland Operations Limited",
+   "raw": [
+    "TP Ireland Operations Limited"
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Sweden",
+   "op": "SUP",
+   "mcc": "240",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Svenska UMTS-Nät AB",
+   "raw": [
+    "Svenska UMTS-Nät AB"
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "Sierra Wireless Sweden AB",
+   "raw": [
+    "Sierra Wireless Sweden AB"
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Sweden",
+   "op": "LIR",
+   "mcc": "240",
+   "mnc": "59",
+   "note": null,
+   "flags": [
+    "multiline"
+   ],
+   "name": "Myndigheten för civilt försvar (MCF) – Swedish Civil Defence and Resilience Agency – Used for private network (PPDR network (Rakel G2))",
+   "raw": [
+    "Myndigheten för civilt försvar (MCF) – Swedish Civil Defence and Resilience Agency – Used",
+    "for private network (PPDR network (Rakel G2))"
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "Switzerland",
+   "op": "SUP",
+   "mcc": "228",
+   "mnc": "63",
+   "note": null,
+   "flags": [],
+   "name": "Fink Telecom Services",
+   "raw": [
+    "Fink Telecom Services"
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "47",
+   "note": null,
+   "flags": [],
+   "name": "Société française du radiotéléphone (SFR)",
+   "raw": [
+    "Société française du radiotéléphone (SFR)"
+   ],
+   "issue": 1333,
+   "date": "2026-02-01",
+   "amendment": 49
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "57",
+   "note": null,
+   "flags": [],
+   "name": "AST & Science, LLC (AST SpaceMobile)",
+   "raw": [
+    "AST & Science, LLC (AST SpaceMobile)"
+   ],
+   "issue": 1334,
+   "date": "2026-02-15",
+   "amendment": 50
+  },
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "54",
+   "note": null,
+   "flags": [],
+   "name": "SimCorner Pty Ltd",
+   "raw": [
+    "SimCorner Pty Ltd"
+   ],
+   "issue": 1335,
+   "date": "2026-03-01",
+   "amendment": 51
+  },
+  {
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "RING CENTRALES DE COSTA RICA S.A.",
+   "raw": [
+    "RING CENTRALES DE COSTA RICA S.A."
+   ],
+   "issue": 1335,
+   "date": "2026-03-01",
+   "amendment": 51
+  },
+  {
+   "country": "Germany",
+   "op": "ADD",
+   "mcc": "262",
+   "mnc": "26",
+   "note": null,
+   "flags": [],
+   "name": "Simsalasim Germany GmbH",
+   "raw": [
+    "Simsalasim Germany GmbH"
+   ],
+   "issue": 1335,
+   "date": "2026-03-01",
+   "amendment": 51
+  },
+  {
+   "country": "Germany",
+   "op": "LIR",
+   "mcc": "262",
+   "mnc": "21",
+   "note": null,
+   "flags": [],
+   "name": "spusu Deutschland GmbH",
+   "raw": [
+    "spusu Deutschland GmbH"
+   ],
+   "issue": 1335,
+   "date": "2026-03-01",
+   "amendment": 51
+  },
+  {
+   "country": "Switzerland",
+   "op": "ADD",
+   "mcc": "228",
+   "mnc": "76",
+   "note": null,
+   "flags": [],
+   "name": "1GLOBAL Operations (Switzerland) GmbH",
+   "raw": [
+    "1GLOBAL Operations (Switzerland) GmbH"
+   ],
+   "issue": 1336,
+   "date": "2026-03-15",
+   "amendment": 52
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "27",
+   "note": null,
+   "flags": [],
+   "name": "Monaco Telecom",
+   "raw": [
+    "Monaco Telecom"
+   ],
+   "issue": 1336,
+   "date": "2026-03-15",
+   "amendment": 52
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "Myriota PTY",
+   "raw": [
+    "Myriota PTY"
+   ],
+   "issue": 1336,
+   "date": "2026-03-15",
+   "amendment": 52
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "70",
+   "note": null,
+   "flags": [],
+   "name": "Bureau 1440 LLC",
+   "raw": [
+    "Bureau 1440 LLC"
+   ],
+   "issue": 1336,
+   "date": "2026-03-15",
+   "amendment": 52
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "352",
+   "note": null,
+   "flags": [],
+   "name": "Lytton Area Wireless Society",
+   "raw": [
+    "Lytton Area Wireless Society"
+   ],
+   "issue": 1337,
+   "date": "2026-04-01",
+   "amendment": 53
+  },
+  {
+   "country": "Hungary",
+   "op": "LIR",
+   "mcc": "216",
+   "mnc": "99",
+   "note": null,
+   "flags": [],
+   "name": "MÁV Infrastructure Co. Ltd.",
+   "raw": [
+    "MÁV Infrastructure Co. Ltd."
+   ],
+   "issue": 1337,
+   "date": "2026-04-01",
+   "amendment": 53
+  },
+  {
+   "country": "South Africa",
+   "op": "ADD",
+   "mcc": "655",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "Vodacom Pty Ltd",
+   "raw": [
+    "Vodacom Pty Ltd"
+   ],
+   "issue": 1338,
+   "date": "2026-04-15",
+   "amendment": 54
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "151",
+   "note": null,
+   "flags": [],
+   "name": "Cogeco Connexion Inc.",
+   "raw": [
+    "Cogeco Connexion Inc."
+   ],
+   "issue": 1339,
+   "date": "2026-05-01",
+   "amendment": 55
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "152",
+   "note": null,
+   "flags": [],
+   "name": "Cogeco Connexion Inc.",
+   "raw": [
+    "Cogeco Connexion Inc."
+   ],
+   "issue": 1339,
+   "date": "2026-05-01",
+   "amendment": 55
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "160",
+   "note": null,
+   "flags": [],
+   "name": "Sugar Mobile Inc.",
+   "raw": [
+    "Sugar Mobile Inc."
+   ],
+   "issue": 1339,
+   "date": "2026-05-01",
+   "amendment": 55
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "480",
+   "note": null,
+   "flags": [],
+   "name": "SSi Connexions Inc.",
+   "raw": [
+    "SSi Connexions Inc."
+   ],
+   "issue": 1339,
+   "date": "2026-05-01",
+   "amendment": 55
+  },
+  {
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "480",
+   "note": null,
+   "flags": [],
+   "name": "SSi Micro Ltd.",
+   "raw": [
+    "SSi Micro Ltd."
+   ],
+   "issue": 1339,
+   "date": "2026-05-01",
+   "amendment": 55
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "724",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "725",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "821",
+   "note": null,
+   "flags": [],
+   "name": "Rogers Communications Canada Inc. (Wireless)",
+   "raw": [
+    "Rogers Communications Canada Inc. (Wireless)"
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "790",
+   "note": null,
+   "flags": [],
+   "name": "Manitoba NetSet Ltd",
+   "raw": [
+    "Manitoba NetSet Ltd"
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Canada",
+   "op": "LIR",
+   "mcc": "302",
+   "mnc": "790",
+   "note": null,
+   "flags": [],
+   "name": "Xplore Inc.",
+   "raw": [
+    "Xplore Inc."
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Chile",
+   "op": "SUP",
+   "mcc": "730",
+   "mnc": "19",
+   "note": null,
+   "flags": [],
+   "name": "Sociedad Falabella Móvil SPA",
+   "raw": [
+    "Sociedad Falabella Móvil SPA"
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Chile",
+   "op": "SUP",
+   "mcc": "730",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "raw": [
+    "Entel PCS Telecomunicaciones S.A."
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "28",
+   "note": null,
+   "flags": [],
+   "name": "Airtime Chile S.p.A.",
+   "raw": [
+    "Airtime Chile S.p.A."
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "29",
+   "note": null,
+   "flags": [],
+   "name": "Telefonica Moviles Chile",
+   "raw": [
+    "Telefonica Moviles Chile"
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "30",
+   "note": null,
+   "flags": [],
+   "name": "Telefonica Moviles Chile",
+   "raw": [
+    "Telefonica Moviles Chile"
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "31",
+   "note": null,
+   "flags": [],
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "raw": [
+    "Entel PCS Telecomunicaciones S.A."
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "32",
+   "note": null,
+   "flags": [],
+   "name": "Entel PCS Telecomunicaciones S.A.",
+   "raw": [
+    "Entel PCS Telecomunicaciones S.A."
+   ],
+   "issue": 1340,
+   "date": "2026-05-15",
+   "amendment": 56
+  },
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "64",
+   "note": null,
+   "flags": [],
+   "name": "Roam Aussie Pty Ltd",
+   "raw": [
+    "Roam Aussie Pty Ltd"
+   ],
+   "issue": 1341,
+   "date": "2026-06-01",
+   "amendment": 57
+  },
+  {
+   "country": "Estonia",
+   "op": "SUP",
+   "mcc": "248",
+   "mnc": "34",
+   "note": null,
+   "flags": [],
+   "name": "Nettora Systems OÜ",
+   "raw": [
+    "Nettora Systems OÜ"
+   ],
+   "issue": 1341,
+   "date": "2026-06-01",
+   "amendment": 57
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "12",
+   "note": null,
+   "flags": [],
+   "name": "CHADEVA SUR 2001, S.L. UNIPERSONAL",
+   "raw": [
+    "CHADEVA SUR 2001, S.L. UNIPERSONAL"
+   ],
+   "issue": 1341,
+   "date": "2026-06-01",
+   "amendment": 57
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "33",
+   "note": null,
+   "flags": [],
+   "name": "Onomondo ApS",
+   "raw": [
+    "Onomondo ApS"
+   ],
+   "issue": 1341,
+   "date": "2026-06-01",
+   "amendment": 57
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "540",
+   "note": null,
+   "flags": [],
+   "name": "Rovvr Communications Inc.",
+   "raw": [
+    "Rovvr Communications Inc."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "540",
+   "note": null,
+   "flags": [],
+   "name": "Rovvr Communications Inc.",
+   "raw": [
+    "Rovvr Communications Inc."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "770",
+   "note": null,
+   "flags": [],
+   "name": "TNW Wireless Inc.",
+   "raw": [
+    "TNW Wireless Inc."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "08",
+   "note": null,
+   "flags": [],
+   "name": "COOPERATIVA DE ELECTRIFICACION RURAL DE SAN CARLOS R.L.",
+   "raw": [
+    "COOPERATIVA DE ELECTRIFICACION RURAL DE SAN CARLOS R.L."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Jamaica",
+   "op": "ADD",
+   "mcc": "338",
+   "mnc": "111",
+   "note": null,
+   "flags": [],
+   "name": "Cable & Wireless Jamaica Ltd.",
+   "raw": [
+    "Cable & Wireless Jamaica Ltd."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Macao, China",
+   "op": "SUP",
+   "mcc": "455",
+   "mnc": "00",
+   "note": null,
+   "flags": [],
+   "name": "SmarTone – Comunicações Móveis, S.A.",
+   "raw": [
+    "SmarTone – Comunicações Móveis, S.A."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Macao, China",
+   "op": "SUP",
+   "mcc": "455",
+   "mnc": "06",
+   "note": null,
+   "flags": [],
+   "name": "SmarTone – Comunicações Móveis, S.A.",
+   "raw": [
+    "SmarTone – Comunicações Móveis, S.A."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Macao, China",
+   "op": "LIR",
+   "mcc": "455",
+   "mnc": "01",
+   "note": null,
+   "flags": [],
+   "name": "Companhia de Telecomunicações de Macau, S.A.",
+   "raw": [
+    "Companhia de Telecomunicações de Macau, S.A."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "Macao, China",
+   "op": "LIR",
+   "mcc": "455",
+   "mnc": "04",
+   "note": null,
+   "flags": [],
+   "name": "Companhia de Telecomunicações de Macau, S.A.",
+   "raw": [
+    "Companhia de Telecomunicações de Macau, S.A."
+   ],
+   "issue": 1342,
+   "date": "2026-06-15",
+   "amendment": 58
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "ADD",
+   "mcc": "901",
+   "mnc": "51",
+   "note": null,
+   "flags": [],
+   "name": "Ligado Networks Subsidiary LLC (\"Ligado Subsidiary\")",
+   "raw": [
+    "Ligado Networks Subsidiary LLC (\"Ligado Subsidiary\")"
+   ],
+   "issue": 1343,
+   "date": "2026-07-01",
+   "amendment": 59
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "992",
+   "note": null,
+   "flags": [],
+   "name": "AltaLink Management Ltd",
+   "raw": [
+    "AltaLink Management Ltd"
+   ],
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendment": 60
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "912",
+   "note": null,
+   "flags": [],
+   "name": "Halton Regional Police Service",
+   "raw": [
+    "Halton Regional Police Service"
+   ],
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendment": 60
+  },
+  {
+   "country": "Uganda",
+   "op": "SUP",
+   "mcc": "641",
+   "mnc": "33",
+   "note": null,
+   "flags": [],
+   "name": "Smile Communications Uganda Limited",
+   "raw": [
+    "Smile Communications Uganda Limited"
+   ],
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendment": 60
+  },
+  {
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Roke Telkom Limited",
+   "raw": [
+    "Roke Telkom Limited"
+   ],
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendment": 60
+  },
+  {
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "06",
+   "note": null,
+   "flags": [],
+   "name": "Savanna Fibre Limited",
+   "raw": [
+    "Savanna Fibre Limited"
+   ],
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendment": 60
+  },
+  {
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "Blue Crane Communications (U) Limited",
+   "raw": [
+    "Blue Crane Communications (U) Limited"
+   ],
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendment": 60
+  },
+  {
+   "country": "Uganda",
+   "op": "ADD",
+   "mcc": "641",
+   "mnc": "20",
+   "note": null,
+   "flags": [],
+   "name": "Hamilton Telecom Limited",
+   "raw": [
+    "Hamilton Telecom Limited"
+   ],
+   "issue": 1344,
+   "date": "2026-07-15",
+   "amendment": 60
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "100",
+   "note": null,
+   "flags": [],
+   "name": "Data on Tap Inc.",
+   "raw": [
+    "Data on Tap Inc."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "330",
+   "note": null,
+   "flags": [],
+   "name": "OpenMobile Inc.",
+   "raw": [
+    "OpenMobile Inc."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "351",
+   "note": null,
+   "flags": [],
+   "name": "MPVWIFI Inc.",
+   "raw": [
+    "MPVWIFI Inc."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Canada",
+   "op": "SUP",
+   "mcc": "302",
+   "mnc": "848",
+   "note": null,
+   "flags": [],
+   "name": "Vocom International Telecommunications, Inc",
+   "raw": [
+    "Vocom International Telecommunications, Inc"
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Israel",
+   "op": "ADD",
+   "mcc": "425",
+   "mnc": "30",
+   "note": null,
+   "flags": [],
+   "name": "SIMPRACY",
+   "raw": [
+    "SIMPRACY"
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Japan",
+   "op": "SUP",
+   "mcc": "441",
+   "mnc": "215",
+   "note": null,
+   "flags": [],
+   "name": "KYOCERA Mirai Envision Co., Ltd.",
+   "raw": [
+    "KYOCERA Mirai Envision Co., Ltd."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "27",
+   "note": null,
+   "flags": [],
+   "name": "Rakuten Mobile, Inc.",
+   "raw": [
+    "Rakuten Mobile, Inc."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "440",
+   "mnc": "28",
+   "note": null,
+   "flags": [],
+   "name": "OPTAGE Inc.",
+   "raw": [
+    "OPTAGE Inc."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "217",
+   "note": null,
+   "flags": [],
+   "name": "NTT DOCOMO, INC.",
+   "raw": [
+    "NTT DOCOMO, INC."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "218",
+   "note": null,
+   "flags": [],
+   "name": "KDDI Corporation",
+   "raw": [
+    "KDDI Corporation"
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Japan",
+   "op": "ADD",
+   "mcc": "441",
+   "mnc": "219",
+   "note": null,
+   "flags": [],
+   "name": "NTT DOCOMO, INC.",
+   "raw": [
+    "NTT DOCOMO, INC."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Japan",
+   "op": "LIR",
+   "mcc": "440",
+   "mnc": "13",
+   "note": null,
+   "flags": [],
+   "name": "NTT DOCOMO BUSINESS, Inc.",
+   "raw": [
+    "NTT DOCOMO BUSINESS, Inc."
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Sudan",
+   "op": "SUP",
+   "mcc": "634",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "Network of the World Ltd (NOW)",
+   "raw": [
+    "Network of the World Ltd (NOW)"
+   ],
+   "issue": 1345,
+   "date": "2026-08-01",
+   "amendment": 61
+  },
+  {
+   "country": "Canada",
+   "op": "ADD",
+   "mcc": "302",
+   "mnc": "330",
+   "note": null,
+   "flags": [],
+   "name": "OpenMobile Inc.",
+   "raw": [
+    "OpenMobile Inc."
+   ],
+   "issue": 1346,
+   "date": "2026-08-15",
+   "amendment": 62
+  },
+  {
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "COOPERATIVA DE ELECTRIFICACIÓN RURAL LOS SANTOS R.L.",
+   "raw": [
+    "COOPERATIVA DE ELECTRIFICACIÓN RURAL LOS SANTOS R.L."
+   ],
+   "issue": 1346,
+   "date": "2026-08-15",
+   "amendment": 62
+  },
+  {
+   "country": "Chile",
+   "op": "ADD",
+   "mcc": "730",
+   "mnc": "33",
+   "note": null,
+   "flags": [],
+   "name": "CLARO CHILE SpA",
+   "raw": [
+    "CLARO CHILE SpA"
+   ],
+   "issue": 1347,
+   "date": "2026-09-01",
+   "amendment": 63
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "710",
+   "note": null,
+   "flags": [],
+   "name": "AUTORIDAD PORTUARIA DE VALENCIA",
+   "raw": [
+    "AUTORIDAD PORTUARIA DE VALENCIA"
+   ],
+   "issue": 1347,
+   "date": "2026-09-01",
+   "amendment": 63
+  },
+  {
+   "country": "Australia",
+   "op": "ADD",
+   "mcc": "505",
+   "mnc": "65",
+   "note": null,
+   "flags": [],
+   "name": "Fear Enterprises Pty Ltd",
+   "raw": [
+    "Fear Enterprises Pty Ltd"
+   ],
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendment": 64
+  },
+  {
+   "country": "Costa Rica",
+   "op": "ADD",
+   "mcc": "712",
+   "mnc": "10",
+   "note": null,
+   "flags": [],
+   "name": "COOPERATIVA DE ELECTRIFICACIÓN RURAL DE GUANACASTE R.L.",
+   "raw": [
+    "COOPERATIVA DE ELECTRIFICACIÓN RURAL DE GUANACASTE R.L."
+   ],
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendment": 64
+  },
+  {
+   "country": "Spain",
+   "op": "ADD",
+   "mcc": "214",
+   "mnc": "704",
+   "note": null,
+   "flags": [],
+   "name": "ORANGE ESPAGNE, S.A. UNIPERSONAL",
+   "raw": [
+    "ORANGE ESPAGNE, S.A. UNIPERSONAL"
+   ],
+   "issue": 1349,
+   "date": "2026-10-01",
+   "amendment": 65
+  },
+  {
+   "country": "Venezuela (Bolivarian Republic of)",
+   "op": "ADD",
+   "mcc": "734",
+   "mnc": "05",
+   "note": null,
+   "flags": [],
+   "name": "TELEFÓNICA VENEZOLANA C.A.",
+   "raw": [
+    "TELEFÓNICA VENEZOLANA C.A."
+   ],
+   "issue": 1349,
+   "date": "2026-10-01",
+   "amendment": 65
+  },
+  {
+   "country": "International Mobile, shared code",
+   "op": "SUP",
+   "mcc": "901",
+   "mnc": "25",
+   "note": null,
+   "flags": [],
+   "name": "Datora Mobile Telecomunicações SA",
+   "raw": [
+    "Datora Mobile Telecomunicações SA"
+   ],
+   "issue": 1349,
+   "date": "2026-10-01",
+   "amendment": 65
+  },
+  {
+   "country": "Gabon",
+   "op": "ADD",
+   "mcc": "628",
+   "mnc": "06",
+   "note": null,
+   "flags": [],
+   "name": "Airtel Gabon S.A.",
+   "raw": [
+    "Airtel Gabon S.A."
+   ],
+   "issue": 1350,
+   "date": "2026-10-15",
+   "amendment": 66
+  },
+  {
+   "country": "Gabon",
+   "op": "LIR",
+   "mcc": "628",
+   "mnc": "03",
+   "note": null,
+   "flags": [],
+   "name": "Airtel Gabon S.A.",
+   "raw": [
+    "Airtel Gabon S.A."
+   ],
+   "issue": 1350,
+   "date": "2026-10-15",
+   "amendment": 66
+  },
+  {
+   "country": "Paraguay",
+   "op": "ADD",
+   "mcc": "744",
+   "mnc": "07",
+   "note": null,
+   "flags": [],
+   "name": "NUBICOM PARAGUAY S.A.",
+   "raw": [
+    "NUBICOM PARAGUAY S.A."
+   ],
+   "issue": 1350,
+   "date": "2026-10-15",
+   "amendment": 66
+  },
+  {
+   "country": "Seychelles",
+   "op": "ADD",
+   "mcc": "633",
+   "mnc": "09",
+   "note": null,
+   "flags": [],
+   "name": "Airtel (Seychelles) Ltd",
+   "raw": [
+    "Airtel (Seychelles) Ltd"
+   ],
+   "issue": 1350,
+   "date": "2026-10-15",
+   "amendment": 66
+  }
+ ],
+ "extra_territorial_lines": [
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "Country                           MCC+MNC*               MSIN** range to be used                    Operators Name"
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "Luxembourg                                         270 07           270 07 00 0X XX XX XX                  Bouygues Telecom S.A."
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "(Country A)"
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "France                                             270 07           270 07 60 XX XX XX XX                  Bouygues Telecom S.A."
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "(Country B – Where the MCC+MNC is"
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "to be used extra-territorially)"
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "situation where an MCC+MNC that has been assigned to an operator in one country, Country A, is used in another country, Country B, through"
+  },
+  {
+   "issue": 1296,
+   "date": "2024-07-15",
+   "amendment": 13,
+   "line": "a base station established in Country B."
+  },
+  {
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendment": 64,
+   "line": "Germany                              262 74                0000099000 - 0000099099           Ericsson GmbH"
+  },
+  {
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendment": 64,
+   "line": "(Country A)"
+  },
+  {
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendment": 64,
+   "line": "Sweden                               262 74                0000099100 - 0000099199           Ericsson GmbH"
+  },
+  {
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendment": 64,
+   "line": "(Country B – Where the"
+  },
+  {
+   "issue": 1348,
+   "date": "2026-09-15",
+   "amendment": 64,
+   "line": "extra-territorially)"
+  }
+ ],
+ "orphans": []
+}

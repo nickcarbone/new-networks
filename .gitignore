@@ -1,0 +1,5 @@
+work/
+geo/node_modules/
+reg/raw/*
+!reg/raw/uk_mnc_webfetch.csv
+__pycache__/

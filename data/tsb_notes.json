@@ -1,0 +1,222 @@
+[
+ {
+  "issue": 1282,
+  "date": "2023-12-15",
+  "kind": "international_mobile",
+  "text": "\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nwithdrawn.\n\n                                                      Mobile Country Code (MCC) and            Date of withdrawal\n                   Network\n                                                       Mobile Network Code (MNC)\n\n  HMD Global Oy                                                   901 95                            30.XI.2023",
+  "codes": [
+   "901 95"
+  ]
+ },
+ {
+  "issue": 1283,
+  "date": "2024-01-01",
+  "kind": "international_mobile",
+  "text": "\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) has been\nassigned.\n\n                                                  Mobile Country Code (MCC) and            Date of assignment\n                    Network\n                                                   Mobile Network Code (MNC)\n\n     NTT Ltd.                                                  901 07                          13.XII.2023",
+  "codes": [
+   "901 07"
+  ]
+ },
+ {
+  "issue": 1286,
+  "date": "2024-02-15",
+  "kind": "international_mobile",
+  "text": "\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have been\nassigned.\n\n                                                    Mobile Country Code (MCC) and           Date of assignment\n                       Network\n                                                     Mobile Network Code (MNC)\n\n     SpaceX                                                      901 08                          1.II.2024\n\n\n     China Telecommunications Corporation                        901 09                          1.II.2024",
+  "codes": [
+   "901 08",
+   "901 09"
+  ]
+ },
+ {
+  "issue": 1287,
+  "date": "2024-03-01",
+  "kind": "international_mobile",
+  "text": "\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) have been\nwithdrawn.\n\n                                             Mobile Country Code (MCC) and              Date of withdrawal\n                Network\n                                              Mobile Network Code (MNC)\n\n Voxbone SA                                               901 24                            7.II.2024\n\n\n Truphone Limited                                         901 90                            6.II.2024",
+  "codes": [
+   "901 24",
+   "901 90"
+  ]
+ },
+ {
+  "issue": 1289,
+  "date": "2024-04-01",
+  "kind": "international_mobile",
+  "text": "\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n                                                  Mobile Country Code (MCC) and          Date of assignment\n                     Network\n                                                   Mobile Network Code (MNC)\n\n     Omnispace LLC                                             901 10                        18.III.2024",
+  "codes": [
+   "901 10"
+  ]
+ },
+ {
+  "issue": 1296,
+  "date": "2024-07-15",
+  "kind": "extra_territorial",
+  "text": "                                 and Mobile Network Code (MNC)\n                 (According to Recommendation ITU-T E.212 (09/2016) – Annex E)\n\nNote from TSB*\nPursuant to Annex E to Recommendation ITU-T E.212, the Institut Luxembourgeois de Régulation (ILR) of Luxembourg, and\nthe Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (ARCEP) of\nFrance, have notified to TSB that MCC+MNC 270 07 will be used extra-territorially.\n____________\n*   See current ITU Operational Bulletin No. 1296 of 15.VII.2024, page 8.",
+  "codes": [
+   "270 07"
+  ]
+ },
+ {
+  "issue": 1301,
+  "date": "2024-10-01",
+  "kind": "international_mobile",
+  "text": "\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n                                                   Mobile Country Code (MCC) and              Date of assignment\n                   Network\n                                                    Mobile Network Code (MNC)\n\n   Datora Mobile Telecomunicações SA                            901 25                              16.IX.2024",
+  "codes": [
+   "901 25"
+  ]
+ },
+ {
+  "issue": 1304,
+  "date": "2024-11-15",
+  "kind": "international_mobile",
+  "text": "\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n                                                  Mobile Country Code (MCC) and             Date of assignment\n                   Network\n                                                   Mobile Network Code (MNC)\n\n   OQ Technology                                               901 30                           18.X.2024\n\n\n\n\nNote from TSB",
+  "codes": [
+   "901 30"
+  ]
+ },
+ {
+  "issue": 1304,
+  "date": "2024-11-15",
+  "kind": "trial",
+  "text": "\nAssociated with shared mobile country code 991 (MCC), for trial, the two-digit trial mobile network code (MNC) “04”\nhas been temporarily assigned until 17 October 2025 to E-Space Inc. for its trial of its Semaphore Network. The\ntemporary assignment of the E.212 shared MCC and trial-MNC 991 04 is effective from 18 October 2024.\n\n\n                                  Mobile Country Code (MCC) and         Effective date of     Reclamation date\n            Applicant\n                                 trial-Mobile Network Code (MNC)           assignment\n\n    E-Space Inc.                               991 04                      18.X.2024             18.X.2025",
+  "codes": [
+   "991 04"
+  ]
+ },
+ {
+  "issue": 1310,
+  "date": "2025-02-15",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) have\nbeen withdrawn.\n\n                                                  Mobile Country Code (MCC) and          Date of withdrawal\n                   Network\n                                                   Mobile Network Code (MNC)\n\n   Athalos Global Services BV                                  901 99                        24.I.2025\n\n\n   SITA (Formerly OnAir N.V.)                                  901 15                        24.I.2025\n\n\n\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n                                                  Mobile Country Code (MCC) and          Date of assignment\n                   Network\n                                                   Mobile Network Code (MNC)\n\n   Bloxtel Inc.                                                901 23                        24.I.2025",
+  "codes": [
+   "901 15",
+   "901 23",
+   "901 99"
+  ]
+ },
+ {
+  "issue": 1312,
+  "date": "2025-03-15",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nwithdrawn.\n\n                                                Mobile Country Code (MCC) and                 Date of\n                    Network\n                                                 Mobile Network Code (MNC)                   withdrawal\n\n  Tele2 Sverige Aktiebolag                                   901 72                          21.II.2025\n  (Formerly Tele2 IoT)\n\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n                                                Mobile Country Code (MCC) and                 Date of\n                    Network\n                                                 Mobile Network Code (MNC)                  assignment\n\n\n   Beamlink, Inc.                                            901 63                          21.II.2025\n\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\ntransferred.\n\n                                                Mobile Country Code (MCC) and                  Date of\n                    Network\n                                                 Mobile Network Code (MNC)             transfer of assignment\n\n\n   Wireless Maritime Services, LLC                           901 18                          21.II.2025\n   (Formerly Cingular Wireless)",
+  "codes": [
+   "901 18",
+   "901 63",
+   "901 72"
+  ]
+ },
+ {
+  "issue": 1314,
+  "date": "2025-04-15",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\ntransferred.\n\n                                                  Mobile Country Code (MCC) and                       Date of\n                  Network\n                                                   Mobile Network Code (MNC)                  transfer of assignment\n\n\n KORE Wireless                                                901 62                               24.III.2025\n (Formerly Twilio Inc.)\n\n\n\n\n\n                         The international telecommunication charge card\n                                  (Recommendation ITU-T E.118)\n\nNote from TSB\n                                           Global Issuer Identifier Number\n\n\nThe following global Issuer Identifier Number has been transferred.\n\n\n   Company Name/Address               Issuer                          Contact                    Date of\n                                    Identifier                                           transfer of assignment\n                                     Number\nKORE Wireless                       89 883 07       KORE Headquarters                         24.III.2025\n(Formerly Twilio Inc.)                              3 Ravinia Drive, Floor 5,\n3 Ravinia DR Suite 300                              ATLANTA, GA\nATLANTA, GA 30346                                   (United States)\n(United States)                                     Tel: +1 877 710 5673\n                                                    E-mail: peberling@korewireless.com\n\n\n\n\n\n                                   Data Transmission Service\n                             (Recommendation ITU-T X.121 (10/2000))\n                                International numbering plan for public data networks\n\nSpain\nCommunication of 14.III.2025:\nThe Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, Madrid, announces the withdrawal, on\n28 February 2025, of Data Network Identification Code (DNIC) 214 1 to the network “Telefónica de España, S.A.U.\n(formerly Nodo internacional de datos)“.\nAccordingly, the following Data Network Identification Codes (DNIC) and network names are in use in Spain:\n\n\n           Country/Area          DNIC No.                      Name of network to which a DNIC is allocated\n\n                1                    2                                              3\n\n\n ESPAGNE                           214 0      Administración Pública\n SPAIN                             214 2      RETEVISIÓN\n ESPAÑA                            214 5      Red IBERPAC\n                                   214 7      France Telecom Redes y Servicios\n                                   214 9      MegaRed\n\n\n\n\nFor further information, please contact:\n         Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales\n         C/ Poeta Joan Maragall, 41\n         28071 MADRID\n         Spain\n         URL: https://avance.digital.gob.es",
+  "codes": [
+   "901 62"
+  ]
+ },
+ {
+  "issue": 1321,
+  "date": "2025-08-01",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\ntransferred.\n\n\n                                                Mobile Country Code (MCC) and                        Date of\n                   Network\n                                                 Mobile Network Code (MNC)                   transfer of assignment\n\n\n   Giesecke+Devrient Mobile Security TCD                      901 75                              24.III.2025\n   UK Limited\n   (Formerly Podsystem Ltd.)\n\n\n\n\n\n                       The international telecommunication charge card\n                                (Recommendation ITU-T E.118)\n\nNote from TSB\n                                           Global Issuer Identifier Number\n\n\nThe following global Issuer Identifier Number has been transferred.\n\n\n         Company Name/Address                   Issuer                   Contact                  Date of\n                                              Identifier                                        transfer of\n                                               Number                                           assignment\n Giesecke+Devrient Mobile Security TCD        89 883 08     Alistair Elliott                    24.III.2025\n UK Limited                                                 Globe House, Unit 1, Westlinks,\n (Formerly Podsystem Ltd.)                                  Alperton Lane,\n Globe House, Unit 1, Westlinks,                            HA0 1ER Wembley, Middlesex\n Alperton Lane,                                             (United Kingdom)\n HA0 1ER Wembley, Middlesex                                 Tel: +44 (0) 20 8799 8100\n (United Kingdom)                                           E-mail: GD-IOT@gi-de.com\n\n\n\nThe following global Issuer Identifier Number has been assigned.\n\n\n         Company Name/Address                   Issuer                       Contact               Date of\n                                              Identifier                                         assignment\n                                               Number\n Telefónica Germany GmbH & Co. OHG            89 883 15     Roaming department,                   24.I.2025\n Georg-Brauchle-Ring 50                                     Telefónica Germany GmbH & Co. OHG\n 80992 MÜNCHEN                                              Georg-Brauchle-Ring 50\n (Germany)                                                  80992 MÜNCHEN\n                                                            (Germany)\n                                                            E-mail: Roaming-DE@telefonica.com\n\n\n\n\n\n                                   Data Transmission Service\n                             (Recommendation ITU-T X.121 (10/2000))\n                                International numbering plan for public data networks\n\nSpain\nCommunication of 10.VII.2025:\nThe Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales, Madrid, announces the withdrawal, on\n30 June 2025, of the following Data Network Identification Codes (DNIC):\n\n\n         Country/Area            DNIC No.             Name of network to which a DNIC is withdrawn\n\n                1                    2                                           3\n\n\n ESPAGNE                           214 0      Administración Pública\n SPAIN                             214 2      RETEVISIÓN\n ESPAÑA                            214 5      Red IBERPAC\n                                   214 7      France Telecom Redes y Servicios\n                                   214 9      MegaRed\n\n\n\n\nAccordingly, there are no DNIC assigned in Spain.\n\n\nFor further information, please contact:\n         Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales\n         C/ Poeta Joan Maragall, 41\n         28071 MADRID\n         Spain\n         URL: https://avance.digital.gob.es",
+  "codes": [
+   "901 75"
+  ]
+ },
+ {
+  "issue": 1323,
+  "date": "2025-09-01",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have\nbeen withdrawn.\n\n                                                       Mobile Country Code (MCC) and         Date of\n                       Network\n                                                        Mobile Network Code (MNC)           withdrawal\n\n   Intermatica                                                      901 20                  12.VIII.2025\n\n   Wins Limited                                                     901 21                  12.VIII.2025\n   (Formerly Seanet Maritime Communications AB)\n\n   MediaLincc Ltd                                                   901 22                  13.VIII.2025\n\n   Globecomm Network Services                                       901 35                  12.VIII.2025\n\n   Azerfon LLC                                                      901 36                  12.VIII.2025\n\n   Multiregional TransitTelecom (MTT)                               901 38                  20.VIII.2025\n\n\n\n\n                       The international telecommunication charge card\n                                (Recommendation ITU-T E.118)\n\nNote from TSB\n                                          Global Issuer Identifier Number\n\n\nThe following global Issuer Identifier Number has been withdrawn.\n\n\n                    Company Name/Address                                  Issuer               Date of\n                                                                        Identifier            withdrawal\n                                                                         Number\n Multiregional TransitTelecom (MTT)                                     89 883 02            20.VIII.2025\n 22 Marksistskaya Str.\n 109147 MOSCOW\n (Russian Federation)",
+  "codes": [
+   "901 20",
+   "901 21",
+   "901 22",
+   "901 35",
+   "901 36",
+   "901 38"
+  ]
+ },
+ {
+  "issue": 1327,
+  "date": "2025-11-01",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n\n                                                   Mobile Country Code (MCC) and                Date of\n                    Network\n                                                    Mobile Network Code (MNC)                 assignment\n\n   Bondio Limited                                               901 88                         20.X.2025\n\n\n\n\nNote from TSB",
+  "codes": [
+   "901 88"
+  ]
+ },
+ {
+  "issue": 1327,
+  "date": "2025-11-01",
+  "kind": "trial",
+  "text": "\nAssociated with shared mobile country code 991 (MCC), for trial, the temporary assignment of a two-digit trial mobile\nnetwork code (MNC) “04” has been extended until 17 October 2026 to E-Space Inc. for its trial of its Semaphore\nNetwork. The extension of the temporary assignment of the E.212 shared MCC and trial-MNC 991 04 is effective from\n18 October 2025.\n\n\n\n                                   Mobile Country Code (MCC) and         Effective date of   Reclamation date\n            Applicant\n                                  trial-Mobile Network Code (MNC)           assignment\n\n    E-Space Inc.                                991 04                      18.X.2025            18.X.2026",
+  "codes": [
+   "991 04"
+  ]
+ },
+ {
+  "issue": 1333,
+  "date": "2026-02-01",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n                                                          Mobile Country Code (MCC) and                Date of\n                         Network\n                                                           Mobile Network Code (MNC)                 assignment\n\n      Société française du radiotéléphone (SFR)                        901 47                        22.XII.2025",
+  "codes": [
+   "901 47"
+  ]
+ },
+ {
+  "issue": 1334,
+  "date": "2026-02-15",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nassigned.\n\n\n                                                Mobile Country Code (MCC) and                Date of\n                   Network\n                                                 Mobile Network Code (MNC)                 assignment\n\n   AST & Science, LLC (AST SpaceMobile)                      901 57                         30.I.2026",
+  "codes": [
+   "901 57"
+  ]
+ },
+ {
+  "issue": 1336,
+  "date": "2026-03-15",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have\nbeen assigned.\n\n                                                  Mobile Country Code (MCC) and                   Date of\n                   Network\n                                                   Mobile Network Code (MNC)                    assignment\n\n Bureau 1440 LLC                                               901 70                           23.II.2026\n\n Myriota PTY                                                   901 29                           23.II.2026\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) has been\nreturned.\n\n                                                  Mobile Country Code (MCC) and                  Date of\n                   Network\n                                                   Mobile Network Code (MNC)                     return\n\n Monaco Telecom                                                901 27                           23.II.2026",
+  "codes": [
+   "901 27",
+   "901 29",
+   "901 70"
+  ]
+ },
+ {
+  "issue": 1341,
+  "date": "2026-06-01",
+  "kind": "international_mobile",
+  "text": "Associated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) have been\nassigned.\n\n                                                  Mobile Country Code (MCC) and                 Date of\n                   Network\n                                                   Mobile Network Code (MNC)                  assignment\n\n Onomondo ApS                                                 901 33                           8.V.2026",
+  "codes": [
+   "901 33"
+  ]
+ },
+ {
+  "issue": 1343,
+  "date": "2026-07-01",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network codes (MNC) have\nbeen assigned.\n\n\n                                                Mobile Country Code (MCC) and                Date of\n                   Network\n                                                 Mobile Network Code (MNC)                 assignment\n\n   Ligado Networks Subsidiary LLC                            901 51                        05.VI.2026\n   (\"Ligado Subsidiary\")",
+  "codes": [
+   "901 51"
+  ]
+ },
+ {
+  "issue": 1348,
+  "date": "2026-09-15",
+  "kind": "extra_territorial",
+  "text": "                               and Mobile Network Code (MNC)\n               (According to Recommendation ITU-T E.212 (09/2016) – Annex E)\nNote from TSB*\nPursuant to Annex E to Recommendation ITU-T E.212, the Federal Network Agency for Electricity, Gas,\nTelecommunications, Post and Railway of Germany, and the Swedish Post and Telecom Authority (PTS) of Sweden, have\nnotified to TSB that MCC+MNC 262 74 will be used extra-territorially.\n____________\n*    See current ITU Operational Bulletin No. 1348 of 15.IX.2026, page 45.",
+  "codes": [
+   "262 74"
+  ]
+ },
+ {
+  "issue": 1349,
+  "date": "2026-10-01",
+  "kind": "international_mobile",
+  "text": "\n\nAssociated with shared mobile country code 901 (MCC), the following two-digit mobile network code (MNC) have\nbeen withdrawn.\n\n                                                        Mobile Country Code (MCC) and                Date of\n                      Network\n                                                         Mobile Network Code (MNC)                  withdrawal\n\n Datora Mobile Telecomunicações SA                                   901 25                         11.IX.2026",
+  "codes": [
+   "901 25"
+  ]
+ }
+]

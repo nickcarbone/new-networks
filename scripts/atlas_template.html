@@ -1,0 +1,618 @@
+<title>New Networks</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A slow gazette of mobile network codes assigned and withdrawn worldwide, from the ITU Operational Bulletin, checked against national registries.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;700&display=swap">
+<style>
+/* Layout: an atlas plate. Edition masthead, the map as the page's first object with the off-map strip beneath it, then the current issue in parallel columns, sightings ahead of the ITU, the register, the archive and the coverage notes. */
+:root {
+  --sea: #dbe5ec;
+  --land: #f7f8f6;
+  --edge: #c3cfd8;
+  --paper: #eef2f5;
+  --sheet: #ffffff;
+  --ink: #13202b;
+  --muted: #586877;
+  --rule: #d3dce3;
+  --accent: #0a6c97;
+  --accent-soft: #dcecf4;
+  --hot: #e06a17;
+  --hot-soft: #fbe7d8;
+  --add: #2a7a4b; --add-soft: #e0f1e6;
+  --sup: #b13a2a; --sup-soft: #f7e1dd;
+  --lir: #966510; --lir-soft: #f4ead6;
+  --f-public: #4a6274; --f-special: #6a4fa3; --f-infra: #0f7a6c; --f-research: #a3501f; --f-other: #8a96a0;
+  --display: "Big Shoulders Display", "Arial Narrow", "Roboto Condensed", Impact, sans-serif;
+  --body: "Public Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --sea: #0c1821; --land: #1b2934; --edge: #2c3c49; --paper: #0f1a22; --sheet: #15222c; --ink: #e5ebf0; --muted: #92a3b2; --rule: #263642;
+    --accent: #4fb2de; --accent-soft: #15303f; --hot: #f58d3c; --hot-soft: #3a2414;
+    --add: #61c28c; --add-soft: #15291d; --sup: #ea7b6b; --sup-soft: #321a16; --lir: #e2ac4f; --lir-soft: #2f2412;
+    --f-public: #9fb6c7; --f-special: #b49be6; --f-infra: #4fc6b4; --f-research: #e99a63; --f-other: #8a96a0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --sea: #0c1821; --land: #1b2934; --edge: #2c3c49; --paper: #0f1a22; --sheet: #15222c; --ink: #e5ebf0; --muted: #92a3b2; --rule: #263642;
+  --accent: #4fb2de; --accent-soft: #15303f; --hot: #f58d3c; --hot-soft: #3a2414;
+  --add: #61c28c; --add-soft: #15291d; --sup: #ea7b6b; --sup-soft: #321a16; --lir: #e2ac4f; --lir-soft: #2f2412;
+  --f-public: #9fb6c7; --f-special: #b49be6; --f-infra: #4fc6b4; --f-research: #e99a63; --f-other: #8a96a0;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink); font: 15.5px/1.55 var(--body);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 72px;
+}
+a { color: var(--accent); text-underline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+.wrap { max-width: 1180px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1fr); gap: 44px; }
+.wrap > *, section > *, .plate, .mapgrid { min-width: 0; }
+.code { font: 500 0.94em/1.2 var(--mono); white-space: nowrap; letter-spacing: 0.01em; }
+.num { font-variant-numeric: tabular-nums; }
+h2 { font: 800 clamp(30px, 4.2vw, 42px)/0.95 var(--display); letter-spacing: 0.01em; text-transform: uppercase; margin: 0; text-wrap: balance; }
+h3 { font: 800 22px/1 var(--display); text-transform: uppercase; letter-spacing: 0.02em; margin: 0; }
+.lede { margin: 0; max-width: 68ch; color: var(--muted); }
+.eyebrow { font: 600 12px/1.2 var(--body); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+section { display: grid; gap: 18px; scroll-margin-top: 64px; }
+section > header { display: grid; gap: 8px; }
+
+/* masthead */
+.mast { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 18px 32px; align-items: end; padding-block: 34px 18px; border-bottom: 3px solid var(--ink); }
+.wordmark { font: 900 clamp(54px, 10vw, 112px)/0.82 var(--display); letter-spacing: -0.005em; text-transform: uppercase; margin: 0; }
+.wordmark span { color: var(--accent); }
+.deck { margin: 12px 0 0; max-width: 56ch; font-size: 17px; }
+.edition { display: grid; gap: 4px; text-align: right; font-size: 13.5px; color: var(--muted); }
+.edition b { color: var(--ink); font: 700 15px var(--mono); }
+.nav { display: flex; flex-wrap: wrap; gap: 4px 18px; padding-block: 10px; border-bottom: 1px solid var(--rule); position: sticky; top: env(safe-area-inset-top, 0px); background: var(--paper); z-index: 5; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--paper); }
+.nav a { font: 700 15px/1.6 var(--display); text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); text-decoration: none; }
+.nav a:hover { color: var(--ink); }
+.figs { display: flex; flex-wrap: wrap; gap: 8px 28px; }
+.figs div { display: grid; }
+.figs b { font: 800 30px/1 var(--display); font-variant-numeric: tabular-nums; }
+.figs span { font-size: 12.5px; color: var(--muted); }
+
+/* atlas */
+.plate { background: var(--sheet); border: 1px solid var(--rule); display: grid; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; padding: 12px 14px; border-bottom: 1px solid var(--rule); }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 4px; overflow: hidden; }
+.seg button { font: 600 13px var(--body); padding: 8px 12px; border: 0; background: var(--sheet); color: var(--muted); cursor: pointer; border-left: 1px solid var(--rule); }
+.seg button:first-child { border-left: 0; }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--sheet); }
+select, input[type="search"] { width: auto; font: 14px var(--body); padding: 8px 10px; border: 1px solid var(--rule); border-radius: 4px; background: var(--sheet); color: var(--ink); min-width: 0; max-width: 100%; }
+.toolbar select { flex: 1 1 180px; max-width: 320px; width: 100%; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12.5px; color: var(--muted); align-items: center; margin-left: auto; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 5px; vertical-align: -1px; }
+.mapgrid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; }
+.mapbox { position: relative; min-width: 0; background: var(--sea); }
+.mapbox svg { display: block; width: 100%; height: auto; }
+.mapbox .land { fill: var(--land); }
+.mapbox .borders { fill: none; stroke: var(--edge); stroke-width: 0.6; }
+.mapbox .sphere { fill: var(--sea); }
+.mapbox circle.dot { fill: var(--accent); fill-opacity: 0.55; stroke: var(--accent); stroke-width: 1; cursor: pointer; transition: fill-opacity .15s; }
+.mapbox circle.dot.hot { fill: var(--hot); stroke: var(--hot); fill-opacity: 0.7; }
+.mapbox circle.ring { fill: none; stroke: var(--hot); stroke-width: 2; pointer-events: none; }
+.mapbox circle.dot:hover, .mapbox circle.dot.sel { fill-opacity: 0.9; stroke: var(--ink); stroke-width: 1.5; }
+.tip { position: absolute; pointer-events: none; background: var(--ink); color: var(--sheet); font-size: 12.5px; padding: 6px 9px; border-radius: 3px; white-space: nowrap; transform: translate(-50%, -130%); }
+.mapnote { position: absolute; left: 10px; bottom: 8px; font-size: 11.5px; color: var(--muted); background: color-mix(in srgb, var(--sea) 80%, transparent); padding: 2px 6px; }
+.panel { border-left: 1px solid var(--rule); padding: 14px 16px; display: grid; gap: 12px; align-content: start; min-width: 0; max-height: 560px; overflow: auto; }
+.panel h3 { font-size: 26px; }
+.panel .empty { color: var(--muted); font-size: 14px; }
+.bars { display: grid; gap: 5px; }
+.bar { display: grid; grid-template-columns: minmax(0, 1fr) 34px; gap: 8px; font-size: 13px; align-items: center; }
+.bar .track { height: 6px; background: var(--rule); border-radius: 3px; overflow: hidden; margin-top: 3px; }
+.bar .track span { display: block; height: 100%; background: var(--accent); }
+.mini { display: grid; gap: 8px; }
+.mini div { font-size: 13px; display: grid; gap: 1px; }
+.offmap { border-top: 1px solid var(--rule); padding: 12px 14px; display: grid; gap: 10px; }
+.offmap .row { display: flex; flex-wrap: wrap; gap: 8px; }
+.pill { font-size: 12.5px; padding: 5px 9px; border: 1px solid var(--rule); border-radius: 3px; background: var(--paper); display: inline-flex; gap: 6px; align-items: baseline; max-width: 100%; }
+.pill.hot { border-color: var(--hot); background: var(--hot-soft); }
+.pill b { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 26ch; }
+
+/* chips */
+.op { display: inline-block; font: 700 10.5px/1 var(--mono); letter-spacing: 0.06em; padding: 4px 5px; border-radius: 2px; vertical-align: 1px; }
+.op.ADD { background: var(--add-soft); color: var(--add); }
+.op.SUP { background: var(--sup-soft); color: var(--sup); }
+.op.LIR { background: var(--lir-soft); color: var(--lir); }
+.type { display: inline-flex; gap: 5px; align-items: center; font-size: 12px; font-weight: 600; color: var(--muted); white-space: nowrap; }
+.type::before { content: ""; width: 8px; height: 8px; border-radius: 2px; background: var(--fam, var(--f-other)); }
+.tier { font-size: 11px; color: var(--muted); font-weight: 500; }
+
+/* this issue */
+.cols { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; align-items: start; }
+.col { background: var(--sheet); border: 1px solid var(--rule); border-top: 4px solid var(--c, var(--ink)); display: grid; align-content: start; }
+.col > h3 { padding: 12px 14px 10px; display: flex; justify-content: space-between; align-items: baseline; }
+.col > h3 span { font: 500 13px var(--mono); color: var(--muted); }
+.entry { padding: 12px 14px; border-top: 1px solid var(--rule); display: grid; gap: 4px; }
+.entry .who { font-weight: 600; }
+.entry .meta { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+.entry .was { font-size: 13px; color: var(--muted); }
+.none { padding: 14px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--rule); }
+
+/* cards */
+.card { display: grid; gap: 8px; margin-top: 6px; padding: 10px 12px; background: var(--paper); border-left: 3px solid var(--accent); }
+.card .hl { font-weight: 700; font-size: 15px; line-height: 1.4; text-wrap: pretty; }
+.card ol { margin: 0; padding: 0; list-style: none; display: grid; gap: 7px; }
+.card li { font-size: 13.5px; display: grid; grid-template-columns: 5.6em minmax(0, 1fr); gap: 8px; }
+.ct { font: 700 10px/1.6 var(--mono); letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+.ct.registry { color: var(--add); } .ct.operator { color: var(--accent); } .ct.reported { color: var(--lir); } .ct.inferred { color: var(--sup); }
+.card sup { font-size: 10px; margin-left: 2px; }
+.card sup a { text-decoration: none; }
+.card .srcs { font-size: 12.5px; color: var(--muted); display: grid; gap: 3px; margin: 0; padding-left: 18px; }
+.card .srcs li { display: list-item; font-size: 12.5px; }
+.card details summary { cursor: pointer; font-size: 13px; color: var(--accent); font-weight: 600; }
+
+/* lists and tables */
+.controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.controls input[type="search"] { flex: 1 1 240px; }
+.controls select { flex: 1 1 160px; max-width: 280px; }
+.res { font-size: 13px; color: var(--muted); }
+.tablebox { overflow-x: auto; background: var(--sheet); border: 1px solid var(--rule); }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th { text-align: left; font: 700 12px/1.2 var(--display); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); padding: 10px 12px; border-bottom: 1px solid var(--rule); white-space: nowrap; background: var(--sheet); }
+td { padding: 9px 12px; border-top: 1px solid var(--rule); vertical-align: top; }
+tbody tr:first-child td { border-top: 0; }
+td .sub { display: block; color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+tr.reg { cursor: pointer; }
+tr.reg:hover td { background: var(--accent-soft); }
+tr.hist td { background: var(--paper); }
+.hist ol { margin: 0; padding: 2px 0 4px 18px; display: grid; gap: 3px; font-size: 13px; }
+.status { font-size: 12px; font-weight: 700; }
+.status.active { color: var(--add); }
+.status.withdrawn { color: var(--sup); }
+.btn { font: 600 13px var(--body); padding: 8px 14px; border: 1px solid var(--rule); border-radius: 4px; background: var(--sheet); color: var(--accent); cursor: pointer; }
+
+/* archive */
+.archive { display: grid; gap: 0; background: var(--sheet); border: 1px solid var(--rule); }
+.archive details { border-top: 1px solid var(--rule); }
+.archive details:first-child { border-top: 0; }
+.archive summary { list-style: none; cursor: pointer; padding: 12px 14px; display: grid; grid-template-columns: 90px 130px minmax(0, 1fr); gap: 12px; align-items: baseline; }
+.archive summary::-webkit-details-marker { display: none; }
+.archive summary b { font: 800 20px var(--display); }
+.archive summary .d { color: var(--muted); font-size: 13.5px; }
+.archive summary .tally { display: flex; flex-wrap: wrap; gap: 6px; font-size: 13px; color: var(--muted); align-items: center; }
+.archive details[open] summary { background: var(--accent-soft); }
+.archive .body { padding: 4px 14px 14px; display: grid; gap: 10px; }
+.archive .grp { display: grid; gap: 4px; }
+.archive .grp h4 { margin: 8px 0 2px; font: 800 15px var(--display); text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); }
+.archive .ln { display: grid; grid-template-columns: 7.5em minmax(0, 1fr); gap: 2px 12px; font-size: 14px; }
+.archive .ln .sub { color: var(--muted); font-size: 12.5px; }
+.archive pre { margin: 0; padding: 10px 12px; background: var(--paper); font: 12px/1.5 var(--mono); overflow-x: auto; }
+
+/* coverage */
+.prose { background: var(--sheet); border: 1px solid var(--rule); padding: 22px 24px; display: grid; gap: 14px; }
+.prose p, .prose li { margin: 0; max-width: 70ch; }
+.prose ul { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
+.prose h3 { margin-top: 10px; }
+.two { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+footer.foot { border-top: 3px solid var(--ink); padding-top: 16px; display: grid; gap: 8px; font-size: 13.5px; color: var(--muted); }
+
+@media (max-width: 900px) {
+  .mapgrid { grid-template-columns: minmax(0, 1fr); }
+  .panel { border-left: 0; border-top: 1px solid var(--rule); max-height: none; }
+  .cols, .two { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 640px) {
+  .mast { grid-template-columns: minmax(0, 1fr); }
+  .edition { text-align: left; }
+  .legend { margin-left: 0; }
+  .archive summary { grid-template-columns: 70px minmax(0, 1fr); }
+  .archive summary .d { display: none; }
+  td.hn, th.hn { display: none; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <div>
+      <h1 class="wordmark">New <span>Networks</span></h1>
+      <p class="deck">Mobile network codes assigned and withdrawn around the world, read from the ITU Operational Bulletin twice a month and checked against national registries.</p>
+    </div>
+    <div class="edition" id="edition"></div>
+  </header>
+  <nav class="nav" aria-label="Sections">
+    <a href="#atlas">Atlas</a><a href="#issue">This issue</a><a href="#ahead">Ahead of the ITU</a><a href="#register">Register</a><a href="#archive">Archive</a><a href="#coverage">Coverage</a>
+  </nav>
+
+  <section id="atlas" aria-label="Atlas">
+    <div class="figs" id="figs"></div>
+    <div class="plate">
+      <div class="toolbar">
+        <div class="seg" id="view" role="group" aria-label="Map view">
+          <button data-v="all" aria-pressed="true">All activity</button>
+          <button data-v="issue" aria-pressed="false">This issue</button>
+          <button data-v="type" aria-pressed="false">Network type</button>
+        </div>
+        <select id="typepick" aria-label="Network type" hidden></select>
+        <select id="countrypick" aria-label="Choose a country"><option value="">Choose a country…</option></select>
+        <div class="legend" id="legend"></div>
+      </div>
+      <div class="mapgrid">
+        <div class="mapbox" id="mapbox">
+          <svg id="map" role="img" aria-label="World map of mobile network code activity"></svg>
+          <div class="tip" id="tip" hidden></div>
+          <div class="mapnote" id="mapnote"></div>
+        </div>
+        <aside class="panel" id="panel" aria-live="polite"></aside>
+      </div>
+      <div class="offmap" id="offmap"></div>
+    </div>
+  </section>
+
+  <section id="issue">
+    <header>
+      <div class="eyebrow" id="issue-eyebrow"></div>
+      <h2 id="issue-title">This issue</h2>
+      <p class="lede" id="issue-lede"></p>
+    </header>
+    <div class="cols" id="issue-cols"></div>
+  </section>
+
+  <section id="ahead">
+    <header>
+      <div class="eyebrow">First sightings</div>
+      <h2>Ahead of the ITU</h2>
+      <p class="lede">Codes a national regulator has assigned that the ITU list does not show yet. Each one is logged here at its first sighting; when the ITU publishes it, the bulletin notice is added to the same entry. Newest first.</p>
+    </header>
+    <div class="tablebox"><table>
+      <thead><tr><th>Code</th><th>Holder</th><th class="hn">Type</th><th>Assigned nationally</th></tr></thead>
+      <tbody id="ahead-body"></tbody>
+    </table></div>
+    <div id="ahead-more"></div>
+  </section>
+
+  <section id="register">
+    <header>
+      <div class="eyebrow">Every code since November 2023</div>
+      <h2>Register</h2>
+      <p class="lede">The ITU list as it stood on 15 November 2023, with every amendment since applied in order. Select a row for its history.</p>
+    </header>
+    <div class="controls">
+      <input type="search" id="rg-q" placeholder="Search holder, country or code, e.g. 262 74" aria-label="Search the register">
+      <div class="seg" id="rg-status" role="group" aria-label="Status">
+        <button data-v="active" aria-pressed="true">Active</button>
+        <button data-v="withdrawn" aria-pressed="false">Withdrawn</button>
+        <button data-v="" aria-pressed="false">All</button>
+      </div>
+      <select id="rg-type" aria-label="Network type"><option value="">All types</option></select>
+      <select id="rg-country" aria-label="Country or range"><option value="">All countries and ranges</option></select>
+    </div>
+    <div class="res" id="rg-res"></div>
+    <div class="tablebox"><table>
+      <thead><tr><th>Code</th><th>Holder</th><th class="hn">Country or range</th><th>Type</th><th>Status</th></tr></thead>
+      <tbody id="rg-body"></tbody>
+    </table></div>
+    <div id="rg-more"></div>
+  </section>
+
+  <section id="archive">
+    <header>
+      <div class="eyebrow">Issue by issue</div>
+      <h2>Archive</h2>
+      <p class="lede">Every Operational Bulletin since the 2023 list, newest first. Bulletins with no change to the mobile network codes are listed too, so the run is complete.</p>
+    </header>
+    <div class="archive" id="archive-list"></div>
+  </section>
+
+  <section id="coverage">
+    <header>
+      <div class="eyebrow">What this can and cannot see</div>
+      <h2>Coverage and method</h2>
+    </header>
+    <div class="two">
+      <div class="prose">
+        <h3>The source</h3>
+        <p>The ITU keeps the international list of mobile network codes under Recommendation E.212. It published the full list as it stood on 15 November 2023 as an annex to Operational Bulletin No. 1280, and every bulletin since carries numbered amendments. New Networks reads each bulletin from its PDF, applies the amendments in order, and logs the bureau's notes on the shared international ranges, which carry the effective dates the amendments omit.</p>
+        <h3>What the ITU list misses</h3>
+        <ul>
+          <li>It holds only what national administrations notify. Some notify promptly, some in batches, some rarely.</li>
+          <li>Most virtual operators never get a code of their own; they run on their host network's code, so they are invisible here unless they run their own core.</li>
+          <li>Many private networks use shared codes. In the United States, CBRS networks share one code, 315-010, and are told apart by a sub-number the ITU never sees.</li>
+          <li>Dates are bulletin dates, which trail the regulator's decision by weeks or months.</li>
+        </ul>
+        <h3>Network types</h3>
+        <p>Every code carries a type and a mark showing where the type came from. <b>●</b> the register or a regulator states it. <b>◐</b> the holder's own name says it, such as a railway or a power company. <b>○</b> it is inferred from what is known about the holder, and about one in twenty of these may be arguable. Codes that fit none of these are left unclassified.</p>
+        <h3>Cards</h3>
+        <p>Changes worth explaining get a researched card. Each point on a card is marked with where it comes from: <span class="ct registry">registry</span> the bulletin or a national registry, <span class="ct operator">operator</span> the operator's own statement, <span class="ct reported">reported</span> a named news outlet, or <span class="ct inferred">inferred</span> for anything unconfirmed. A card's headline never rests on an inferred point. Defence and police holders get only what the registries state.</p>
+        <h3>Terms</h3>
+        <p><span class="op ADD">ADD</span> assigned, a code added to the list. <span class="op SUP">SUP</span> withdrawn. <span class="op LIR">LIR</span> amended, from the French <i>lire</i>, read instead.</p>
+      </div>
+      <div class="prose">
+        <h3>National cross-check</h3>
+        <p id="nat-intro"></p>
+        <div class="tablebox" style="border:0"><table>
+          <thead><tr><th>Registry</th><th>Agree</th><th>Missing from ITU</th><th>Stale in ITU</th><th>Holder differs</th></tr></thead>
+          <tbody id="nat-sum"></tbody>
+        </table></div>
+        <h3>Not checked</h3>
+        <ul id="nat-not"></ul>
+        <h3>Open questions</h3>
+        <ul id="nat-flags"></ul>
+      </div>
+    </div>
+  </section>
+
+  <footer class="foot">
+    <div id="foot-built"></div>
+    <div>Spotted an error? <a id="foot-correct" href="#" target="_blank" rel="noopener">Report a correction</a>. Corrections are logged in the open on GitHub.</div>
+    <div>Sources: <a href="https://www.itu.int/pub/T-SP/e" target="_blank" rel="noopener">ITU Operational Bulletin</a> and the national registries listed under Coverage.</div>
+  </footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+const S = DATA.stats, T = DATA.types, G = DATA.geo;
+const REPO = "https://github.com/nickcarbone/new-networks";
+const fmt = n => n.toLocaleString("en-GB");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+const MONL = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const dfmt = iso => { if (!iso) return ""; const [y, m, d] = iso.split("-"); return `${+d} ${MON[+m - 1]} ${y}`; };
+const dlong = iso => { if (!iso) return ""; const [y, m, d] = iso.split("-"); return `${+d} ${MONL[+m - 1]} ${y}`; };
+const OPN = { ADD: "Assigned", SUP: "Withdrawn", LIR: "Amended" };
+const SCOPE = { international: "International 901", trial: "Trial 991", roio_sdo: "Shared 902" };
+const where = (c, s) => (s && s !== "geographic") ? SCOPE[s] : c;
+const FAMILY = {
+  mno: "public", mvno: "public", operator: "public",
+  iot: "special", satellite: "special", maritime_aviation: "special", messaging: "special", carrier_services: "special",
+  utility: "infra", transport: "infra", public_safety: "infra", government: "infra", community: "infra", private: "infra",
+  research: "research", vendor_test: "research", trial: "research", reserved: "other", unclassified: "other",
+};
+const TIER = { stated: ["●", "stated by the register or regulator"], name: ["◐", "from the holder's name"], inferred: ["○", "inferred from what is known about the holder"], reported: ["◆", "from a researched card citing a named outlet"] };
+const CT = DATA.card_tiers || {};
+function cardHTML(id, open) {
+  const k = DATA.cards[id]; if (!k) return "";
+  const claims = k.claims.map(cl => `<li><span class="ct ${cl.t}" title="${esc(CT[cl.t])}">${esc(cl.t)}</span><span>${esc(cl.text)}${cl.src.map(i => `<sup><a href="${esc(k.sources[i].url)}" target="_blank" rel="noopener" title="${esc(k.sources[i].outlet)}">${i + 1}</a></sup>`).join("")}</span></li>`).join("");
+  const srcs = k.sources.map((x, i) => `<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>, ${esc(x.outlet)}${x.date ? ", " + dfmt(x.date) : ""}</li>`).join("");
+  return `<div class="card"><div class="hl">${esc(k.headline)}</div><details${open ? " open" : ""}><summary>${k.claims.length} sourced points</summary><ol>${claims}</ol><ol class="srcs" style="list-style:decimal;margin-top:8px">${srcs}</ol></details></div>`;
+}
+const typeChip = (t, tier) => `<span class="type" style="--fam:var(--f-${FAMILY[t] || "other"})" title="${esc(T[t] || t)}${tier ? ", " + TIER[tier][1] : ""}">${esc(T[t] || t)}${tier ? ` <span class="tier">${TIER[tier][0]}</span>` : ""}</span>`;
+const correctLink = (code, holder) => `${REPO}/issues/new?template=correction.yml&title=${encodeURIComponent("Correction: " + code)}&code=${encodeURIComponent(code)}&holder=${encodeURIComponent(holder || "")}`;
+
+const C = DATA.changes, RG = DATA.register;
+const latest = S.latest;
+const NAMES = {}; RG.forEach(r => { if (r[3] === "geographic" && r[10]) NAMES[r[10]] = r[2]; });
+
+/* ---------- masthead ---------- */
+const next = DATA.schedule.find(x => x.i > latest);
+document.getElementById("edition").innerHTML =
+  `<span>Current to</span><b>No. ${latest} · ${dfmt(S.latest_date)}</b>` +
+  (next ? `<span>Next bulletin No. ${next.i}, due ${dfmt(next.pub)}</span>` : "");
+document.getElementById("figs").innerHTML = [
+  [fmt(S.active), "codes active"],
+  [fmt(S.changes), "changes since Nov 2023"],
+  [fmt(S.ops.ADD || 0), "assigned"],
+  [fmt(S.ops.SUP || 0), "withdrawn"],
+  [fmt(DATA.ahead.length), "ahead of the ITU"],
+].map(([b, s]) => `<div><b>${b}</b><span>${s}</span></div>`).join("");
+document.getElementById("foot-built").textContent = `Built ${dlong(S.built)} from Operational Bulletins Nos. 1281 to ${latest} and ${Object.keys(DATA.nat.summary).length} national registries.`;
+document.getElementById("foot-correct").href = correctLink("(general)", "");
+
+/* ---------- atlas ---------- */
+const svg = document.getElementById("map");
+svg.setAttribute("viewBox", `0 0 ${G.w} ${G.h}`);
+svg.innerHTML = `<path class="sphere" d="${G.sphere}"></path><path class="land" d="${G.land}"></path><path class="borders" d="${G.borders}"></path><g id="dots"></g>`;
+const dots = document.getElementById("dots");
+const tip = document.getElementById("tip");
+const panel = document.getElementById("panel");
+const state = { view: "all", type: "private", sel: null };
+
+const typesByCount = (() => {
+  const c = {}; RG.forEach(r => { if (r[5] === "active" && r[3] === "geographic") c[r[6]] = (c[r[6]] || 0) + 1; });
+  return Object.keys(T).filter(t => c[t] && t !== "unclassified" && t !== "reserved").sort((a, b) => c[b] - c[a]).map(t => [t, c[t]]);
+})();
+const tp = document.getElementById("typepick");
+tp.innerHTML = typesByCount.map(([t, n]) => `<option value="${t}"${t === state.type ? " selected" : ""}>${esc(T[t])} (${n})</option>`).join("");
+const cp = document.getElementById("countrypick");
+cp.insertAdjacentHTML("beforeend", Object.entries(NAMES).sort((a, b) => a[1].localeCompare(b[1], "en")).map(([a3, n]) => `<option value="${a3}">${esc(n)}</option>`).join(""));
+
+function countsFor(view) {
+  const m = {};
+  if (view === "all") C.forEach(c => { if (c.s === "geographic" && c.a3) m[c.a3] = (m[c.a3] || 0) + 1; });
+  if (view === "issue") C.forEach(c => { if (c.s === "geographic" && c.a3 && c.i === latest) m[c.a3] = (m[c.a3] || 0) + 1; });
+  if (view === "type") RG.forEach(r => { if (r[5] === "active" && r[3] === "geographic" && r[6] === state.type && r[10]) m[r[10]] = (m[r[10]] || 0) + 1; });
+  return m;
+}
+const inIssue = new Set(C.filter(c => c.i === latest && c.s === "geographic").map(c => c.a3));
+function renderMap() {
+  const m = countsFor(state.view);
+  const max = Math.max(1, ...Object.values(m));
+  const k = (state.view === "issue" ? 9 : 26) / Math.sqrt(max);
+  const items = Object.entries(m).filter(([a3]) => G.pts[a3]).sort((a, b) => b[1] - a[1]);
+  dots.innerHTML = items.map(([a3, n]) => {
+    const [x, y] = G.pts[a3];
+    const r = Math.max(state.view === "issue" ? 6 : 2.6, Math.sqrt(n) * k);
+    const hot = state.view === "issue";
+    const ring = state.view === "all" && inIssue.has(a3) ? `<circle class="ring" cx="${x}" cy="${y}" r="${(r + 3).toFixed(1)}"></circle>` : "";
+    return `${ring}<circle class="dot${hot ? " hot" : ""}${state.sel === a3 ? " sel" : ""}" data-a3="${a3}" data-n="${n}" cx="${x}" cy="${y}" r="${r.toFixed(1)}"></circle>`;
+  }).join("");
+  const lg = document.getElementById("legend");
+  const note = document.getElementById("mapnote");
+  if (state.view === "all") {
+    lg.innerHTML = `<span><i style="background:var(--accent)"></i>Changes since Nov 2023</span><span><i style="background:transparent;border:2px solid var(--hot);width:12px;height:12px"></i>Also in No. ${latest}</span>`;
+    note.textContent = `Circle area shows the number of changes. ${items.length} countries.`;
+  } else if (state.view === "issue") {
+    lg.innerHTML = `<span><i style="background:var(--hot)"></i>Changes in No. ${latest}</span>`;
+    note.textContent = `No. ${latest}, ${dfmt(S.latest_date)}. ${items.length} countries, plus any shared international codes below.`;
+  } else {
+    lg.innerHTML = `<span><i style="background:var(--accent)"></i>Active codes: ${esc(T[state.type])}</span>`;
+    note.textContent = `${fmt(Object.values(m).reduce((a, b) => a + b, 0))} active codes in ${items.length} countries.`;
+  }
+  renderOffmap();
+}
+function showPanel(a3) {
+  state.sel = a3;
+  dots.querySelectorAll(".dot").forEach(d => d.classList.toggle("sel", d.dataset.a3 === a3));
+  cp.value = a3 || "";
+  if (!a3) {
+    panel.innerHTML = `<div class="eyebrow">Atlas</div><h3>Select a country</h3><p class="empty">Each circle is a country with mobile network code activity. Select one, or choose from the list, to see its codes by type and its recent changes.</p>
+      <div class="mini">${C.filter(c => c.i === latest).slice(0, 8).map(c => `<div><span><span class="op ${c.op}">${c.op}</span> <span class="code">${c.mcc} ${c.mnc}</span> ${esc(where(c.c, c.s))}</span><span>${esc(c.n)}</span></div>`).join("")}</div>`;
+    return;
+  }
+  const name = NAMES[a3] || a3;
+  const act = RG.filter(r => r[10] === a3 && r[5] === "active");
+  const byType = {}; act.forEach(r => byType[r[6]] = (byType[r[6]] || 0) + 1);
+  const bt = Object.entries(byType).sort((a, b) => b[1] - a[1]);
+  const mx = Math.max(1, ...bt.map(x => x[1]));
+  const ch = C.filter(c => c.a3 === a3).sort((a, b) => b.i - a.i);
+  const ah = DATA.ahead.filter(a => a.a3 === a3);
+  panel.innerHTML = `<div class="eyebrow">${act.length} active code${act.length === 1 ? "" : "s"}</div><h3>${esc(name)}</h3>
+    <div class="bars">${bt.map(([t, n]) => `<div class="bar"><div>${typeChip(t)}<div class="track"><span style="width:${(100 * n / mx).toFixed(0)}%;background:var(--f-${FAMILY[t] || "other"})"></span></div></div><div class="num" style="text-align:right">${n}</div></div>`).join("")}</div>
+    <div class="eyebrow">${ch.length} change${ch.length === 1 ? "" : "s"} since Nov 2023</div>
+    <div class="mini">${ch.slice(0, 10).map(c => `<div><span><span class="op ${c.op}">${c.op}</span> <span class="code">${c.mcc} ${c.mnc}</span> · No. ${c.i}</span><span>${esc(c.n)}</span></div>`).join("") || '<p class="empty">None.</p>'}</div>
+    ${ah.length ? `<div class="eyebrow">${ah.length} ahead of the ITU</div><div class="mini">${ah.slice(0, 6).map(a => `<div><span class="code">${a.mcc} ${a.mnc}</span><span>${esc(a.n)}</span></div>`).join("")}</div>` : ""}
+    <a href="#register" data-country="${esc(name)}" class="jump">See all ${esc(name)} codes in the register</a>`;
+}
+panel.addEventListener("click", e => {
+  const a = e.target.closest("a.jump"); if (!a) return;
+  rg.country = a.dataset.country; document.getElementById("rg-country").value = a.dataset.country; rg.limit = 200; rgRender();
+});
+dots.addEventListener("pointerover", e => {
+  const d = e.target.closest(".dot"); if (!d) return;
+  const n = +d.dataset.n, a3 = d.dataset.a3;
+  const unit = state.view === "type" ? "active code" : "change";
+  tip.textContent = `${NAMES[a3] || a3}: ${n} ${unit}${n === 1 ? "" : "s"}`;
+  const box = svg.getBoundingClientRect(), sc = box.width / G.w;
+  tip.style.left = `${+d.getAttribute("cx") * sc}px`; tip.style.top = `${+d.getAttribute("cy") * sc}px`;
+  tip.hidden = false;
+});
+dots.addEventListener("pointerout", () => { tip.hidden = true; });
+dots.addEventListener("click", e => { const d = e.target.closest(".dot"); if (d) showPanel(d.dataset.a3); });
+cp.addEventListener("change", e => showPanel(e.target.value || null));
+seg("view", v => { state.view = v; tp.hidden = v !== "type"; renderMap(); });
+tp.addEventListener("change", e => { state.type = e.target.value; renderMap(); });
+
+function renderOffmap() {
+  const shared = C.filter(c => c.s !== "geographic");
+  const pick = state.view === "issue" ? shared.filter(c => c.i === latest) : shared;
+  const extra = DATA.notes.filter(n => n.k === "extra_territorial");
+  const recent = pick.slice().sort((a, b) => b.i - a.i).slice(0, state.view === "issue" ? 20 : 14);
+  document.getElementById("offmap").innerHTML = `
+    <div class="eyebrow">Off the map: shared international codes · ${pick.length} change${pick.length === 1 ? "" : "s"}${state.view === "issue" ? ` in No. ${latest}` : " since Nov 2023"}</div>
+    <div class="row">${recent.map(c => `<span class="pill${c.i === latest ? " hot" : ""}"><span class="op ${c.op}">${c.op}</span><span class="code">${c.mcc} ${c.mnc}</span><b title="${esc(c.n)}">${esc(c.n)}</b></span>`).join("") || '<span class="res">None in this issue.</span>'}</div>
+    <div class="eyebrow">Codes used outside their home country</div>
+    <div class="row">${extra.map(n => `<span class="pill${n.i === latest ? " hot" : ""}"><span class="code">${esc(n.codes.join(", "))}</span><b>No. ${n.i}</b></span>`).join("")}</div>`;
+}
+renderMap(); showPanel(null);
+
+/* ---------- this issue ---------- */
+const cur = C.filter(c => c.i === latest);
+const curIss = DATA.issues.find(x => x.i === latest);
+document.getElementById("issue-eyebrow").textContent = `Operational Bulletin No. ${latest} · ${dlong(S.latest_date)}`;
+document.getElementById("issue-title").textContent = `No. ${latest}`;
+document.getElementById("issue-lede").textContent = cur.length
+  ? `${cur.length} change${cur.length === 1 ? "" : "s"} to the mobile network codes${curIss && curIss.am.length ? `, published as Amendment No. ${curIss.am.join(" and ")}` : ""}.`
+  : "No change to the mobile network codes in this bulletin.";
+const COLC = { ADD: "var(--add)", SUP: "var(--sup)", LIR: "var(--lir)" };
+function entryHTML(c) {
+  const bits = [];
+  if (c.reissued) bits.push(`Reissued; previously ${esc(c.prev)}`);
+  else if (c.op === "LIR" && c.prev) bits.push(`Was: ${esc(c.prev)}`);
+  if (c.undoc) bits.push(`The register last showed ${esc(c.undoc)}`);
+  if (c.eff) bits.push(`Effective ${dfmt(c.eff)}`);
+  if (c.note) bits.push(esc(c.note));
+  if (c.sighted) bits.push(`First sighted in the national registry on ${dfmt(c.sighted.first_seen)}${c.sighted.nat_date ? ` (assigned ${dfmt(c.sighted.nat_date)})` : ""}, ${c.sighted.gap} days before this bulletin`);
+  return `<div class="entry">
+    <div class="meta"><span class="code" style="color:var(--ink);font-size:15px">${c.mcc} ${c.mnc}</span><span>${esc(where(c.c, c.s))}</span></div>
+    <div class="who">${esc(c.n)}</div>
+    <div class="meta">${typeChip(c.t, c.tt)}<a href="${correctLink(c.mcc + " " + c.mnc, c.n)}" target="_blank" rel="noopener">Correct this</a></div>
+    ${bits.length ? `<div class="was">${bits.join(" · ")}</div>` : ""}
+    ${c.card ? (SHOWN.has(c.card) ? `<div class="was">Card shown with ${esc(SHOWN.get(c.card))}</div>` : (SHOWN.set(c.card, c.mcc + " " + c.mnc), cardHTML(c.card, false))) : ""}
+  </div>`;
+}
+const SHOWN = new Map();
+document.getElementById("issue-cols").innerHTML = ["ADD", "SUP", "LIR"].map(op => {
+  const items = cur.filter(c => c.op === op);
+  return `<div class="col" style="--c:${COLC[op]}"><h3>${OPN[op]}<span>${items.length}</span></h3>${items.map(entryHTML).join("") || `<div class="none">None in this issue.</div>`}</div>`;
+}).join("");
+
+/* ---------- ahead of the ITU ---------- */
+const REGN = Object.fromEntries(Object.entries(DATA.nat.meta).map(([k, v]) => [k, v.name]));
+let aheadLimit = 25;
+function aheadRender() {
+  document.getElementById("ahead-body").innerHTML = DATA.ahead.slice(0, aheadLimit).map(a => `<tr>
+    <td class="code">${a.mcc} ${a.mnc}<span class="sub" style="font-family:var(--body)">${esc(a.c)}</span></td>
+    <td>${esc(a.n)}</td><td class="hn">${typeChip(a.t, a.tt)}</td>
+    <td class="num">${a.d ? dfmt(a.d) : "Date not given"}<span class="sub">${esc((REGN[a.reg] || "").split(",")[0].split(" (")[0])}${a.fs ? ` · first seen here ${dfmt(a.fs)}` : ""}</span></td></tr>`).join("");
+  document.getElementById("ahead-more").innerHTML = DATA.ahead.length > aheadLimit ? `<button class="btn" id="ahead-b">Show all ${DATA.ahead.length}</button>` : "";
+  const b = document.getElementById("ahead-b"); if (b) b.onclick = () => { aheadLimit = 1e9; aheadRender(); };
+}
+aheadRender();
+
+/* ---------- register ---------- */
+const rg = { q: "", status: "active", type: "", country: "", limit: 200, open: new Set() };
+const EV = { baseline: "In the 2023 list", assigned: "Assigned", withdrawn: "Withdrawn", reassigned: "Reissued", amended: "Amended", amended_unbased: "Amended" };
+const placeOf = r => r[3] === "geographic" ? r[2] : SCOPE[r[3]];
+document.getElementById("rg-type").insertAdjacentHTML("beforeend", Object.entries(T).map(([k, v]) => `<option value="${k}">${esc(v)}</option>`).join(""));
+document.getElementById("rg-country").insertAdjacentHTML("beforeend", [...new Set(RG.map(placeOf))].sort((a, b) => a.localeCompare(b, "en")).map(c => `<option>${esc(c)}</option>`).join(""));
+function rgRender() {
+  const q = rg.q.toLowerCase().replace(/\s+/g, " ").trim();
+  const rows = RG.filter(r => (!rg.status || r[5] === rg.status) && (!rg.type || r[6] === rg.type) && (!rg.country || placeOf(r) === rg.country) &&
+    (!q || `${r[0]} ${r[1]} ${r[0]}${r[1]} ${r[2]} ${r[4]} ${r[9].map(h => h[3]).join(" ")}`.toLowerCase().includes(q)));
+  document.getElementById("rg-res").textContent = `${fmt(rows.length)} code${rows.length === 1 ? "" : "s"}`;
+  document.getElementById("rg-body").innerHTML = rows.slice(0, rg.limit).map(r => {
+    const k = r[0] + r[1] + r[2], open = rg.open.has(k);
+    let h = `<tr class="reg" tabindex="0" data-k="${esc(k)}" aria-expanded="${open}">
+      <td class="code">${r[0]} ${r[1]}</td><td>${esc(r[4])}</td><td class="hn">${esc(placeOf(r))}</td>
+      <td>${typeChip(r[6], r[7])}</td><td><span class="status ${r[5]}">${r[5] === "active" ? "Active" : "Withdrawn"}</span></td></tr>`;
+    if (open) h += `<tr class="hist"><td></td><td colspan="4"><ol>${r[9].map(e => `<li><b>${EV[e[0]]}</b> · No. ${e[1]}, ${dfmt(e[2])} · ${esc(e[3])}</li>`).join("")}</ol>
+      <span class="sub">Type: ${esc(T[r[6]])}${r[8] ? ` (${esc(r[8])})` : ""} · <a href="${correctLink(r[0] + " " + r[1], r[4])}" target="_blank" rel="noopener">Correct this</a></span></td></tr>`;
+    return h;
+  }).join("");
+  const more = document.getElementById("rg-more");
+  more.innerHTML = rows.length > rg.limit ? `<button class="btn" id="rg-b">Show ${fmt(Math.min(400, rows.length - rg.limit))} more</button>` : "";
+  const b = document.getElementById("rg-b"); if (b) b.onclick = () => { rg.limit += 400; rgRender(); };
+}
+const rgBody = document.getElementById("rg-body");
+const toggle = tr => { const k = tr.dataset.k; rg.open.has(k) ? rg.open.delete(k) : rg.open.add(k); rgRender(); };
+rgBody.addEventListener("click", e => { if (e.target.closest("a")) return; const tr = e.target.closest("tr.reg"); if (tr) toggle(tr); });
+rgBody.addEventListener("keydown", e => { if ((e.key === "Enter" || e.key === " ") && e.target.matches("tr.reg")) { e.preventDefault(); toggle(e.target); } });
+document.getElementById("rg-q").addEventListener("input", e => { rg.q = e.target.value; rg.limit = 200; rgRender(); });
+document.getElementById("rg-type").addEventListener("change", e => { rg.type = e.target.value; rg.limit = 200; rgRender(); });
+document.getElementById("rg-country").addEventListener("change", e => { rg.country = e.target.value; rg.limit = 200; rgRender(); });
+seg("rg-status", v => { rg.status = v; rg.limit = 200; rgRender(); });
+rgRender();
+
+/* ---------- archive ---------- */
+const ASHOWN = new Set();
+const KIND = { international_mobile: "International 901 range", trial: "Trial 991 range", extra_territorial: "Extra-territorial use" };
+document.getElementById("archive-list").innerHTML = DATA.issues.map((iss, idx) => {
+  const ch = C.filter(c => c.i === iss.i);
+  const nt = DATA.notes.filter(n => n.i === iss.i);
+  const tally = ["ADD", "SUP", "LIR"].map(op => { const n = ch.filter(c => c.op === op).length; return n ? `<span><span class="op ${op}">${op}</span> ${n}</span>` : ""; }).join("");
+  const body = ch.length || nt.length ? ["ADD", "SUP", "LIR"].map(op => {
+    const it = ch.filter(c => c.op === op); if (!it.length) return "";
+    return `<div class="grp"><h4>${OPN[op]}</h4>${it.map(c => `<div class="ln"><span class="code">${c.mcc} ${c.mnc}</span><span>${esc(c.n)} <span class="sub">· ${esc(where(c.c, c.s))}${c.prev && (c.op === "LIR" || c.reissued) ? ` · ${c.reissued ? "previously" : "was"} ${esc(c.prev)}` : ""}</span>${c.card && !ASHOWN.has(c.card) ? (ASHOWN.add(c.card), cardHTML(c.card, false)) : ""}</span></div>`).join("")}</div>`;
+  }).join("") + nt.map(n => `<div class="grp"><h4>Bureau note: ${KIND[n.k]}</h4><pre>${esc(n.t)}</pre></div>`).join("")
+    : `<p class="res">No change to the mobile network codes.</p>`;
+  return `<details${idx === 0 ? " open" : ""}><summary><b>No. ${iss.i}</b><span class="d">${dfmt(iss.d)}</span><span class="tally">${tally || "No MNC changes"}${iss.am.length ? `<span>· Amendment ${iss.am.join(", ")}</span>` : ""}</span></summary><div class="body">${body}</div></details>`;
+}).join("");
+
+/* ---------- coverage ---------- */
+const NAT = DATA.nat;
+const regs = Object.entries(NAT.summary);
+document.getElementById("nat-intro").textContent = `${regs.length} national registries are compared with the ITU list code by code. Where a regulator has assigned a code the ITU does not show, it appears under Ahead of the ITU. ${NAT.cbrs.length} private CBRS networks in the United States share one code and are counted separately. ${NAT.hk_trunk} trunk radio codes that Hong Kong lists alongside its mobile codes are out of scope.`;
+document.getElementById("nat-sum").innerHTML = regs.map(([id, s]) => `<tr><td>${esc(s.country)}<span class="sub">${esc(NAT.meta[id].name)}</span></td>
+  <td class="num">${s.same || 0}</td><td class="num">${s.national_only || 0}</td><td class="num">${s.itu_only || 0}</td><td class="num">${s.holder_differs || 0}</td></tr>`).join("");
+document.getElementById("nat-not").innerHTML = NAT.not_checked.map(n => `<li><b>${esc(n.c)}</b> (${esc(n.who)}). ${esc(n.why)}</li>`).join("");
+document.getElementById("nat-flags").innerHTML = NAT.flags.map(f => `<li><span class="code">${f.mcc} ${f.mnc}</span>. ${esc(f.text)}</li>`).join("");
+
+function seg(id, cb) {
+  const el = document.getElementById(id);
+  el.addEventListener("click", e => {
+    const b = e.target.closest("button"); if (!b) return;
+    el.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b));
+    cb(b.dataset.v);
+  });
+}
+</script>
