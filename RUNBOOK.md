@@ -50,15 +50,15 @@ New Networks is a slow gazette of mobile network codes (MNCs) assigned and withd
 
 ## Notifications
 
-The person who owns this does not want routine alerts. End the run with a summary, and make it a one-line "no action needed" unless one of these happened:
+The person who owns this does not want routine alerts. Send a push notification with the PushNotification tool (status "proactive") only if one of these happened:
 
 - validation failed;
 - a step errored;
-- a bulletin is overdue;
+- a bulletin is more than 10 days past its due date;
 - the UK file could not be read;
-- a registry download failed twice in a row.
+- a registry download failed on two consecutive runs.
 
-In any of those cases, state the problem plainly at the top of the summary so it triggers the notification.
+Start the message with "New Networks: " and state the problem plainly. Otherwise send nothing. Either way, end the run with a short summary: what was found, what was committed, and any problem.
 
 ## Files
 
